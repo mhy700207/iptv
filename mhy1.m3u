@@ -97,48 +97,6 @@ https://fsv4.yj011.net/sat/md031.flv
 https://fsv4.yj011.net/sat/md041.flv
 #EXTINF:-1 group-title="港台频道",博斯運動
 https://fsv4.yj011.net/sat/md051.flv
-#EXTINF:-1 group-title="港台频道",凤凰香港
-http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
-#EXTINF:-1 group-title="港台频道",中天娱乐台
-http://162.19.247.76:22222/live/ztyl/index.m3u8
-#EXTINF:-1 group-title="港台频道",中天亚洲台
-http://162.19.247.76:22222/live/ztyz/index.m3u8
-#EXTINF:-1 group-title="港台频道",台视
-http://162.19.247.76:22222/live/taishi/index.m3u8
-#EXTINF:-1 group-title="港台频道",中视
-http://162.19.247.76:22222/live/zhongshi/index.m3u8
-#EXTINF:-1 group-title="港台频道",东森戏剧台
-http://162.19.247.76:22222/live/dsxj/index.m3u8
-#EXTINF:-1 group-title="港台频道",东森电影台
-http://162.19.247.76:22222/live/dsdyt/index.m3u8
-#EXTINF:-1 group-title="港台频道",东森洋片台
-http://162.19.247.76:22222/live/dsypt/index.m3u8
-#EXTINF:-1 group-title="港台频道",东森电影
-http://162.19.247.76:22222/live/dsdyt/index.m3u8
-#EXTINF:-1 group-title="港台频道",东森洋片
-http://162.19.247.76:22222/live/dsypt/index.m3u8
-#EXTINF:-1 group-title="港台频道",东森戏剧
-http://162.19.247.76:22222/live/dsxj/index.m3u8
-#EXTINF:-1 group-title="港台频道",中天娱乐
-http://162.19.247.76:22222/live/ztyl/index.m3u8
-#EXTINF:-1 group-title="港台频道",東森電影
-http://103.112.191.9:880/LAOSAT1017.m3u8
-#EXTINF:-1 group-title="港台频道",東森洋片
-http://103.112.191.9:880/LAOSAT1018.m3u8
-#EXTINF:-1 group-title="港台频道",AXN
-http://103.112.191.9:880/LAOSAT1029.m3u8
-#EXTINF:-1 group-title="港台频道",博斯高球Ⅱ
-http://103.112.191.9:880/LAOSAT1081.m3u8
-#EXTINF:-1 group-title="港台频道",星衛電影
-http://103.112.191.9:880/LAOSAT1082.m3u8
-#EXTINF:-1 group-title="港台频道",龍祥時代
-http://103.112.191.9:880/LAOSAT1084.m3u8
-#EXTINF:-1 group-title="港台频道",衛視電影
-http://103.112.191.9:880/LAOSAT1085.m3u8
-#EXTINF:-1 group-title="港台频道",TVB星河
-http://103.112.191.9:880/LAOSAT1092.m3u8
-#EXTINF:-1 group-title="港台频道",Discovery Asia
-http://103.112.191.9:880/LAOSAT1095.m3u8
 #EXTINF:-1 group-title="港台频道",民視
 rtmp://218.32.29.20/sat/tv051
 #EXTINF:-1 group-title="港台频道",台視
