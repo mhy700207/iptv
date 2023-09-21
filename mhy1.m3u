@@ -139,6 +139,40 @@ https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeas
 http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
 #EXTINF:-1 group-title="港台频道",番薯
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-81e1e3ac-27df-4575-afff-ee511ae9ef8f.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",凤凰中文
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-21092a7c-0b0b-4951-b1ab-e431564c8362.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",东森新闻
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-54dbfee5-5841-4fa4-940b-732890350393.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",TVBS新闻
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-384cce6f-eb19-48bc-bd91-130986249ea8.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",年代新闻
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-738e0ad5-96a9-460b-b163-c4c4c8346a29.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",卫视中文
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-6a89d584-c341-4ae6-9a1e-af0c9c709503.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",无线财经
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-58b45b64-4a0f-4fec-9a71-9cf5264f9b56.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",无线新闻
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-473b5cf7-b5ab-498a-bb21-379e46b44f56.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",TVB翡翠
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-5068c8a4-d5d1-45d6-ac51-d635ee29d96a.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",TVB明珠
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-828c8012-d399-44b6-81bb-7d47bb37cc1a.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",ViuTV
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-33a106e4-86a1-4307-a36b-13e666c1cbf1.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",J2
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-49d07bbf-7352-4a1e-9ded-9b91e96ec441.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",HOY资讯
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-827ed498-cfc2-4a10-a249-51606e6130cd.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",香港开电视
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-649a2580-a28a-4e5e-bc88-05e0053e0f20.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",CCTV1
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-516cd1cc-324b-419d-a6eb-20e5e35054a0.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",CCTV5
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-375044ff-e4bf-4040-b035-a15324b00ba0.m3u8?by=yeslivetv_com
+#EXTINF:-1 group-title="港台频道",CCTV5+
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-20746da0-9060-424c-bd25-e3dbd18b5503.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港台频道",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="港台频道",欧洲华文1台
