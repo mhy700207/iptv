@@ -144,13 +144,13 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-45338258-bbe8-4c38-8b5a-48afd882fc
 #EXTINF:-1 group-title="港台频道",凤凰中文
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-2719dcfb-fa1a-40b8-a736-bbb21e33abb7.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",东森新闻
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-54dbfee5-5841-4fa4-940b-732890350393.flv?by=yeslivetv.com
-#EXTINF:-1 group-title="港台频道",TVBS新闻
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-384cce6f-eb19-48bc-bd91-130986249ea8.flv?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-99e04f4f-93d6-4e46-bfc2-52e9101c155e.flv?by=yeslivetv.com
+#EXTINF:-1 group-title="港台频道",TVBS新闻55
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-420f0c81-6b9f-43fd-95af-6b3d352fafd0.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",年代新闻
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-738e0ad5-96a9-460b-b163-c4c4c8346a29.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",卫视中文
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-27a0b421-ffd6-496f-a58f-ea6e562fa6c0.flv?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-97b135dc-3470-46ac-8de7-c4a9bcbe7769.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",纬来体育
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-6320ee29-2a9a-4c2b-b2ec-b9f0fb71a329.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",无线财经
@@ -176,15 +176,22 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="港台频道",香港國際財經台(有線76台)
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-49651162-6d3d-421e-8e20-93a6aa38dfe8.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",無綫財經·體育·資訊台(85台)
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-58b45b64-4a0f-4fec-9a71-9cf5264f9b56.flv?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-8446f0d8-3c55-2448-5042-b8477c683a1f.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",愛爾達體育1台
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-77699943-0eb0-4064-83b2-1365946d1b89.flv?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-785c4cb2-b06f-4f12-8008-681e8d5ef982.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",愛爾達體育2台
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-223e0ef3-666a-4d5d-afd9-5aee7d393a42.flv?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-994b37cc-70c2-4453-9b5f-970c029d34b8.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",ELEVEN體育1台
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-397ea983-4748-44b0-ac06-89f5202ea82d.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",ELEVEN體育2台
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-921e7a06-9caa-464b-bba1-d2a89de29e9d.flv?by=yeslivetv.com
+#EXTINF:-1 group-title="港台频道",ELEVEN體育3台
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-05706571-a10b-4b99-ba21-f751d6d0cf9f.flv?by=yeslivetv.com
+#EXTINF:-1 group-title="港台频道",澳亞衛視
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 group-title="港台频道",CCTV5體育頻道
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-375044ff-e4bf-4040-b035-a15324b00ba0.flv?by=yeslivetv.com
+
 #EXTINF:-1 group-title="港台频道",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="港台频道",欧洲华文1台
