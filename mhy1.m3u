@@ -139,20 +139,21 @@ https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeas
 http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
 #EXTINF:-1 group-title="港台频道",番薯
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="港台频道",凤凰资讯
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-3b92ffff-6a06-4bac-bd4d-ac609f549550.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",凤凰中文
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-25c23305-dc82-44ee-af52-83a4ca2a99be.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",东森新闻
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-99e04f4f-93d6-4e46-bfc2-52e9101c155e.flv?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-996c2e42-0b8b-4c65-990d-7d1f8f279b0c/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",TVBS新闻55
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-420f0c81-6b9f-43fd-95af-6b3d352fafd0.flv?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",年代新闻
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-738e0ad5-96a9-460b-b163-c4c4c8346a29.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",卫视中文
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-97b135dc-3470-46ac-8de7-c4a9bcbe7769.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",緯來體育台
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-5da51826-30cb-423b-8432-38d5c8c02296/playlist.m3u8?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-282566e0-ed84-4d9d-afa4-bfa96e5e3152.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",TVB翡翠
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-612c8bf8-b560-44b4-aa6c-12bb100fa0b6/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",TVB明珠
@@ -169,26 +170,144 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w175133242.m3u8
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-649a2580-a28a-4e5e-bc88-05e0053e0f20.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",Bread TV面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 group-title="港台频道",香港國際財經台(有線76台)
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-98b94feb-bc8e-4bfc-9856-22a1b5fed3cc/index.m3u8?by=yeslivetv.com
-#EXTINF:-1 group-title="港台频道",無綫財經·體育·資訊台(85台)
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-8446f0d8-3c55-2448-5042-b8477c683a1f.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",愛爾達體育1台
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-001652cc-2d20-4e6f-b251-1d9c1bbbff02/playlist.m3u8?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-1cf834e6-aa82-4bbd-92e4-35f8fe29fa05/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",愛爾達體育2台
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-244aad85-dc36-45a4-95ea-4a78203d22f5/playlist.m3u8?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",ELEVEN體育1台
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-2896fc32-9045-4cb3-bcd2-8d97c5e930ea/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",ELEVEN體育2台
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-00aa8708-b651-4f09-942b-83e011e5f0ed/index.m3u8?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-29853e24-04b4-4976-88bd-e4c1e5cf1268/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",ELEVEN體育3台
-https://pull-f5-spe.ixigua.com/live/YesLiveTV-915535ad-0e81-4d7d-bd70-4a2ff6298328/playlist.m3u8?by=yeslivetv.com
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-995ba5d3-a64f-4a37-9879-7dd2bbd4be76/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",澳亞衛視
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="港台频道",CCTV5體育頻道
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-375044ff-e4bf-4040-b035-a15324b00ba0.flv?by=yeslivetv.com
 #EXTINF:-1 group-title="港台频道",CCTV5+體育賽事頻道
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv?by=yeslivetv.com
+#EXTINF:-1 group-title="广东119频道",潮剧台
+http://119.140.179.190:4434/hls/1/index.m3u8
+#EXTINF:-1 group-title="广东119频道",汕头台
+http://119.140.179.190:4434/hls/2/index.m3u8
+#EXTINF:-1 group-title="广东119频道",揭阳台
+http://119.140.179.190:4434/hls/3/index.m3u8
+#EXTINF:-1 group-title="广东119频道",惠来台
+http://119.140.179.190:4434/hls/4/index.m3u8
+#EXTINF:-1 group-title="广东119频道",本地台
+http://119.140.179.190:4434/hls/5/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV1
+http://119.140.179.190:4434/hls/111/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV2
+http://119.140.179.190:4434/hls/102/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV3
+http://119.140.179.190:4434/hls/103/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV4
+http://119.140.179.190:4434/hls/104/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV5
+http://119.140.179.190:4434/hls/105/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV6
+http://119.140.179.190:4434/hls/6/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV7
+http://119.140.179.190:4434/hls/67/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV17
+http://119.140.179.190:4434/hls/7/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV8
+http://119.140.179.190:4434/hls/8/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV9
+http://119.140.179.190:4434/hls/9/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV10
+http://119.140.179.190:4434/hls/10/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV11
+http://119.140.179.190:4434/hls/11/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV12
+http://119.140.179.190:4434/hls/12/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV13
+http://119.140.179.190:4434/hls/13/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV14
+http://119.140.179.190:4434/hls/14/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV15
+http://119.140.179.190:4434/hls/15/index.m3u8
+#EXTINF:-1 group-title="广东119频道",重庆国际
+http://119.140.179.190:4434/hls/16/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CGTN
+http://119.140.179.190:4434/hls/17/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CGTN
+http://119.140.179.190:4434/hls/18/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CCTV娱乐
+http://119.140.179.190:4434/hls/19/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东卫视
+http://119.140.179.190:4434/hls/21/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东体育
+http://119.140.179.190:4434/hls/27/index.m3u8
+#EXTINF:-1 group-title="广东119频道",深圳卫视
+http://119.140.179.190:4434/hls/28/index.m3u8
+#EXTINF:-1 group-title="广东119频道",凤凰卫视咨询台
+http://119.140.179.190:4434/hls/29/index.m3u8
+#EXTINF:-1 group-title="广东119频道",凤凰卫视中文台
+http://119.140.179.190:4434/hls/30/index.m3u8
+#EXTINF:-1 group-title="广东119频道",凤凰卫视香港台
+http://119.140.179.190:4434/hls/31/index.m3u8
+#EXTINF:-1 group-title="广东119频道",北京卫视
+http://119.140.179.190:4434/hls/35/index.m3u8
+#EXTINF:-1 group-title="广东119频道",中国电影
+http://119.140.179.190:4434/hls/37/index.m3u8
+#EXTINF:-1 group-title="广东119频道",翡翠台
+http://119.140.179.190:4434/hls/38/index.m3u8
+#EXTINF:-1 group-title="广东119频道",洋片电影台
+http://119.140.179.190:4434/hls/40/index.m3u8
+#EXTINF:-1 group-title="广东119频道",东森电影台
+http://119.140.179.190:4434/hls/39/index.m3u8
+#EXTINF:-1 group-title="广东119频道",东南卫视
+http://119.140.179.190:4434/hls/41/index.m3u8
+#EXTINF:-1 group-title="广东119频道",浙江卫视
+http://119.140.179.190:4434/hls/43/index.m3u8
+#EXTINF:-1 group-title="广东119频道",安徽卫视
+http://119.140.179.190:4434/hls/44/index.m3u8
+#EXTINF:-1 group-title="广东119频道",江苏卫视
+http://119.140.179.190:4434/hls/45/index.m3u8
+#EXTINF:-1 group-title="广东119频道",云南卫视
+http://119.140.179.190:4434/hls/47/index.m3u8
+#EXTINF:-1 group-title="广东119频道",山东卫视
+http://119.140.179.190:4434/hls/48/index.m3u8
+#EXTINF:-1 group-title="广东119频道",澜湄国际
+http://119.140.179.190:4434/hls/49/index.m3u8
+#EXTINF:-1 group-title="广东119频道",贵州卫视
+http://119.140.179.190:4434/hls/50/index.m3u8
+#EXTINF:-1 group-title="广东119频道",江西卫视
+http://119.140.179.190:4434/hls/51/index.m3u8
+#EXTINF:-1 group-title="广东119频道",东方卫视
+http://119.140.179.190:4434/hls/52/index.m3u8
+#EXTINF:-1 group-title="广东119频道",湖北卫视
+http://119.140.179.190:4434/hls/53/index.m3u8
+#EXTINF:-1 group-title="广东119频道",CETV1
+http://119.140.179.190:4434/hls/54/index.m3u8
+#EXTINF:-1 group-title="广东119频道",山东教育卫视
+http://119.140.179.190:4434/hls/55/index.m3u8
+#EXTINF:-1 group-title="广东119频道",厦门卫视
+http://119.140.179.190:4434/hls/57/index.m3u8
+#EXTINF:-1 group-title="广东119频道",音乐台
+http://119.140.179.190:4434/hls/58/index.m3u8
+#EXTINF:-1 group-title="广东119频道",三沙卫视
+http://119.140.179.190:4434/hls/59/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东科教
+http://119.140.179.190:4434/hls/62/index.m3u8
+#EXTINF:-1 group-title="广东119频道",网络电影
+http://119.140.179.190:4434/hls/64/index.m3u8
+#EXTINF:-1 group-title="广东119频道",海峡卫视
+http://119.140.179.190:4434/hls/65/index.m3u8
+#EXTINF:-1 group-title="广东119频道",湖南国际
+http://119.140.179.190:4434/hls/66/index.m3u8
+#EXTINF:-1 group-title="广东119频道",茶频道
+http://119.140.179.190:4434/hls/89/index.m3u8
+#EXTINF:-1 group-title="广东119频道",快乐垂钓
+http://119.140.179.190:4434/hls/90/index.m3u8
+#EXTINF:-1 group-title="广东119频道",高清电影
+http://119.140.179.190:4434/hls/101/index.m3u8
+#EXTINF:-1 group-title="广东119频道",峨眉电影
+http://r.jdshipin.com/XIjta
+#EXTINF:-1 group-title="广东119频道",高清电影
+http://r.jdshipin.com/5DWJk
 #EXTINF:-1 group-title="港台频道",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="港台频道",欧洲华文1台
