@@ -304,6 +304,70 @@ http://119.140.179.190:4434/hls/89/index.m3u8
 http://119.140.179.190:4434/hls/90/index.m3u8
 #EXTINF:-1 group-title="广东119频道",高清电影
 http://119.140.179.190:4434/hls/101/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东珠江
+http://220.231.188.200:8089/hls/29/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东卫视
+http://220.231.188.200:8089/hls/28/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东4K超高清
+http://220.231.188.200:8089/hls/30/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东卫视
+http://220.231.188.200:8089/hls/28/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东珠江
+http://220.231.188.200:8089/hls/29/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东综艺
+http://220.231.188.200:8089/hls/30/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东影视
+http://220.231.188.200:8089/hls/32/index.m3u8
+#EXTINF:-1 group-title="广东119频道",南方卫视
+http://220.231.188.200:8089/hls/31/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东公共
+http://113.100.193.10:9901/tsfile/live/0017_1.m3u8
+#EXTINF:-1 group-title="广东119频道",广东体育
+http://113.100.193.10:9901/tsfile/live/0018_1.m3u8
+#EXTINF:-1 group-title="广东119频道",广东新闻
+http://113.100.193.10:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="广东119频道",广东影视
+http://113.100.193.10:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="广东119频道",广东珠江
+http://113.100.193.10:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="广东119频道",凤凰中文
+http://113.117.74.24:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="广东119频道",凤凰资讯
+http://113.117.74.22:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="广东119频道",凤凰香港
+http://113.117.74.17:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="广东119频道",TVB星河台
+http://113.117.74.28:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东珠江1
+http://link.sczhgx.com:54359/hls/50/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东新闻
+http://link.sczhgx.com:54359/hls/51/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东公共
+http://link.sczhgx.com:54359/hls/52/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东体育
+http://link.sczhgx.com:54359/hls/53/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广州综合
+http://link.sczhgx.com:54359/hls/54/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广州新闻
+http://link.sczhgx.com:54359/hls/55/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广州影视
+http://link.sczhgx.com:54359/hls/56/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广州法治
+http://link.sczhgx.com:54359/hls/57/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广州竞赛
+http://link.sczhgx.com:54359/hls/58/index.m3u8
+#EXTINF:-1 group-title="广东119频道",经济科教
+http://link.sczhgx.com:54359/hls/59/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东影视
+http://link.sczhgx.com:54359/hls/60/index.m3u8
+#EXTINF:-1 group-title="广东119频道",广东少儿
+http://link.sczhgx.com:54359/hls/61/index.m3u8
+#EXTINF:-1 group-title="广东119频道",嘉佳卡通
+http://link.sczhgx.com:54359/hls/62/index.m3u8
+#EXTINF:-1 group-title="广东119频道",卡酷动画
+http://link.sczhgx.com:54359/hls/63/index.m3u8
+#EXTINF:-1 group-title="广东119频道",金鹰卡通
+http://link.sczhgx.com:54359/hls/64/index.m3u8
 #EXTINF:-1 group-title="广东119频道",峨眉电影
 http://r.jdshipin.com/XIjta
 #EXTINF:-1 group-title="广东119频道",高清电影
