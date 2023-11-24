@@ -6175,3 +6175,204 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000032106/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-2-4K
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+#EXTM3U
+#EXTINF:-1 group-title="影视娱乐",浙江影视娱乐
+http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+#EXTINF:-1 group-title="影视娱乐",浙江影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="影视娱乐",万州影视
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="影视娱乐",万州影视
+http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="影视娱乐",河北影视
+https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="影视娱乐",兴隆影视
+https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="影视娱乐",南宁影视
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1 group-title="影视娱乐",绍兴影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="影视娱乐",溧水影视
+http://live.lsrmw.cn/ysyl/sd/live.m3u8
+#EXTINF:-1 group-title="影视娱乐",吉林影视
+http://stream1.jlntv.cn/yspd/sd/live.m3u8
+#EXTINF:-1 group-title="影视娱乐",滨海影视
+http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+#EXTINF:-1 group-title="影视娱乐",烟台影视
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
+#EXTINF:-1 group-title="影视娱乐",菏泽影视
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="影视娱乐",长沙影视
+https://hls.quklive.com/live/1551749282880742/index.m3u8
+#EXTINF:-1 group-title="影视娱乐",北京影视
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 group-title="影视娱乐",新泰影视
+http://111.17.214.4:1935/live/xtys/playlist.m3u8
+#EXTINF:-1 group-title="影视娱乐",新昌休闲影视
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 group-title="影视娱乐",石河子影视文体
+http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
+#EXTINF:-1 group-title="影视娱乐",南京影视
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="影视娱乐",隆化影视
+http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+#EXTINF:-1 group-title="影视娱乐",浙江影视
+https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="影视娱乐",吉林影视
+http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
+#EXTINF:-1 group-title="影视娱乐",隆化影视
+http://hblh.chinashadt.com:2036/live/stream:lh2.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="影视娱乐",烟台影视
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 group-title="影视娱乐",影视频道
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+#EXTINF:-1 group-title="影视娱乐",cctv1 超清
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhytQ8vo7UYRsyR7W3nV7FSM/m3u8
+#EXTINF:-1 group-title="影视娱乐",江苏卫视高清
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh5p_bJ7AXz0ZIpgtTegEvik/m3u8
+#EXTINF:-1 group-title="影视娱乐",无线财经·资讯台4K
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhx1ckaOdmqDzGKRJOWooemo/m3u8
+#EXTINF:-1 group-title="影视娱乐",cctv2
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh3deICWZov9p_MkjyvG6NTI/m3u8
+#EXTINF:-1 group-title="影视娱乐",翡翠台4K
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh1-JaZ8OwyTRmtfkvBKgd7A/m3u8
+#EXTINF:-1 group-title="影视娱乐",翡翠台超高清
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzKGbsu0OGdyYxLnjEL7oRc/m3u8
+#EXTINF:-1 group-title="影视娱乐",J2 4K
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh_ddnpfOEkvYpVdhZ_69NYM/m3u8
+#EXTINF:-1 group-title="影视娱乐",明珠台超清
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhyOHBkNL9hIHr5S8goRB5Wc/m3u8
+#EXTINF:-1 group-title="影视娱乐",星河频道
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzD9sOlSAL6JJGqAK552xPc/m3u8
+#EXTINF:-1 group-title="影视娱乐",东森电影
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh5buLOjKokbJWzSf7U7Tdh0/m3u8
+#EXTINF:-1 group-title="影视娱乐",东森洋片
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh8Vd0swovFulp_dhEzdwpec/m3u8
+#EXTINF:-1 group-title="影视娱乐",中天新闻
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhwfPRDi3xEx5EJGVH7Mf580/m3u8
+#EXTINF:-1 group-title="影视娱乐",东森财经
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh3dWZ3MxZ5ZMOeKoXXzg0Mc/m3u8
+#EXTINF:-1 group-title="影视娱乐",三立live
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhz0xKAsJivZx90vLJuIkKZY/m3u8
+#EXTINF:-1 group-title="影视娱乐",tvbs新闻
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhwcxYby6ox_exBpMDvIEyms/m3u8
+#EXTINF:-1 group-title="影视娱乐",民视新闻
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh4301Ck68g4BYVnB6-gxHKA/m3u8
+#EXTINF:-1 group-title="影视娱乐",寰宇新闻
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh4x6G3GZZHLri5s4tfmbluI/m3u8
+#EXTINF:-1 group-title="影视娱乐",大立电视台
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh81065kLqMadT8jDwCeOxy8/m3u8
+#EXTINF:-1 group-title="影视娱乐",大爱2
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhxOm-17lB19TQT3ozKszn_c/m3u8
+#EXTINF:-1 group-title="影视娱乐",中天综合
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh0OM8eIjal0ty6TCqNIkT44/m3u8
+#EXTINF:-1 group-title="影视娱乐",Bloomberg TV Asia Live Event
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzY2ELSofnxx1DiQbe-ftms/m3u8
+#EXTINF:-1 group-title="影视娱乐",Bloomberg TV Asia (720p)
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhyFg7IxnvDxFVPVKhcvqFMM/m3u8
+#EXTINF:-1 group-title="影视娱乐",人间卫视
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh3sl7cAykNm_Eu77wKgPp9w/m3u8
+#EXTINF:-1 group-title="影视娱乐",好消息1
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh_3uVfV2T4WroBfJkGGvlvI/m3u8
+#EXTINF:-1 group-title="影视娱乐",鏡電視新聞台
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh0pX-3ML1Kh43OgauNDK9_U/m3u8
+#EXTINF:-1 group-title="影视娱乐",Supreme Master TV (720p)
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh-FcSxad8HLnOjYAHBTbnu8/m3u8
+#EXTINF:-1 group-title="影视娱乐",台视新聞台
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh4GvcSYSVl3AV1FYPzUvfkA/m3u8
+#EXTINF:-1 group-title="影视娱乐",唯心电视
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh4JyZDmpm5Lb7vPpMiE5Pk4/m3u8
+#EXTINF:-1 group-title="影视娱乐",CCTV CGTN
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhwTwL6j3ePsggvan0J8A8Ak/m3u8
+#EXTINF:-1 group-title="影视娱乐",珠江频道
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh8P_RYnb6umo2VfvJxAv0rY/m3u8
+#EXTINF:-1 group-title="影视娱乐",大爱1
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh1OyEL_oH_e6CASw1Ey19Wo/m3u8
+#EXTINF:-1 group-title="影视娱乐",HBO高清
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh-rqUBu1OdYQKsPZXtqrDXw/m3u8
+#EXTINF:-1 group-title="影视娱乐",BBC Americ
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhw11bTUE7zLsxOFGEXRyipc/m3u8
+#EXTINF:-1 group-title="影视娱乐",凤凰资讯 FHD
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh8j_GmtUJ5BN3xDXu7C_X54/m3u8
+#EXTINF:-1 group-title="影视娱乐",japan ANN NEWS FHD
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzF5twTU7h3dNFCLzMEOcW4/m3u8
+#EXTINF:-1 group-title="影视娱乐",Bloomberg Global Financial News
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh1t9NnJDSqx8BHy8Yd0UKSI/m3u8
+#EXTINF:-1 group-title="影视娱乐",NBC News NOW
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh4NRHjpGUiD3ETD9-ADuceo/m3u8
+#EXTINF:-1 group-title="影视娱乐",Franceinfo
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh4pfbd3xxeaDUReDUSWEyEA/m3u8
+#EXTINF:-1 group-title="影视娱乐",FRANCE 24 EN
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh3le6ltIJreDcfOGx_kS4QE/m3u8
+#EXTINF:-1 group-title="影视娱乐",Al Jazeera English（路透社）
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzXbtILuvakuPENzixtADWY/m3u8
+#EXTINF:-1 group-title="影视娱乐",Euronews English
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzvDoM7_wI5FPx8QMXw_xU4/m3u8
+#EXTINF:-1 group-title="影视娱乐",NHK
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh5AGAJ3JLondsnktpCYVgtY/m3u8
+#EXTINF:-1 group-title="影视娱乐",广东体育
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh6t2FnVswMtx-2a20Qpwa3k/m3u8
+#EXTINF:-1 group-title="影视娱乐",Astro Awani (720p)
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh9wfO-iAmaL4jcyQDZSUX1Q/m3u8
+#EXTINF:-1 group-title="影视娱乐",创世电视
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhyQOLaB7cgNjZReHy2wgG4M/m3u8
+#EXTINF:-1 group-title="影视娱乐",爱自然4K
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhy_xKN571VFx4xauwgYuThk/m3u8
+#EXTINF:-1 group-title="影视娱乐",Dubai Sports 1
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh1H6rG8kSRJZd351wr3V8v4/m3u8
+#EXTINF:-1 group-title="影视娱乐",Dubai Sports 2
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzvCQn1wS2JHhnGV0ET_xUg/m3u8
+#EXTINF:-1 group-title="影视娱乐",Dubai Sports 3
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhyMCBs8SssTOH0nXYtDhURE/m3u8
+#EXTINF:-1 group-title="影视娱乐",FOX News NOW
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh7JPoTkBjJIyJA8Xm16Vyds/m3u8
+#EXTINF:-1 group-title="影视娱乐",KBC(SBS 光州)
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh8LsIgc74MGxsQVkTTWSHNI/m3u8
+#EXTINF:-1 group-title="影视娱乐",Arirang
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh5l-bQuVy2XV8Yzj2APhkxc/m3u8
+#EXTINF:-1 group-title="影视娱乐",KCTV 광주 CH05
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh-B-6fTGH5NqO07dyiMXR7A/m3u8
+#EXTINF:-1 group-title="影视娱乐",ANCHORAGE | NBC KTUU
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh_u9BnLfTWkrN_9_MdJ2KuA/m3u8
+#EXTINF:-1 group-title="影视娱乐",FAIRBANKS | NBC KTVF
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh3e02JQH_JaVoOLuYBMGldc/m3u8
+#EXTINF:-1 group-title="影视娱乐",JUNEAU-DOUGLAS | NBC KATH
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh7tAYFLXnhxRUfUX9Z-_H4o/m3u8
+#EXTINF:-1 group-title="影视娱乐",BIRMINGHAM | CBS WIAT
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh5CaJDjUlPf83hpJJYVXX3Y/m3u8
+#EXTINF:-1 group-title="影视娱乐",BIRMINGHAM | FOX WBRC
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh5jD4GsPAY8JaLmleWVjlPA/m3u8
+#EXTINF:-1 group-title="影视娱乐",hbo brasil
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh-yray6-IS-2xOHt13vU9is/m3u8
+#EXTINF:-1 group-title="影视娱乐",cctv 4k
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh2jwNf7b36kctOvrmMaAiJE/m3u8
+#EXTINF:-1 group-title="影视娱乐",combate br
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhw8326Rbpp8SZS-GD9UBbI0/m3u8
+#EXTINF:-1 group-title="影视娱乐",澳视澳门
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh36Cf9P4selrbhe5abhKSbA/m3u8
+#EXTINF:-1 group-title="影视娱乐",测试专用
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzywOBr1z194s0N4WpqJ3BQ/m3u8
+#EXTINF:-1 group-title="影视娱乐",TVB综合
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzzatZ3TzIz7BQTRSp1Jt30/m3u8
+#EXTINF:-1 group-title="影视娱乐",abc news
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh15RlHJJZzzd5tZ6VQLk4jo/m3u8
+#EXTINF:-1 group-title="影视娱乐",彭博新闻台
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzaix-TR-dORUqokIxQl_8A/m3u8
+#EXTINF:-1 group-title="影视娱乐",tvbs综合高清
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhznXRJsoZSSrTF4n0Xno_L0/m3u8
+#EXTINF:-1 group-title="影视娱乐",TVBS欢乐
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh42gbjDWHjyiDpAj-UeYazw/m3u8
+#EXTINF:-1 group-title="影视娱乐",三立INEWS
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh7NqtecvXLqr53g--vOfjQ0/m3u8
+#EXTINF:-1 group-title="影视娱乐",MTN
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhwxrGTUX7g2NWXw9OIf5aaQ/m3u8
+#EXTINF:-1 group-title="影视娱乐",NBS Korea Agricultural Br
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh4wFFazZPThhx7cwN3CeRaY/m3u8
+#EXTINF:-1 group-title="影视娱乐",TJB SBS
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh6lyB8sLJhb0DPtKvPEIkPo/m3u8
+#EXTINF:-1 group-title="影视娱乐",국악방
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh4yribyDIpuHIJrXPgU-fOE/m3u8
+#EXTINF:-1 group-title="影视娱乐",东森新闻
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh_pLLTkQXPShEQoVyn3sSHs/m3u8
+#EXTINF:-1 group-title="影视娱乐",美国中文电视
+http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhwxqgDHuftbQNbkHp-FQvek/m3u8
