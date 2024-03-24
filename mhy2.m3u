@@ -1,0 +1,491 @@
+#EXTM3U
+#EXTINF:-1 group-title="凤凰体育",咪咕直播4K-1「IPV6」
+http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播4K-2「IPV6」
+http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-1「IPV6」
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-2「IPV6」
+http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-3「IPV6」
+http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225617/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-4「IPV6」
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-5「IPV6」
+http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-6「IPV6」
+http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-7「IPV6」
+http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-8「IPV6」
+http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-9「IPV6」
+http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-10「IPV6」
+http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-11「IPV6」
+http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-12「IPV6」
+http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-13「IPV6」
+http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-14「IPV6」
+http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-15「IPV6」
+http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-16「IPV6」
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-17「IPV6」
+http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-18「IPV6」
+http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-19「IPV6」
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-20「IPV6」
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-21「IPV6」
+http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-22「IPV6」
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-23「IPV6」
+http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-24「IPV6」
+http://[2409:8087:1a01:df::4070]/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-25「IPV6」
+http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-26「IPV6」
+http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-27「IPV6」
+http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225749/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-28「IPV6」
+http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-29「IPV6」
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-30「IPV6」
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-31「IPV6」
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-32「IPV6」
+http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225762/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-33「IPV6」
+http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225764/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-34「IPV6」
+http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225766/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-35「IPV6」
+http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-36「IPV6」
+http://[2409:8087:1a01:df::4078]/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-37「IPV6」
+http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-38「IPV6」
+http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-39「IPV6」
+http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-40「IPV6」
+http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-41「IPV6」
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-42「IPV6」
+http://[2409:8087:1a01:df::4079]/PLTV/88888888/224/3221225904/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-43「IPV6」
+http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-44「IPV6」
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-45「IPV6」
+http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-46「IPV6」
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-47「IPV6」
+http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-48「IPV6」
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-49「IPV6」
+http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-50「IPV6」
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-51「IPV6」
+http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-52「IPV6」
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-53「IPV6」
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-54「IPV6」
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-55「IPV6」
+http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 group-title="凤凰体育",咪咕直播-56「IPV6」
+http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="北京联通20240102",CCTV-1综合[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.129:8008
+#EXTINF:-1 group-title="北京联通20240102",CCTV-2财经[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.60:8084
+#EXTINF:-1 group-title="北京联通20240102",CCTV-3综艺[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.172:8001
+#EXTINF:-1 group-title="北京联通20240102",CCTV-4中文国际[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.105:8092
+#EXTINF:-1 group-title="北京联通20240102",CCTV-4 中文国际 欧洲[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.213:4220
+#EXTINF:-1 group-title="北京联通20240102",CCTV-4 中文国际 美洲[高清]
+http://adsl03.ccj.gohome.link:55556
+#EXTINF:-1 group-title="北京联通20240102",CCTV-5体育[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.173:8001
+#EXTINF:-1 group-title="北京联通20240102",CCTV5+[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.130:8004
+#EXTINF:-1 group-title="北京联通20240102",CCTV-6电影[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.174:8001
+#EXTINF:-1 group-title="北京联通20240102",CCTV-7国防军事[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.61:8104
+#EXTINF:-1 group-title="北京联通20240102",CCTV-8电视剧[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.175:8001
+#EXTINF:-1 group-title="北京联通20240102",CCTV-9纪录[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.62:8112
+#EXTINF:-1 group-title="北京联通20240102",CCTV-10科教[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.63:8116
+#EXTINF:-1 group-title="北京联通20240102",CCTV-11戏曲[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.152:8120
+#EXTINF:-1 group-title="北京联通20240102",CCTV-12社会与法[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.64:8124
+#EXTINF:-1 group-title="北京联通20240102",CCTV-13新闻[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.124:8128
+#EXTINF:-1 group-title="北京联通20240102",CCTV-14少儿[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.65:8132
+#EXTINF:-1 group-title="北京联通20240102",CCTV-15音乐[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.153:8136
+#EXTINF:-1 group-title="北京联通20240102",CCTV-16奥林匹克频道[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.184:8001
+#EXTINF:-1 group-title="北京联通20240102",CCTV-17农业农村[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.151:8144
+#EXTINF:-1 group-title="北京联通20240102",湖南卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.132:8012
+#EXTINF:-1 group-title="北京联通20240102",浙江卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.137:8036
+#EXTINF:-1 group-title="北京联通20240102",江苏卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.135:8028
+#EXTINF:-1 group-title="北京联通20240102",东方卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.136:8032
+#EXTINF:-1 group-title="北京联通20240102",山东卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.209:8052
+#EXTINF:-1 group-title="北京联通20240102",安徽卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.211:8064
+#EXTINF:-1 group-title="北京联通20240102",湖北卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.138:8044
+#EXTINF:-1 group-title="北京联通20240102",东南卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.156:8148
+#EXTINF:-1 group-title="北京联通20240102",广东卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.142:8048
+#EXTINF:-1 group-title="北京联通20240102",辽宁卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.210:8056
+#EXTINF:-1 group-title="北京联通20240102",黑龙江卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.133:8016
+#EXTINF:-1 group-title="北京联通20240102",深圳卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.134:8020
+#EXTINF:-1 group-title="北京联通20240102",贵州卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.149:8076
+#EXTINF:-1 group-title="北京联通20240102",天津卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.141:1234
+#EXTINF:-1 group-title="北京联通20240102",河北卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.148:8072
+#EXTINF:-1 group-title="北京联通20240102",重庆卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.122:8160
+#EXTINF:-1 group-title="北京联通20240102",江西卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.123:8164
+#EXTINF:-1 group-title="北京联通20240102",吉林卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.240:8172
+#EXTINF:-1 group-title="北京联通20240102",BRTV北京卫视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV新闻[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV文艺[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV影视[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV卡酷动画[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.189:8000
+#EXTINF:-1 group-title="北京联通20240102",朝阳电视台[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.163:8001
+#EXTINF:-1 group-title="北京联通20240102",密云电视台[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通20240102",房山电视台[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通20240102",通州融媒[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.221:8001
+#EXTINF:-1 group-title="北京联通20240102",爱上4K[4K]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通20240102",北京IPTV 4K超清[4K]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通20240102",北京IPTV淘精彩[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.178:8001
+#EXTINF:-1 group-title="北京联通20240102",北京IPTV淘娱乐[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.100:8001
+#EXTINF:-1 group-title="北京联通20240102",北京IPTV淘剧场[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.95:8001
+#EXTINF:-1 group-title="北京联通20240102",北京IPTV淘Baby[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通20240102",北京IPTV淘电影[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通20240102",北京IPTV 萌宠TV[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.102:8001
+#EXTINF:-1 group-title="北京联通20240102",大健康[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.251:8001
+#EXTINF:-1 group-title="北京联通20240102",体育赛事[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.157:8176
+#EXTINF:-1 group-title="北京联通20240102",电影台[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.97:8001
+#EXTINF:-1 group-title="北京联通20240102",每日影院[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.111:8001
+#EXTINF:-1 group-title="北京联通20240102",幸福剧场[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.112:8001
+#EXTINF:-1 group-title="北京联通20240102",幸福娱乐[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.113:8001
+#EXTINF:-1 group-title="北京联通20240102",风尚生活[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.114:8001
+#EXTINF:-1 group-title="北京联通20240102",聚鲨环球精选[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.179:8001
+#EXTINF:-1 group-title="北京联通20240102",聚鲨国际[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通20240102",央广购物[高清]1
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.222:8001
+#EXTINF:-1 group-title="北京联通20240102",央广购物[高清]2
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.223:8001
+#EXTINF:-1 group-title="北京联通20240102",优购物[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.180:8001
+#EXTINF:-1 group-title="北京联通20240102",时尚购物[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.181:8001
+#EXTINF:-1 group-title="北京联通20240102",东方购物[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.182:8001
+#EXTINF:-1 group-title="北京联通20240102",家有购物[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.185:8001
+#EXTINF:-1 group-title="北京联通20240102",家有购物[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.97:8001
+#EXTINF:-1 group-title="北京联通20240102",金鹰纪实[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通20240102",快乐垂钓[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通20240102",茶频道[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通20240102",CGTN 新闻[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.215:4220
+#EXTINF:-1 group-title="北京联通20240102",CGTN 记录[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.216:4220
+#EXTINF:-1 group-title="北京联通20240102",CGTN 西班牙语[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.217:4220
+#EXTINF:-1 group-title="北京联通20240102",CGTN 法语[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.218:4220
+#EXTINF:-1 group-title="北京联通20240102",CGTN 阿拉伯语[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.219:4220
+#EXTINF:-1 group-title="北京联通20240102",CGTN 俄语[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.220:4220
+#EXTINF:-1 group-title="北京联通20240102",纪实人文[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通20240102",中国教育1台[高清]
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.57:8152
+#EXTINF:-1 group-title="北京联通20240102",CCTV-1综合
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.1:8000
+#EXTINF:-1 group-title="北京联通20240102",CCTV-2财经
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.2:8004
+#EXTINF:-1 group-title="北京联通20240102",CCTV-3综艺
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.107:8001
+#EXTINF:-1 group-title="北京联通20240102",CCTV-4中文国际
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.4:8216
+#EXTINF:-1 group-title="北京联通20240102",CCTV-5体育
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.108:8001
+#EXTINF:-1 group-title="北京联通20240102",CCTV-6电影
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.109:8001
+#EXTINF:-1 group-title="北京联通20240102",CCTV-7国防军事
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.7:8024
+#EXTINF:-1 group-title="北京联通20240102",CCTV-8电视剧
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.110:8001
+#EXTINF:-1 group-title="北京联通20240102",CCTV-9纪录
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.9:8032
+#EXTINF:-1 group-title="北京联通20240102",CCTV-10科教
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.10:8228
+#EXTINF:-1 group-title="北京联通20240102",CCTV-11戏曲
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.11:8040
+#EXTINF:-1 group-title="北京联通20240102",CCTV-12社会与法
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.12:8232
+#EXTINF:-1 group-title="北京联通20240102",CCTV-13新闻
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.13:8048
+#EXTINF:-1 group-title="北京联通20240102",CCTV-14少儿
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.14:8236
+#EXTINF:-1 group-title="北京联通20240102",CCTV-15音乐
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.15:8052
+#EXTINF:-1 group-title="北京联通20240102",CCTV-17农业农村
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.150:8064
+#EXTINF:-1 group-title="北京联通20240102",BRTV北京卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.225:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV文艺
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.226:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV科教
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.227:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV影视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.228:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV财经
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.229:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV冬奥纪实
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.230:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV生活
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.231:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV青年
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.232:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV新闻
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.233:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV卡酷少儿
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.234:8000
+#EXTINF:-1 group-title="北京联通20240102",BRTV国际频道
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.235:8000
+#EXTINF:-1 group-title="北京联通20240102",东方卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.34:8192
+#EXTINF:-1 group-title="北京联通20240102",东南卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.36:8112
+#EXTINF:-1 group-title="北京联通20240102",南方卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.161:8001
+#EXTINF:-1 group-title="北京联通20240102",广西卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.39:8300
+#EXTINF:-1 group-title="北京联通20240102",海南卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.45:8304
+#EXTINF:-1 group-title="北京联通20240102",深圳卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.32:9244
+#EXTINF:-1 group-title="北京联通20240102",厦门卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.143:4120
+#EXTINF:-1 group-title="北京联通20240102",广东卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.38:8132
+#EXTINF:-1 group-title="北京联通20240102",江西卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.30:8280
+#EXTINF:-1 group-title="北京联通20240102",云南卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.26:8108
+#EXTINF:-1 group-title="北京联通20240102",西藏卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.47:8164
+#EXTINF:-1 group-title="北京联通20240102",贵州卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.31:8120
+#EXTINF:-1 group-title="北京联通20240102",重庆卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.35:8296
+#EXTINF:-1 group-title="北京联通20240102",湖北卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.33:8136
+#EXTINF:-1 group-title="北京联通20240102",湖南卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.18:8268
+#EXTINF:-1 group-title="北京联通20240102",安徽卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.21:8272
+#EXTINF:-1 group-title="北京联通20240102",山东卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.25:8148
+#EXTINF:-1 group-title="北京联通20240102",江苏卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.20:8276
+#EXTINF:-1 group-title="北京联通20240102",浙江卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.19:8284
+#EXTINF:-1 group-title="北京联通20240102",四川卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.29:8288
+#EXTINF:-1 group-title="北京联通20240102",河南卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.27:8128
+#EXTINF:-1 group-title="北京联通20240102",陕西卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.41:8140
+#EXTINF:-1 group-title="北京联通20240102",新疆卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.48:8160
+#EXTINF:-1 group-title="北京联通20240102",宁夏卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.46:8124
+#EXTINF:-1 group-title="北京联通20240102",青海卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.44:8184
+#EXTINF:-1 group-title="北京联通20240102",甘肃卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.49:8188
+#EXTINF:-1 group-title="北京联通20240102",山西卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.42:8172
+#EXTINF:-1 group-title="北京联通20240102",河北卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.37:8292
+#EXTINF:-1 group-title="北京联通20240102",天津卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.23:8144
+#EXTINF:-1 group-title="北京联通20240102",内蒙古卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.43:8176
+#EXTINF:-1 group-title="北京联通20240102",辽宁卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.24:8116
+#EXTINF:-1 group-title="北京联通20240102",黑龙江卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.28:8196
+#EXTINF:-1 group-title="北京联通20240102",吉林卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.40:8200
+#EXTINF:-1 group-title="北京联通20240102",三沙卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.155:4120
+#EXTINF:-1 group-title="北京联通20240102",兵团卫视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.144:4120
+#EXTINF:-1 group-title="北京联通20240102",山东教育
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.52:4120
+#EXTINF:-1 group-title="北京联通20240102",中国教育1台
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.146:4120
+#EXTINF:-1 group-title="北京联通20240102",中国教育2台
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.54:4120
+#EXTINF:-1 group-title="北京联通20240102",中国教育3台
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.55:4120
+#EXTINF:-1 group-title="北京联通20240102",中国教育4台
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.56:4120
+#EXTINF:-1 group-title="北京联通20240102",IPTV少儿动画
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.199:9000
+#EXTINF:-1 group-title="北京联通20240102",IPTV魅力时尚
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.196:9012
+#EXTINF:-1 group-title="北京联通20240102",IPTV热播剧场
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.194:9020
+#EXTINF:-1 group-title="北京联通20240102",IPTV收视指南
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.193:8012
+#EXTINF:-1 group-title="北京联通20240102",IPTV经典电影
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.195:9024
+#EXTINF:-1 group-title="北京联通20240102",金鹰卡通
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.51:9252
+#EXTINF:-1 group-title="北京联通20240102",嘉佳卡通
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.147:9268
+#EXTINF:-1 group-title="北京联通20240102",城市剧场
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.67:4120
+#EXTINF:-1 group-title="北京联通20240102",军旅剧场
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.68:4120
+#EXTINF:-1 group-title="北京联通20240102",古装剧场
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.69:4120
+#EXTINF:-1 group-title="北京联通20240102",武侠剧场
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.90:4120
+#EXTINF:-1 group-title="北京联通20240102",喜剧影院
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.91:4120
+#EXTINF:-1 group-title="北京联通20240102",动作影院
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.92:4120
+#EXTINF:-1 group-title="北京联通20240102",家庭影院
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.93:4120
+#EXTINF:-1 group-title="北京联通20240102",音乐现场
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.70:4120
+#EXTINF:-1 group-title="北京联通20240102",财富天下
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.53:9136
+#EXTINF:-1 group-title="北京联通20240102",CGTN
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.16:8056
+#EXTINF:-1 group-title="北京联通20240102",地理
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.71:4120
+#EXTINF:-1 group-title="北京联通20240102",美妆
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.72:4120
+#EXTINF:-1 group-title="北京联通20240102",美人
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.73:4120
+#EXTINF:-1 group-title="北京联通20240102",精选
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.74:4120
+#EXTINF:-1 group-title="北京联通20240102",解密
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.75:4120
+#EXTINF:-1 group-title="北京联通20240102",军事
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.76:4120
+#EXTINF:-1 group-title="北京联通20240102",国学
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.77:4120
+#EXTINF:-1 group-title="北京联通20240102",戏曲
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.78:4120
+#EXTINF:-1 group-title="北京联通20240102",早教
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.79:4120
+#EXTINF:-1 group-title="北京联通20240102",动画
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.80:4120
+#EXTINF:-1 group-title="北京联通20240102",好学生
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.81:4120
+#EXTINF:-1 group-title="北京联通20240102",鉴赏
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.82:4120
+#EXTINF:-1 group-title="北京联通20240102",墨宝
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.83:4120
+#EXTINF:-1 group-title="北京联通20240102",光影
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.84:4120
+#EXTINF:-1 group-title="北京联通20240102",台球
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.85:4120
+#EXTINF:-1 group-title="北京联通20240102",武术
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.87:4120
+#EXTINF:-1 group-title="北京联通20240102",高网
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.88:4120
+#EXTINF:-1 group-title="北京联通20240102",足球
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.89:4120
+#EXTINF:-1 group-title="北京联通20240102",星影
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.94:4120
+#EXTINF:-1 group-title="北京联通20240102",爱生活
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.86:4120
+
