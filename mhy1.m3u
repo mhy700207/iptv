@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 group-title="凤凰卫视",凤凰中文
+http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰资讯
+http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰香港
+http://113.64.145.91:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰中文
+http://112.19.171.156:9999/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="凤凰卫视",凤凰资讯
+http://112.19.171.156:9999/udp/239.93.0.118:2191
+#EXTINF:-1 group-title="凤凰卫视",凤凰香港
+http://113.64.145.91:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="凤凰卫视",TVBS-娱乐新闻
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="凤凰卫视",TVB星河
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰香港
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="港台频道",纬来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 group-title="港台频道",华语电视
+http://38.64.72.148/hls/modn/list/4002/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",华语电视
+http://38.64.72.148/hls/modn/list/4003/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",中旺电视
+http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",台视新闻台
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",ETTV中国台
+http://38.64.72.148/hls/modn/list/2003/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",ETTV美洲台
+http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",超视台
+http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",ETTV台
+http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",ETTV美洲台
+http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",KTSF26
+http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",LOVE NATURE
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="CTSNews.tw" tvg-logo="https://i.imgur.com/V1EVtRm.png" group-title="News",CTS News (華視新聞資訊) [Geo-blocked]
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi1 (大愛1) (720p)
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi2 (大愛2) (720p)
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="DaliTV.tw" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="General",Dali TV (大立電視台) (720p)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-id="EBCFinancialNews.tw" tvg-logo="https://i.imgur.com/uFDkOhV.png" group-title="News",東森財經新聞台代理 (1080p) [Not 24/7]
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="News",EBC News (東森新聞台代理) (1080p) [Not 24/7]
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="General",FTV (民視代理) (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="FTVOne.tw" tvg-logo="https://i.imgur.com/HBT2o0I.png" group-title="General",FTV One (民視第一台代理) (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="SETNews.tw" tvg-logo="https://i.imgur.com/EGVbAvJ.png" group-title="News",SET News (三立新聞代理) (1080p) [Geo-blocked]
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Entertainment",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",TrueHD1
+https://edge2.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",TrueHD2
+https://edge2.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",BEINSP1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",BEINSP2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",TrueSport2
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",TrueSport3
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",TrueSport6
+https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",TSports7
+https://ctrl.laotv.la/live/TSports7/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",THD7
+https://ctrl.laotv.la/live/THD7/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",WWE
+https://ctrl.laotv.la/live/WWE/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",True ASIAN MORE
+https://ctrl.laotv.la/live/TSHD/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",STARMOVIE
+https://ctrl.laotv.la/live/StarMovie/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",CCTV5+
+https://ctrl.laotv.la/live/CCTV5+/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",Boomerang
+https://ctrl.laotv.la/live/Boomerang/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",CartoonNetwork
+https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",AnimalPlanet
+https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",Discovery
+https://ctrl.laotv.la/live/Discovery/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",Samrujlok
+https://ctrl.laotv.la/live/Samrujlok/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",AnimalShow
+https://ctrl.laotv.la/live/AnimalShow/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",PPT  HD
+https://ctrl.laotv.la/live/PPTVHD/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",SUN TV
+https://ctrl.laotv.la/live/SunTV/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",China Movie
+https://ctrl.laotv.la/live/ChinaMovie/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",Hunan
+https://ctrl.laotv.la/live/Hunan/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",MONO29
+https://ctrl.laotv.la/live/Mono29/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",CHCA
+https://ctrl.laotv.la/live/CHCA/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",CCTV1
+https://ctrl.laotv.la/live/CCTV1/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",CCTV2
+https://ctrl.laotv.la/live/CCTV2/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",CCTV3
+https://ctrl.laotv.la/live/CCTV3/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",HIT
+https://ctrl.laotv.la/live/Hit/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",PhoenixNews
+https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",PhxChinese
+https://ctrl.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",CH8
+https://ctrl.laotv.la/live/SkyWorld/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",DongsenMovie
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",THAIRATHTVHD
+https://ctrl.laotv.la/live/THAIRATHTVHD/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",MCOT
+https://ctrl.laotv.la/live/Mcot/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",Longxiang
+https://ctrl.laotv.la/live/Longxiang/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",HBO
+https://ctrl.laotv.la/live/HBO/index.m3u8
+#EXTINF:-1 group-title="ctrl.laotv.la",CINEMAX
+https://ctrl.laotv.la/live/Cinemax/index.m3u8
+
+
+
