@@ -1,0 +1,372 @@
+#EXTM3U
+#EXTINF:-1 group-title="凤凰卫视",凤凰中文
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰中文
+http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰资讯
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰资讯
+http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+#EXTINF:-1 group-title="凤凰卫视",凤凰资讯
+https://histar.zapi.us.kg/?id=phtv-info
+#EXTINF:-1 group-title="凤凰卫视",凤凰香港台
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
+#EXTINF:-1 group-title="凤凰卫视",TVB星河
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港台频道",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="港台频道",纬来体育
+https://histar.zapi.us.kg/?id=videoland-sport
+#EXTINF:-1 group-title="港台频道",IPTV淘剧场
+http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="港台频道",IPTV淘剧场
+http://webmail.axxe.top:4022/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="港台频道",IPTV淘剧场
+http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="港台频道",IPTV淘剧场
+http://webmail.axxe.top:4022/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="港台频道",IPTV淘娱乐
+http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="港台频道",IPTV淘娱乐
+http://webmail.axxe.top:4022/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="港台频道",IPTV萌宠TV
+http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="港台频道",IPTV萌宠TV
+http://webmail.axxe.top:4022/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="港台频道",LOVE NATURE
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="台湾频道",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="台湾频道",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="台湾频道",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="台湾频道",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="台湾频道",东森财经
+rtmp://f13h.mine.nu/sat/tv571
+#EXTINF:-1 group-title="台湾频道",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 group-title="台湾频道",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="台湾频道",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="台湾频道",HAKKATV
+http://37.27.111.214:8080/live/1/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",TITV
+http://37.27.111.214:8080/live/2/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",MOMO
+http://37.27.111.214:8080/live/3/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",民视第一台
+http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",民视台湾台
+http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",民视
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",中视
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",华视
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",TV5
+http://37.27.111.214:8080/live/9/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",亚洲旅游
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",外国电影
+http://37.27.111.214:8080/live/11/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",NICK
+http://37.27.111.214:8080/live/12/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",博斯高球一
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",博斯运动一
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",博斯无限
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",博斯网球
+http://37.27.111.214:8080/live/16/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",靇华电影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",NICK JK
+http://37.27.111.214:8080/live/22/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBSHD
+http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBS欢乐台
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",MTVlive
+http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",居家
+http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",History
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",Hits
+http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",CRIME
+http://37.27.111.214:8080/live/29/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",cinmaworld
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",三立综合台
+http://37.27.111.214:8080/live/31/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",rollor
+http://37.27.111.214:8080/live/40/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",靇华戏剧
+http://37.27.111.214:8080/live/41/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",靇华日韩
+http://37.27.111.214:8080/live/42/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",live
+http://37.27.111.214:8080/live/44/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",voa
+http://37.27.111.214:8080/live/45/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",DW
+http://37.27.111.214:8080/live/46/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",中视经典
+http://37.27.111.214:8080/live/47/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",中视精彩
+http://37.27.111.214:8080/live/48/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",阿里郎
+http://37.27.111.214:8080/live/52/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",Global Trakker
+http://37.27.111.214:8080/live/53/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",互动英语
+http://37.27.111.214:8080/live/54/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",生活英语
+http://37.27.111.214:8080/live/56/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画
+http://37.27.111.214:8080/live/57/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",镜新闻
+http://37.27.111.214:8080/live/62/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",寰宇新闻台湾台
+http://37.27.111.214:8080/live/63/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",全球财经
+http://37.27.111.214:8080/live/64/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",寰宇财经
+http://37.27.111.214:8080/live/65/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",FTV综艺
+http://37.27.111.214:8080/live/67/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",ROCK
+http://37.27.111.214:8080/live/70/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",livetime
+http://37.27.111.214:8080/live/71/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",cmusic
+http://37.27.111.214:8080/live/72/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",智林体育
+http://37.27.111.214:8080/live/77/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",体育
+http://37.27.111.214:8080/live/78/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",TECH
+http://37.27.111.214:8080/live/80/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",TET CLUB
+http://37.27.111.214:8080/live/81/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾旅游
+http://37.27.111.214:8080/live/82/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",FESTIVAL
+http://37.27.111.214:8080/live/83/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",LOVE NATURE
+http://37.27.111.214:8080/live/84/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",ELTA生活旅游
+http://37.27.111.214:8080/live/85/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",LUXE
+http://37.27.111.214:8080/live/86/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",公视戏剧
+http://37.27.111.214:8080/live/87/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",FTV影剧
+http://37.27.111.214:8080/live/88/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",影迷纪实台
+http://37.27.111.214:8080/live/92/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",纪实台
+http://37.27.111.214:8080/live/93/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",ROCK2
+http://37.27.111.214:8080/live/94/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",ROCK3
+http://37.27.111.214:8080/live/98/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",GOOD2
+http://37.27.111.214:8080/live/99/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",人间卫视
+http://37.27.111.214:8080/live/101/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",CNBC
+http://37.27.111.214:8080/live/102/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",国会频道1
+http://37.27.111.214:8080/live/103/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",国会频道2
+http://37.27.111.214:8080/live/104/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画频道
+http://37.27.111.214:8080/live/105/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画频道
+http://37.27.111.214:8080/live/106/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画频道
+http://37.27.111.214:8080/live/107/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画频道
+http://37.27.111.214:8080/live/108/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画频道
+http://37.27.111.214:8080/live/109/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画频道
+http://37.27.111.214:8080/live/110/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",老电影
+http://37.27.111.214:8080/live/111/hls.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="流畅台湾电视",AXN
+https://bsex.serv00.net/Smart.php?id=axn_twn
+#EXTINF:-1 group-title="流畅台湾电视",CINEMAX
+https://bsex.serv00.net/Smart.php?id=cinemax_twn
+#EXTINF:-1 group-title="流畅台湾电视",EYE戲劇
+https://bsex.serv00.net/Smart.php?id=eyetvxiju_twn
+#EXTINF:-1 group-title="流畅台湾电视",EYE旅遊
+https://bsex.serv00.net/Smart.php?id=eyetvtravel_twn
+#EXTINF:-1 group-title="流畅台湾电视",HBO
+https://bsex.serv00.net/Smart.php?id=hbohd_twn
+#EXTINF:-1 group-title="流畅台湾电视",HBO Family
+https://bsex.serv00.net/Smart.php?id=fyi_twn
+#EXTINF:-1 group-title="流畅台湾电视",好萊塢電影
+https://bsex.serv00.net/Smart.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="流畅台湾电视",MTV Live
+https://bsex.serv00.net/Smart.php?id=mtvhd_twn
+#EXTINF:-1 group-title="流畅台湾电视",TLC旅遊生活
+https://bsex.serv00.net/Smart.php?id=tlc_twn
+#EXTINF:-1 group-title="流畅台湾电视",東森新聞
+https://bsex.serv00.net/Smart.php?id=ettvnews
+#EXTINF:-1 group-title="流畅台湾电视",TVBS
+https://bsex.serv00.net/Smart.php?id=tvbs
+#EXTINF:-1 group-title="流畅台湾电视",TVBS新聞
+https://bsex.serv00.net/Smart.php?id=tvbs_n
+#EXTINF:-1 group-title="流畅台湾电视",TVBS歡樂
+https://bsex.serv00.net/Smart.php?id=tvbshuanle_twn
+#EXTINF:-1 group-title="流畅台湾电视",三立台灣
+https://bsex.serv00.net/Smart.php?id=sanlitaiwan
+#EXTINF:-1 group-title="流畅台湾电视",三立戲劇
+https://bsex.serv00.net/Smart.php?id=sanlixiju_twn
+#EXTINF:-1 group-title="流畅台湾电视",三立綜合
+https://bsex.serv00.net/Smart.php?id=sanlizhonghe
+#EXTINF:-1 group-title="流畅台湾电视",中天亞洲
+https://bsex.serv00.net/Smart.php?id=ctiasia_twn
+#EXTINF:-1 group-title="流畅台湾电视",中天娱樂
+https://bsex.serv00.net/Smart.php?id=ctient
+#EXTINF:-1 group-title="流畅台湾电视",中天新聞
+https://bsex.serv00.net/Smart.php?id=ctinews
+#EXTINF:-1 group-title="流畅台湾电视",中天綜合
+https://bsex.serv00.net/Smart.php?id=ctizhonghe
+#EXTINF:-1 group-title="流畅台湾电视",亞洲旅遊
+https://bsex.serv00.net/Smart.php?id=asiatravel_twn
+#EXTINF:-1 group-title="流畅台湾电视",亞洲美食
+https://bsex.serv00.net/Smart.php?id=afc_twn
+#EXTINF:-1 group-title="流畅台湾电视",八大戲劇
+https://bsex.serv00.net/Smart.php?id=badadrama
+#EXTINF:-1 group-title="流畅台湾电视",八大第一
+https://bsex.serv00.net/Smart.php?id=badafirst
+#EXTINF:-1 group-title="流畅台湾电视",八大綜合
+https://bsex.serv00.net/Smart.php?id=badazhonghe
+#EXTINF:-1 group-title="流畅台湾电视",公視
+https://bsex.serv00.net/Smart.php?id=ctv_taiwan
+#EXTINF:-1 group-title="流畅台湾电视",民視
+https://bsex.serv00.net/Smart.php?id=ftvhd_taiwan
+#EXTINF:-1 group-title="流畅台湾电视",民視第一
+https://bsex.serv00.net/Smart.php?id=lunghuajingdian_twn
+#EXTINF:-1 group-title="流畅台湾电视",民視台灣
+https://bsex.serv00.net/Smart.php?id=ftvtaiwan_twn
+#EXTINF:-1 group-title="流畅台湾电视",民視新聞
+https://bsex.serv00.net/Smart.php?id=ftvnew_taiwan
+#EXTINF:-1 group-title="流畅台湾电视",台視
+https://bsex.serv00.net/Smart.php?id=ttv_taiwan
+#EXTINF:-1 group-title="流畅台湾电视",台視新聞
+https://bsex.serv00.net/Smart.php?id=ttvnews_twn
+#EXTINF:-1 group-title="流畅台湾电视",中視
+https://bsex.serv00.net/Smart.php?id=zhongshihd_twn
+#EXTINF:-1 group-title="流畅台湾电视",中視新聞
+https://bsex.serv00.net/Smart.php?id=zhongshinews_twn
+#EXTINF:-1 group-title="流畅台湾电视",中視經典
+https://bsex.serv00.net/Smart.php?id=zhongshi_twn
+#EXTINF:-1 group-title="流畅台湾电视",華視
+https://bsex.serv00.net/Smart.php?id=ctshd_twn
+#EXTINF:-1 group-title="流畅台湾电视",華藝綜合
+https://bsex.serv00.net/Smart.php?id=weishichinese_twn
+#EXTINF:-1 group-title="流畅台湾电视",大愛一
+https://bsex.serv00.net/Smart.php?id=daai_twn
+#EXTINF:-1 group-title="流畅台湾电视",寰宇新聞
+https://bsex.serv00.net/Smart.php?id=huanyuxinwen_twn
+#EXTINF:-1 group-title="流畅台湾电视",寰宇財經
+https://bsex.serv00.net/Smart.php?id=huanyutaiwan_twn
+#EXTINF:-1 group-title="流畅台湾电视",年代新聞
+https://bsex.serv00.net/Smart.php?id=niandainews_twn
+#EXTINF:-1 group-title="流畅台湾电视",愛爾達影劇
+https://bsex.serv00.net/Smart.php?id=eltayingju_twn
+#EXTINF:-1 group-title="流畅台湾电视",愛爾達體育 1
+https://bsex.serv00.net/Smart.php?id=eltasport_twn
+#EXTINF:-1 group-title="流畅台湾电视",愛爾達體育 2
+https://bsex.serv00.net/Smart.php?id=eltasport2_twn
+#EXTINF:-1 group-title="流畅台湾电视",愛爾達體育 3
+https://bsex.serv00.net/Smart.php?id=eltasport3_twn
+#EXTINF:-1 group-title="流畅台湾电视",ELEVEN體育1
+https://bsex.serv00.net/Smart.php?id=golfchannel_twn
+#EXTINF:-1 group-title="流畅台湾电视",博斯網球
+https://bsex.serv00.net/Smart.php?id=bositennis_twn
+#EXTINF:-1 group-title="流畅台湾电视",博斯運動1
+https://bsex.serv00.net/Smart.php?id=bosisport1_twn
+#EXTINF:-1 group-title="流畅台湾电视",博斯運動2
+https://bsex.serv00.net/Smart.php?id=bosisport2_twn
+#EXTINF:-1 group-title="流畅台湾电视",博斯高球1
+https://bsex.serv00.net/Smart.php?id=bosigolf1_twn
+#EXTINF:-1 group-title="流畅台湾电视",博斯高球2
+https://bsex.serv00.net/Smart.php?id=bosigolf2_twn
+#EXTINF:-1 group-title="流畅台湾电视",探索亞洲
+https://bsex.serv00.net/Smart.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="流畅台湾电视",探索動力
+https://bsex.serv00.net/Smart.php?id=discoveryturbo_twn
+#EXTINF:-1 group-title="流畅台湾电视",國家地理
+https://bsex.serv00.net/Smart.php?id=natgeohd_twn
+#EXTINF:-1 group-title="流畅台湾电视",野生動物
+https://bsex.serv00.net/Smart.php?id=natgeowild_twn
+#EXTINF:-1 group-title="流畅台湾电视",動物星球
+https://bsex.serv00.net/Smart.php?id=animalplanet_twn
+#EXTINF:-1 group-title="流畅台湾电视",時尚
+https://bsex.serv00.net/Smart.php?id=fashiontv_twn
+#EXTINF:-1 group-title="流畅台湾电视",Discovery Asia
+https://bsex.serv00.net/Smart.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="流畅台湾电视",探索頻道
+https://bsex.serv00.net/Smart.php?id=discoveryhd_twn
+#EXTINF:-1 group-title="流畅台湾电视",東森戲劇
+https://bsex.serv00.net/Smart.php?id=ettvdrama
+#EXTINF:-1 group-title="流畅台湾电视",東森洋片
+https://bsex.serv00.net/Smart.php?id=ettvwestern
+#EXTINF:-1 group-title="流畅台湾电视",東森綜合
+https://bsex.serv00.net/Smart.php?id=ettvzhonghe
+#EXTINF:-1 group-title="流畅台湾电视",東森財經新聞
+https://bsex.serv00.net/Smart.php?id=ettvcaijing_twn
+#EXTINF:-1 group-title="流畅台湾电视",東森電影
+https://bsex.serv00.net/Smart.php?id=ettvmovie
+#EXTINF:-1 group-title="流畅台湾电视",緯來日本
+https://bsex.serv00.net/Smart.php?id=videolandjapan
+#EXTINF:-1 group-title="流畅台湾电视",緯來體育
+https://bsex.serv00.net/Smart.php?id=videolandsport
+#EXTINF:-1 group-title="流畅台湾电视",美亞電影
+https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="流畅台湾电视",BBC World News
+https://bsex.serv00.net/Smart.php?id=bbcnews_twn
+#EXTINF:-1 group-title="流畅台湾电视",Bloomberg News
+https://bsex.serv00.net/Smart.php?id=bloomberg_twn
+#EXTINF:-1 group-title="流畅台湾电视",Fox News
+https://bsex.serv00.net/Smart.php?id=foxnews_twn
+#EXTINF:-1 group-title="流畅台湾电视",阿里郎
+https://bsex.serv00.net/Smart.php?id=arirang_twn
+#EXTINF:-1 group-title="流畅台湾电视",CN卡通
+https://bsex.serv00.net/Smart.php?id=momo1_twn
+#EXTINF:-1 group-title="流畅台湾电视",靖天卡通
+https://bsex.serv00.net/Smart.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="流畅台湾电视",靖天國際
+https://bsex.serv00.net/Smart.php?id=jingtianintl_twn
+#EXTINF:-1 group-title="流畅台湾电视",非凡新聞
+https://bsex.serv00.net/Smart.php?id=feifannews_twn
+#EXTINF:-1 group-title="流畅台湾电视",龍祥時代
+https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
+#EXTINF:-1 group-title="流畅台湾电视",龍華偶像
+https://bsex.serv00.net/Smart.php?id=lunghuaidol_twn
+#EXTINF:-1 group-title="流畅台湾电视",龍華戲劇
+https://bsex.serv00.net/Smart.php?id=lunghuaxiju_twn
+#EXTINF:-1 group-title="流畅台湾电视",龍華洋片
+https://bsex.serv00.net/Smart.php?id=lunghuawestern_twn
+#EXTINF:-1 group-title="流畅台湾电视",龍華經典
+https://bsex.serv00.net/Smart.php?id=lunghuajingdian_twn
+#EXTINF:-1 group-title="流畅台湾电视",龍華電影
+https://bsex.serv00.net/Smart.php?id=xingwei_movie
+
+
+
+
