@@ -1,0 +1,272 @@
+#EXTM3U
+#EXTINF:-1 group-title="台湾频道",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="台湾频道",LOVE NATURE
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="台湾频道",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="台湾频道",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="台湾频道",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="台湾频道",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="台湾频道",东森财经
+rtmp://f13h.mine.nu/sat/tv571
+#EXTINF:-1 group-title="台湾频道",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 group-title="台湾频道",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="台湾频道",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="台湾频道",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="台湾频道",DAZN1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="台湾频道",DAZN2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="台湾频道",MOMOTV
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="台湾频道",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="台湾频道",HAKKATV
+http://37.27.111.214:8080/live/1/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",TITV
+http://37.27.111.214:8080/live/2/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",MOMO
+http://37.27.111.214:8080/live/3/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",民视第一台
+http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",民视台湾台
+http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",民视
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",中视
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",华视
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",TV5
+http://37.27.111.214:8080/live/9/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",亚洲旅游
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",外国电影
+http://37.27.111.214:8080/live/11/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",NICK
+http://37.27.111.214:8080/live/12/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",博斯高球一
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",博斯运动一
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",博斯无限
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",博斯网球
+http://37.27.111.214:8080/live/16/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",靇华电影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",NICK JK
+http://37.27.111.214:8080/live/22/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBSHD
+http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBS欢乐台
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",MTVlive
+http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",居家
+http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",History
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",Hits
+http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",CRIME
+http://37.27.111.214:8080/live/29/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",cinmaworld
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",三立综合台
+http://37.27.111.214:8080/live/31/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",rollor
+http://37.27.111.214:8080/live/40/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",靇华戏剧
+http://37.27.111.214:8080/live/41/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",靇华日韩
+http://37.27.111.214:8080/live/42/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",live
+http://37.27.111.214:8080/live/44/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",voa
+http://37.27.111.214:8080/live/45/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",DW
+http://37.27.111.214:8080/live/46/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",中视经典
+http://37.27.111.214:8080/live/47/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",中视精彩
+http://37.27.111.214:8080/live/48/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",阿里郎
+http://37.27.111.214:8080/live/52/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",Global Trakker
+http://37.27.111.214:8080/live/53/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",互动英语
+http://37.27.111.214:8080/live/54/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",生活英语
+http://37.27.111.214:8080/live/56/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画
+http://37.27.111.214:8080/live/57/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",镜新闻
+http://37.27.111.214:8080/live/62/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",寰宇新闻台湾台
+http://37.27.111.214:8080/live/63/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",全球财经
+http://37.27.111.214:8080/live/64/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",寰宇财经
+http://37.27.111.214:8080/live/65/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",FTV综艺
+http://37.27.111.214:8080/live/67/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",ROCK
+http://37.27.111.214:8080/live/70/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",livetime
+http://37.27.111.214:8080/live/71/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",cmusic
+http://37.27.111.214:8080/live/72/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",智林体育
+http://37.27.111.214:8080/live/77/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",体育
+http://37.27.111.214:8080/live/78/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",TECH
+http://37.27.111.214:8080/live/80/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",TET CLUB
+http://37.27.111.214:8080/live/81/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",台湾旅游
+http://37.27.111.214:8080/live/82/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",FESTIVAL
+http://37.27.111.214:8080/live/83/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",LOVE NATURE
+http://37.27.111.214:8080/live/84/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",ELTA生活旅游
+http://37.27.111.214:8080/live/85/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",LUXE
+http://37.27.111.214:8080/live/86/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",公视戏剧
+http://37.27.111.214:8080/live/87/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",FTV影剧
+http://37.27.111.214:8080/live/88/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",影迷纪实台
+http://37.27.111.214:8080/live/92/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",纪实台
+http://37.27.111.214:8080/live/93/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",ROCK2
+http://37.27.111.214:8080/live/94/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",ROCK3
+http://37.27.111.214:8080/live/98/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",GOOD2
+http://37.27.111.214:8080/live/99/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",人间卫视
+http://37.27.111.214:8080/live/101/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",CNBC
+http://37.27.111.214:8080/live/102/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",国会频道1
+http://37.27.111.214:8080/live/103/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",国会频道2
+http://37.27.111.214:8080/live/104/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画频道
+http://37.27.111.214:8080/live/105/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画频道
+http://37.27.111.214:8080/live/106/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画频道
+http://37.27.111.214:8080/live/107/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画频道
+http://37.27.111.214:8080/live/108/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画频道
+http://37.27.111.214:8080/live/109/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",动画频道
+http://37.27.111.214:8080/live/110/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",老电影
+http://37.27.111.214:8080/live/111/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",DW
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBS NEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="台湾频道",NHK WORLD
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="台湾频道",八大戲劇台HD
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="台湾频道",八大綜合台HD
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="台湾频道",八大第1台HD
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="台湾频道",三立戲劇台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="台湾频道",AMC電影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="台湾频道",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="台湾频道",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="台湾频道",中华小当家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="台湾频道",凤凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="台湾频道",纬来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="台湾频道",49号
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 group-title="台湾频道",蕃薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕视频1 8M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕视频2 8M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕视频3 8M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕视频4 8M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育46
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育47
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育48
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育49
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育50
+http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育51
+http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育52
+http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育54
+http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育55
+http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育57
+http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育58
+http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育59
+http://39.135.137.205/000000001000/3000000010000002809/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育61
+http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育61
+http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育62
+http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育63
+http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育64
+http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育65
+http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育66
+http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育67
+http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育68
+http://39.135.137.208/000000001000/3000000010000006658/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育69
+http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育70
+http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育71
+http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
+#EXTINF:-1 group-title="咪咕视频39",咪咕体育72
+http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
+
