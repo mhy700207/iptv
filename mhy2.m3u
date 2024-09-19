@@ -2809,6 +2809,2907 @@ http://61.52.156.70:808/hls/75/index.m3u8
 http://61.52.156.120:808/hls/20/index.m3u8
 #EXTINF:-1 group-title="天津卫视,/hls/579/index.m3u8#http://27.41.248.67:801:4466/udp/27.41.248.67:801:2140",IPTV魅力时尚
 http://183.236.194.115:18080/hls/71/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="北京联通十套",CETV2
+http://123.113.186.207:8000/udp/239.3.1.54:4120
+#EXTINF:-1 group-title="北京联通十套",CETV2
+http://111.193.230.4:4022/udp/239.3.1.54:4120
+#EXTINF:-1 group-title="北京联通十套",CETV2
+http://ikuai.zlsip.top:4022/udp/239.3.1.54:4120
+#EXTINF:-1 group-title="北京联通十套",CETV2
+http://123.112.213.221:4022/udp/239.3.1.54:4120
+#EXTINF:-1 group-title="北京联通十套",CETV2
+http://221.216.137.230:8012/udp/239.3.1.54:4120
+#EXTINF:-1 group-title="北京联通十套",CETV2
+http://sweetown.fun:4000/udp/239.3.1.54:4120
+#EXTINF:-1 group-title="北京联通十套",CETV2
+http://114.246.102.14:4000/udp/239.3.1.54:4120
+#EXTINF:-1 group-title="北京联通十套",CETV2
+http://123.113.236.69:8012/udp/239.3.1.54:4120
+#EXTINF:-1 group-title="北京联通十套",CETV2
+http://222.131.15.137:4000/udp/239.3.1.54:4120
+#EXTINF:-1 group-title="北京联通十套",CETV2
+http://111.196.128.239:4022/udp/239.3.1.54:4120
+#EXTINF:-1 group-title="北京联通十套",CETV3
+http://111.196.128.239:4022/udp/239.3.1.55:4120
+#EXTINF:-1 group-title="北京联通十套",CETV3
+http://123.113.186.207:8000/udp/239.3.1.55:4120
+#EXTINF:-1 group-title="北京联通十套",CETV3
+http://222.131.15.137:4000/udp/239.3.1.55:4120
+#EXTINF:-1 group-title="北京联通十套",CETV3
+http://ikuai.zlsip.top:4022/udp/239.3.1.55:4120
+#EXTINF:-1 group-title="北京联通十套",CETV3
+http://123.112.213.221:4022/udp/239.3.1.55:4120
+#EXTINF:-1 group-title="北京联通十套",CETV3
+http://114.246.102.14:4000/udp/239.3.1.55:4120
+#EXTINF:-1 group-title="北京联通十套",CETV3
+http://221.216.137.230:8012/udp/239.3.1.55:4120
+#EXTINF:-1 group-title="北京联通十套",CETV3
+http://123.113.236.69:8012/udp/239.3.1.55:4120
+#EXTINF:-1 group-title="北京联通十套",CETV3
+http://sweetown.fun:4000/udp/239.3.1.55:4120
+#EXTINF:-1 group-title="北京联通十套",CETV3
+http://111.193.230.4:4022/udp/239.3.1.55:4120
+#EXTINF:-1 group-title="北京联通十套",CETV4
+http://123.112.213.221:4022/udp/239.3.1.56:4120
+#EXTINF:-1 group-title="北京联通十套",CETV4
+http://ikuai.zlsip.top:4022/udp/239.3.1.56:4120
+#EXTINF:-1 group-title="北京联通十套",CETV4
+http://114.246.102.14:4000/udp/239.3.1.56:4120
+#EXTINF:-1 group-title="北京联通十套",CETV4
+http://222.131.15.137:4000/udp/239.3.1.56:4120
+#EXTINF:-1 group-title="北京联通十套",CETV4
+http://111.193.230.4:4022/udp/239.3.1.56:4120
+#EXTINF:-1 group-title="北京联通十套",CETV4
+http://123.113.186.207:8000/udp/239.3.1.56:4120
+#EXTINF:-1 group-title="北京联通十套",CETV4
+http://221.216.137.230:8012/udp/239.3.1.56:4120
+#EXTINF:-1 group-title="北京联通十套",CETV4
+http://sweetown.fun:4000/udp/239.3.1.56:4120
+#EXTINF:-1 group-title="北京联通十套",CETV4
+http://123.113.236.69:8012/udp/239.3.1.56:4120
+#EXTINF:-1 group-title="北京联通十套",CETV4
+http://111.196.128.239:4022/udp/239.3.1.56:4120
+#EXTINF:-1 group-title="北京联通十套",国学
+http://123.112.213.221:4022/udp/239.3.1.77:4120
+#EXTINF:-1 group-title="北京联通十套",国学
+http://ikuai.zlsip.top:4022/udp/239.3.1.77:4120
+#EXTINF:-1 group-title="北京联通十套",国学
+http://111.193.230.4:4022/udp/239.3.1.77:4120
+#EXTINF:-1 group-title="北京联通十套",国学
+http://123.113.236.69:8012/udp/239.3.1.77:4120
+#EXTINF:-1 group-title="北京联通十套",国学
+http://114.246.102.14:4000/udp/239.3.1.77:4120
+#EXTINF:-1 group-title="北京联通十套",国学
+http://222.131.15.137:4000/udp/239.3.1.77:4120
+#EXTINF:-1 group-title="北京联通十套",国学
+http://sweetown.fun:4000/udp/239.3.1.77:4120
+#EXTINF:-1 group-title="北京联通十套",国学
+http://221.216.137.230:8012/udp/239.3.1.77:4120
+#EXTINF:-1 group-title="北京联通十套",国学
+http://123.113.186.207:8000/udp/239.3.1.77:4120
+#EXTINF:-1 group-title="北京联通十套",国学
+http://111.196.128.239:4022/udp/239.3.1.77:4120
+#EXTINF:-1 group-title="北京联通十套",四川卫视
+http://222.131.15.137:4000/udp/239.3.1.29:8288
+#EXTINF:-1 group-title="北京联通十套",四川卫视
+http://114.246.102.14:4000/udp/239.3.1.29:8288
+#EXTINF:-1 group-title="北京联通十套",四川卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.29:8288
+#EXTINF:-1 group-title="北京联通十套",四川卫视
+http://111.193.230.4:4022/udp/239.3.1.29:8288
+#EXTINF:-1 group-title="北京联通十套",四川卫视
+http://123.112.213.221:4022/udp/239.3.1.29:8288
+#EXTINF:-1 group-title="北京联通十套",四川卫视
+http://221.216.137.230:8012/udp/239.3.1.29:8288
+#EXTINF:-1 group-title="北京联通十套",四川卫视
+http://111.196.128.239:4022/udp/239.3.1.29:8288
+#EXTINF:-1 group-title="北京联通十套",四川卫视
+http://sweetown.fun:4000/udp/239.3.1.29:8288
+#EXTINF:-1 group-title="北京联通十套",四川卫视
+http://123.113.186.207:8000/udp/239.3.1.29:8288
+#EXTINF:-1 group-title="北京联通十套",四川卫视
+http://123.113.236.69:8012/udp/239.3.1.29:8288
+#EXTINF:-1 group-title="北京联通十套",云南卫视
+http://221.216.137.230:8012/udp/239.3.1.26:8108
+#EXTINF:-1 group-title="北京联通十套",云南卫视
+http://111.193.230.4:4022/udp/239.3.1.26:8108
+#EXTINF:-1 group-title="北京联通十套",云南卫视
+http://sweetown.fun:4000/udp/239.3.1.26:8108
+#EXTINF:-1 group-title="北京联通十套",云南卫视
+http://123.113.236.69:8012/udp/239.3.1.26:8108
+#EXTINF:-1 group-title="北京联通十套",云南卫视
+http://222.131.15.137:4000/udp/239.3.1.26:8108
+#EXTINF:-1 group-title="北京联通十套",云南卫视
+http://114.246.102.14:4000/udp/239.3.1.26:8108
+#EXTINF:-1 group-title="北京联通十套",云南卫视
+http://123.113.186.207:8000/udp/239.3.1.26:8108
+#EXTINF:-1 group-title="北京联通十套",云南卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.26:8108
+#EXTINF:-1 group-title="北京联通十套",云南卫视
+http://123.112.213.221:4022/udp/239.3.1.26:8108
+#EXTINF:-1 group-title="北京联通十套",云南卫视
+http://111.196.128.239:4022/udp/239.3.1.26:8108
+#EXTINF:-1 group-title="北京联通十套",广西卫视
+http://222.131.15.137:4000/udp/239.3.1.39:8300
+#EXTINF:-1 group-title="北京联通十套",广西卫视
+http://111.196.128.239:4022/udp/239.3.1.39:8300
+#EXTINF:-1 group-title="北京联通十套",广西卫视
+http://114.246.102.14:4000/udp/239.3.1.39:8300
+#EXTINF:-1 group-title="北京联通十套",广西卫视
+http://111.193.230.4:4022/udp/239.3.1.39:8300
+#EXTINF:-1 group-title="北京联通十套",广西卫视
+http://sweetown.fun:4000/udp/239.3.1.39:8300
+#EXTINF:-1 group-title="北京联通十套",广西卫视
+http://221.216.137.230:8012/udp/239.3.1.39:8300
+#EXTINF:-1 group-title="北京联通十套",广西卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.39:8300
+#EXTINF:-1 group-title="北京联通十套",广西卫视
+http://123.113.236.69:8012/udp/239.3.1.39:8300
+#EXTINF:-1 group-title="北京联通十套",广西卫视
+http://123.113.186.207:8000/udp/239.3.1.39:8300
+#EXTINF:-1 group-title="北京联通十套",广西卫视
+http://123.112.213.221:4022/udp/239.3.1.39:8300
+#EXTINF:-1 group-title="北京联通十套",山西卫视
+http://sweetown.fun:4000/udp/239.3.1.42:8172
+#EXTINF:-1 group-title="北京联通十套",山西卫视
+http://111.193.230.4:4022/udp/239.3.1.42:8172
+#EXTINF:-1 group-title="北京联通十套",山西卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.42:8172
+#EXTINF:-1 group-title="北京联通十套",山西卫视
+http://111.196.128.239:4022/udp/239.3.1.42:8172
+#EXTINF:-1 group-title="北京联通十套",山西卫视
+http://221.216.137.230:8012/udp/239.3.1.42:8172
+#EXTINF:-1 group-title="北京联通十套",山西卫视
+http://123.113.236.69:8012/udp/239.3.1.42:8172
+#EXTINF:-1 group-title="北京联通十套",山西卫视
+http://114.246.102.14:4000/udp/239.3.1.42:8172
+#EXTINF:-1 group-title="北京联通十套",山西卫视
+http://222.131.15.137:4000/udp/239.3.1.42:8172
+#EXTINF:-1 group-title="北京联通十套",山西卫视
+http://123.112.213.221:4022/udp/239.3.1.42:8172
+#EXTINF:-1 group-title="北京联通十套",山西卫视
+http://123.113.186.207:8000/udp/239.3.1.42:8172
+#EXTINF:-1 group-title="北京联通十套",陕西卫视
+http://123.112.213.221:4022/udp/239.3.1.41:8140
+#EXTINF:-1 group-title="北京联通十套",陕西卫视
+http://111.193.230.4:4022/udp/239.3.1.41:8140
+#EXTINF:-1 group-title="北京联通十套",陕西卫视
+http://111.196.128.239:4022/udp/239.3.1.41:8140
+#EXTINF:-1 group-title="北京联通十套",陕西卫视
+http://sweetown.fun:4000/udp/239.3.1.41:8140
+#EXTINF:-1 group-title="北京联通十套",陕西卫视
+http://123.113.186.207:8000/udp/239.3.1.41:8140
+#EXTINF:-1 group-title="北京联通十套",陕西卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.41:8140
+#EXTINF:-1 group-title="北京联通十套",陕西卫视
+http://221.216.137.230:8012/udp/239.3.1.41:8140
+#EXTINF:-1 group-title="北京联通十套",陕西卫视
+http://114.246.102.14:4000/udp/239.3.1.41:8140
+#EXTINF:-1 group-title="北京联通十套",陕西卫视
+http://222.131.15.137:4000/udp/239.3.1.41:8140
+#EXTINF:-1 group-title="北京联通十套",陕西卫视
+http://123.113.236.69:8012/udp/239.3.1.41:8140
+#EXTINF:-1 group-title="北京联通十套",内蒙古卫视
+http://111.196.128.239:4022/udp/239.3.1.43:8176
+#EXTINF:-1 group-title="北京联通十套",内蒙古卫视
+http://221.216.137.230:8012/udp/239.3.1.43:8176
+#EXTINF:-1 group-title="北京联通十套",内蒙古卫视
+http://123.113.186.207:8000/udp/239.3.1.43:8176
+#EXTINF:-1 group-title="北京联通十套",内蒙古卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.43:8176
+#EXTINF:-1 group-title="北京联通十套",内蒙古卫视
+http://222.131.15.137:4000/udp/239.3.1.43:8176
+#EXTINF:-1 group-title="北京联通十套",内蒙古卫视
+http://111.193.230.4:4022/udp/239.3.1.43:8176
+#EXTINF:-1 group-title="北京联通十套",内蒙古卫视
+http://114.246.102.14:4000/udp/239.3.1.43:8176
+#EXTINF:-1 group-title="北京联通十套",内蒙古卫视
+http://sweetown.fun:4000/udp/239.3.1.43:8176
+#EXTINF:-1 group-title="北京联通十套",内蒙古卫视
+http://123.113.236.69:8012/udp/239.3.1.43:8176
+#EXTINF:-1 group-title="北京联通十套",内蒙古卫视
+http://123.112.213.221:4022/udp/239.3.1.43:8176
+#EXTINF:-1 group-title="北京联通十套",河南卫视
+http://114.246.102.14:4000/udp/239.3.1.27:8128
+#EXTINF:-1 group-title="北京联通十套",河南卫视
+http://sweetown.fun:4000/udp/239.3.1.27:8128
+#EXTINF:-1 group-title="北京联通十套",河南卫视
+http://221.216.137.230:8012/udp/239.3.1.27:8128
+#EXTINF:-1 group-title="北京联通十套",河南卫视
+http://111.196.128.239:4022/udp/239.3.1.27:8128
+#EXTINF:-1 group-title="北京联通十套",河南卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.27:8128
+#EXTINF:-1 group-title="北京联通十套",河南卫视
+http://123.113.236.69:8012/udp/239.3.1.27:8128
+#EXTINF:-1 group-title="北京联通十套",河南卫视
+http://111.193.230.4:4022/udp/239.3.1.27:8128
+#EXTINF:-1 group-title="北京联通十套",河南卫视
+http://123.112.213.221:4022/udp/239.3.1.27:8128
+#EXTINF:-1 group-title="北京联通十套",河南卫视
+http://123.113.186.207:8000/udp/239.3.1.27:8128
+#EXTINF:-1 group-title="北京联通十套",河南卫视
+http://222.131.15.137:4000/udp/239.3.1.27:8128
+#EXTINF:-1 group-title="北京联通十套",宁夏卫视
+http://222.131.15.137:4000/udp/239.3.1.46:8124
+#EXTINF:-1 group-title="北京联通十套",宁夏卫视
+http://111.196.128.239:4022/udp/239.3.1.46:8124
+#EXTINF:-1 group-title="北京联通十套",宁夏卫视
+http://221.216.137.230:8012/udp/239.3.1.46:8124
+#EXTINF:-1 group-title="北京联通十套",宁夏卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.46:8124
+#EXTINF:-1 group-title="北京联通十套",宁夏卫视
+http://123.113.186.207:8000/udp/239.3.1.46:8124
+#EXTINF:-1 group-title="北京联通十套",宁夏卫视
+http://123.112.213.221:4022/udp/239.3.1.46:8124
+#EXTINF:-1 group-title="北京联通十套",宁夏卫视
+http://sweetown.fun:4000/udp/239.3.1.46:8124
+#EXTINF:-1 group-title="北京联通十套",宁夏卫视
+http://114.246.102.14:4000/udp/239.3.1.46:8124
+#EXTINF:-1 group-title="北京联通十套",宁夏卫视
+http://123.113.236.69:8012/udp/239.3.1.46:8124
+#EXTINF:-1 group-title="北京联通十套",宁夏卫视
+http://111.193.230.4:4022/udp/239.3.1.46:8124
+#EXTINF:-1 group-title="北京联通十套",甘肃卫视
+http://123.112.213.221:4022/udp/239.3.1.49:8188
+#EXTINF:-1 group-title="北京联通十套",甘肃卫视
+http://123.113.236.69:8012/udp/239.3.1.49:8188
+#EXTINF:-1 group-title="北京联通十套",甘肃卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.49:8188
+#EXTINF:-1 group-title="北京联通十套",甘肃卫视
+http://123.113.186.207:8000/udp/239.3.1.49:8188
+#EXTINF:-1 group-title="北京联通十套",甘肃卫视
+http://sweetown.fun:4000/udp/239.3.1.49:8188
+#EXTINF:-1 group-title="北京联通十套",甘肃卫视
+http://221.216.137.230:8012/udp/239.3.1.49:8188
+#EXTINF:-1 group-title="北京联通十套",甘肃卫视
+http://222.131.15.137:4000/udp/239.3.1.49:8188
+#EXTINF:-1 group-title="北京联通十套",甘肃卫视
+http://111.193.230.4:4022/udp/239.3.1.49:8188
+#EXTINF:-1 group-title="北京联通十套",甘肃卫视
+http://114.246.102.14:4000/udp/239.3.1.49:8188
+#EXTINF:-1 group-title="北京联通十套",甘肃卫视
+http://111.196.128.239:4022/udp/239.3.1.49:8188
+#EXTINF:-1 group-title="北京联通十套",青海卫视
+http://123.113.186.207:8000/udp/239.3.1.44:8184
+#EXTINF:-1 group-title="北京联通十套",青海卫视
+http://114.246.102.14:4000/udp/239.3.1.44:8184
+#EXTINF:-1 group-title="北京联通十套",青海卫视
+http://111.196.128.239:4022/udp/239.3.1.44:8184
+#EXTINF:-1 group-title="北京联通十套",青海卫视
+http://sweetown.fun:4000/udp/239.3.1.44:8184
+#EXTINF:-1 group-title="北京联通十套",青海卫视
+http://111.193.230.4:4022/udp/239.3.1.44:8184
+#EXTINF:-1 group-title="北京联通十套",青海卫视
+http://221.216.137.230:8012/udp/239.3.1.44:8184
+#EXTINF:-1 group-title="北京联通十套",青海卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.44:8184
+#EXTINF:-1 group-title="北京联通十套",青海卫视
+http://123.113.236.69:8012/udp/239.3.1.44:8184
+#EXTINF:-1 group-title="北京联通十套",青海卫视
+http://222.131.15.137:4000/udp/239.3.1.44:8184
+#EXTINF:-1 group-title="北京联通十套",青海卫视
+http://123.112.213.221:4022/udp/239.3.1.44:8184
+#EXTINF:-1 group-title="北京联通十套",新疆卫视
+http://123.113.236.69:8012/udp/239.3.1.48:8160
+#EXTINF:-1 group-title="北京联通十套",新疆卫视
+http://114.246.102.14:4000/udp/239.3.1.48:8160
+#EXTINF:-1 group-title="北京联通十套",新疆卫视
+http://222.131.15.137:4000/udp/239.3.1.48:8160
+#EXTINF:-1 group-title="北京联通十套",新疆卫视
+http://111.193.230.4:4022/udp/239.3.1.48:8160
+#EXTINF:-1 group-title="北京联通十套",新疆卫视
+http://123.113.186.207:8000/udp/239.3.1.48:8160
+#EXTINF:-1 group-title="北京联通十套",新疆卫视
+http://123.112.213.221:4022/udp/239.3.1.48:8160
+#EXTINF:-1 group-title="北京联通十套",新疆卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.48:8160
+#EXTINF:-1 group-title="北京联通十套",新疆卫视
+http://111.196.128.239:4022/udp/239.3.1.48:8160
+#EXTINF:-1 group-title="北京联通十套",新疆卫视
+http://sweetown.fun:4000/udp/239.3.1.48:8160
+#EXTINF:-1 group-title="北京联通十套",新疆卫视
+http://221.216.137.230:8012/udp/239.3.1.48:8160
+#EXTINF:-1 group-title="北京联通十套",西藏卫视
+http://123.113.186.207:8000/udp/239.3.1.47:8164
+#EXTINF:-1 group-title="北京联通十套",西藏卫视
+http://123.113.236.69:8012/udp/239.3.1.47:8164
+#EXTINF:-1 group-title="北京联通十套",西藏卫视
+http://sweetown.fun:4000/udp/239.3.1.47:8164
+#EXTINF:-1 group-title="北京联通十套",西藏卫视
+http://111.196.128.239:4022/udp/239.3.1.47:8164
+#EXTINF:-1 group-title="北京联通十套",西藏卫视
+http://222.131.15.137:4000/udp/239.3.1.47:8164
+#EXTINF:-1 group-title="北京联通十套",西藏卫视
+http://123.112.213.221:4022/udp/239.3.1.47:8164
+#EXTINF:-1 group-title="北京联通十套",西藏卫视
+http://221.216.137.230:8012/udp/239.3.1.47:8164
+#EXTINF:-1 group-title="北京联通十套",西藏卫视
+http://111.193.230.4:4022/udp/239.3.1.47:8164
+#EXTINF:-1 group-title="北京联通十套",西藏卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.47:8164
+#EXTINF:-1 group-title="北京联通十套",西藏卫视
+http://114.246.102.14:4000/udp/239.3.1.47:8164
+#EXTINF:-1 group-title="北京联通十套",兵团卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.144:4120
+#EXTINF:-1 group-title="北京联通十套",兵团卫视
+http://sweetown.fun:4000/udp/239.3.1.144:4120
+#EXTINF:-1 group-title="北京联通十套",兵团卫视
+http://111.196.128.239:4022/udp/239.3.1.144:4120
+#EXTINF:-1 group-title="北京联通十套",兵团卫视
+http://222.131.15.137:4000/udp/239.3.1.144:4120
+#EXTINF:-1 group-title="北京联通十套",兵团卫视
+http://123.112.213.221:4022/udp/239.3.1.144:4120
+#EXTINF:-1 group-title="北京联通十套",兵团卫视
+http://114.246.102.14:4000/udp/239.3.1.144:4120
+#EXTINF:-1 group-title="北京联通十套",兵团卫视
+http://221.216.137.230:8012/udp/239.3.1.144:4120
+#EXTINF:-1 group-title="北京联通十套",兵团卫视
+http://123.113.186.207:8000/udp/239.3.1.144:4120
+#EXTINF:-1 group-title="北京联通十套",兵团卫视
+http://123.113.236.69:8012/udp/239.3.1.144:4120
+#EXTINF:-1 group-title="北京联通十套",兵团卫视
+http://111.193.230.4:4022/udp/239.3.1.144:4120
+#EXTINF:-1 group-title="北京联通十套",少儿动画
+http://111.193.230.4:4022/udp/239.3.1.199:9000
+#EXTINF:-1 group-title="北京联通十套",少儿动画
+http://123.112.213.221:4022/udp/239.3.1.199:9000
+#EXTINF:-1 group-title="北京联通十套",少儿动画
+http://123.113.186.207:8000/udp/239.3.1.199:9000
+#EXTINF:-1 group-title="北京联通十套",少儿动画
+http://sweetown.fun:4000/udp/239.3.1.199:9000
+#EXTINF:-1 group-title="北京联通十套",少儿动画
+http://222.131.15.137:4000/udp/239.3.1.199:9000
+#EXTINF:-1 group-title="北京联通十套",少儿动画
+http://111.196.128.239:4022/udp/239.3.1.199:9000
+#EXTINF:-1 group-title="北京联通十套",少儿动画
+http://123.113.236.69:8012/udp/239.3.1.199:9000
+#EXTINF:-1 group-title="北京联通十套",少儿动画
+http://114.246.102.14:4000/udp/239.3.1.199:9000
+#EXTINF:-1 group-title="北京联通十套",少儿动画
+http://221.216.137.230:8012/udp/239.3.1.199:9000
+#EXTINF:-1 group-title="北京联通十套",少儿动画
+http://ikuai.zlsip.top:4022/udp/239.3.1.199:9000
+#EXTINF:-1 group-title="北京联通十套",金鹰卡通
+http://sweetown.fun:4000/udp/239.3.1.51:9252
+#EXTINF:-1 group-title="北京联通十套",金鹰卡通
+http://111.193.230.4:4022/udp/239.3.1.51:9252
+#EXTINF:-1 group-title="北京联通十套",金鹰卡通
+http://123.113.186.207:8000/udp/239.3.1.51:9252
+#EXTINF:-1 group-title="北京联通十套",金鹰卡通
+http://123.112.213.221:4022/udp/239.3.1.51:9252
+#EXTINF:-1 group-title="北京联通十套",金鹰卡通
+http://111.196.128.239:4022/udp/239.3.1.51:9252
+#EXTINF:-1 group-title="北京联通十套",金鹰卡通
+http://ikuai.zlsip.top:4022/udp/239.3.1.51:9252
+#EXTINF:-1 group-title="北京联通十套",金鹰卡通
+http://123.113.236.69:8012/udp/239.3.1.51:9252
+#EXTINF:-1 group-title="北京联通十套",金鹰卡通
+http://221.216.137.230:8012/udp/239.3.1.51:9252
+#EXTINF:-1 group-title="北京联通十套",金鹰卡通
+http://114.246.102.14:4000/udp/239.3.1.51:9252
+#EXTINF:-1 group-title="北京联通十套",金鹰卡通
+http://222.131.15.137:4000/udp/239.3.1.51:9252
+#EXTINF:-1 group-title="北京联通十套",嘉佳卡通
+http://221.216.137.230:8012/udp/239.3.1.147:9268
+#EXTINF:-1 group-title="北京联通十套",嘉佳卡通
+http://222.131.15.137:4000/udp/239.3.1.147:9268
+#EXTINF:-1 group-title="北京联通十套",嘉佳卡通
+http://111.193.230.4:4022/udp/239.3.1.147:9268
+#EXTINF:-1 group-title="北京联通十套",嘉佳卡通
+http://114.246.102.14:4000/udp/239.3.1.147:9268
+#EXTINF:-1 group-title="北京联通十套",嘉佳卡通
+http://123.113.236.69:8012/udp/239.3.1.147:9268
+#EXTINF:-1 group-title="北京联通十套",嘉佳卡通
+http://111.196.128.239:4022/udp/239.3.1.147:9268
+#EXTINF:-1 group-title="北京联通十套",嘉佳卡通
+http://sweetown.fun:4000/udp/239.3.1.147:9268
+#EXTINF:-1 group-title="北京联通十套",嘉佳卡通
+http://ikuai.zlsip.top:4022/udp/239.3.1.147:9268
+#EXTINF:-1 group-title="北京联通十套",嘉佳卡通
+http://123.113.186.207:8000/udp/239.3.1.147:9268
+#EXTINF:-1 group-title="北京联通十套",嘉佳卡通
+http://123.112.213.221:4022/udp/239.3.1.147:9268
+#EXTINF:-1 group-title="北京联通十套",魅力时尚
+http://123.113.236.69:8012/udp/239.3.1.196:9012
+#EXTINF:-1 group-title="北京联通十套",魅力时尚
+http://114.246.102.14:4000/udp/239.3.1.196:9012
+#EXTINF:-1 group-title="北京联通十套",魅力时尚
+http://222.131.15.137:4000/udp/239.3.1.196:9012
+#EXTINF:-1 group-title="北京联通十套",魅力时尚
+http://111.193.230.4:4022/udp/239.3.1.196:9012
+#EXTINF:-1 group-title="北京联通十套",魅力时尚
+http://123.112.213.221:4022/udp/239.3.1.196:9012
+#EXTINF:-1 group-title="北京联通十套",魅力时尚
+http://ikuai.zlsip.top:4022/udp/239.3.1.196:9012
+#EXTINF:-1 group-title="北京联通十套",魅力时尚
+http://123.113.186.207:8000/udp/239.3.1.196:9012
+#EXTINF:-1 group-title="北京联通十套",魅力时尚
+http://111.196.128.239:4022/udp/239.3.1.196:9012
+#EXTINF:-1 group-title="北京联通十套",魅力时尚
+http://sweetown.fun:4000/udp/239.3.1.196:9012
+#EXTINF:-1 group-title="北京联通十套",魅力时尚
+http://221.216.137.230:8012/udp/239.3.1.196:9012
+#EXTINF:-1 group-title="北京联通十套",收视指南
+http://123.112.213.221:4022/udp/239.3.1.193:8012
+#EXTINF:-1 group-title="北京联通十套",收视指南
+http://222.131.15.137:4000/udp/239.3.1.193:8012
+#EXTINF:-1 group-title="北京联通十套",收视指南
+http://111.193.230.4:4022/udp/239.3.1.193:8012
+#EXTINF:-1 group-title="北京联通十套",收视指南
+http://114.246.102.14:4000/udp/239.3.1.193:8012
+#EXTINF:-1 group-title="北京联通十套",收视指南
+http://sweetown.fun:4000/udp/239.3.1.193:8012
+#EXTINF:-1 group-title="北京联通十套",收视指南
+http://111.196.128.239:4022/udp/239.3.1.193:8012
+#EXTINF:-1 group-title="北京联通十套",收视指南
+http://ikuai.zlsip.top:4022/udp/239.3.1.193:8012
+#EXTINF:-1 group-title="北京联通十套",收视指南
+http://123.113.186.207:8000/udp/239.3.1.193:8012
+#EXTINF:-1 group-title="北京联通十套",收视指南
+http://221.216.137.230:8012/udp/239.3.1.193:8012
+#EXTINF:-1 group-title="北京联通十套",收视指南
+http://123.113.236.69:8012/udp/239.3.1.193:8012
+#EXTINF:-1 group-title="北京联通十套",财富天下
+http://222.131.15.137:4000/udp/239.3.1.53:9136
+#EXTINF:-1 group-title="北京联通十套",财富天下
+http://123.113.236.69:8012/udp/239.3.1.53:9136
+#EXTINF:-1 group-title="北京联通十套",财富天下
+http://123.113.186.207:8000/udp/239.3.1.53:9136
+#EXTINF:-1 group-title="北京联通十套",财富天下
+http://sweetown.fun:4000/udp/239.3.1.53:9136
+#EXTINF:-1 group-title="北京联通十套",财富天下
+http://221.216.137.230:8012/udp/239.3.1.53:9136
+#EXTINF:-1 group-title="北京联通十套",财富天下
+http://123.112.213.221:4022/udp/239.3.1.53:9136
+#EXTINF:-1 group-title="北京联通十套",财富天下
+http://111.196.128.239:4022/udp/239.3.1.53:9136
+#EXTINF:-1 group-title="北京联通十套",财富天下
+http://114.246.102.14:4000/udp/239.3.1.53:9136
+#EXTINF:-1 group-title="北京联通十套",财富天下
+http://ikuai.zlsip.top:4022/udp/239.3.1.53:9136
+#EXTINF:-1 group-title="北京联通十套",财富天下
+http://111.193.230.4:4022/udp/239.3.1.53:9136
+#EXTINF:-1 group-title="北京联通十套",热播剧场
+http://222.131.15.137:4000/udp/239.3.1.194:9020
+#EXTINF:-1 group-title="北京联通十套",热播剧场
+http://221.216.137.230:8012/udp/239.3.1.194:9020
+#EXTINF:-1 group-title="北京联通十套",热播剧场
+http://123.112.213.221:4022/udp/239.3.1.194:9020
+#EXTINF:-1 group-title="北京联通十套",热播剧场
+http://ikuai.zlsip.top:4022/udp/239.3.1.194:9020
+#EXTINF:-1 group-title="北京联通十套",热播剧场
+http://114.246.102.14:4000/udp/239.3.1.194:9020
+#EXTINF:-1 group-title="北京联通十套",热播剧场
+http://123.113.186.207:8000/udp/239.3.1.194:9020
+#EXTINF:-1 group-title="北京联通十套",热播剧场
+http://sweetown.fun:4000/udp/239.3.1.194:9020
+#EXTINF:-1 group-title="北京联通十套",热播剧场
+http://111.193.230.4:4022/udp/239.3.1.194:9020
+#EXTINF:-1 group-title="北京联通十套",热播剧场
+http://123.113.236.69:8012/udp/239.3.1.194:9020
+#EXTINF:-1 group-title="北京联通十套",热播剧场
+http://111.196.128.239:4022/udp/239.3.1.194:9020
+#EXTINF:-1 group-title="北京联通十套",经典电影
+http://114.246.102.14:4000/udp/239.3.1.195:9024
+#EXTINF:-1 group-title="北京联通十套",经典电影
+http://sweetown.fun:4000/udp/239.3.1.195:9024
+#EXTINF:-1 group-title="北京联通十套",经典电影
+http://123.112.213.221:4022/udp/239.3.1.195:9024
+#EXTINF:-1 group-title="北京联通十套",经典电影
+http://221.216.137.230:8012/udp/239.3.1.195:9024
+#EXTINF:-1 group-title="北京联通十套",经典电影
+http://ikuai.zlsip.top:4022/udp/239.3.1.195:9024
+#EXTINF:-1 group-title="北京联通十套",经典电影
+http://111.196.128.239:4022/udp/239.3.1.195:9024
+#EXTINF:-1 group-title="北京联通十套",经典电影
+http://111.193.230.4:4022/udp/239.3.1.195:9024
+#EXTINF:-1 group-title="北京联通十套",经典电影
+http://123.113.236.69:8012/udp/239.3.1.195:9024
+#EXTINF:-1 group-title="北京联通十套",经典电影
+http://123.113.186.207:8000/udp/239.3.1.195:9024
+#EXTINF:-1 group-title="北京联通十套",经典电影
+http://222.131.15.137:4000/udp/239.3.1.195:9024
+#EXTINF:-1 group-title="北京联通十套",城市剧场
+http://111.193.230.4:4022/udp/239.3.1.67:4120
+#EXTINF:-1 group-title="北京联通十套",城市剧场
+http://222.131.15.137:4000/udp/239.3.1.67:4120
+#EXTINF:-1 group-title="北京联通十套",城市剧场
+http://221.216.137.230:8012/udp/239.3.1.67:4120
+#EXTINF:-1 group-title="北京联通十套",城市剧场
+http://ikuai.zlsip.top:4022/udp/239.3.1.67:4120
+#EXTINF:-1 group-title="北京联通十套",城市剧场
+http://123.113.236.69:8012/udp/239.3.1.67:4120
+#EXTINF:-1 group-title="北京联通十套",城市剧场
+http://123.112.213.221:4022/udp/239.3.1.67:4120
+#EXTINF:-1 group-title="北京联通十套",城市剧场
+http://114.246.102.14:4000/udp/239.3.1.67:4120
+#EXTINF:-1 group-title="北京联通十套",城市剧场
+http://111.196.128.239:4022/udp/239.3.1.67:4120
+#EXTINF:-1 group-title="北京联通十套",城市剧场
+http://sweetown.fun:4000/udp/239.3.1.67:4120
+#EXTINF:-1 group-title="北京联通十套",城市剧场
+http://123.113.186.207:8000/udp/239.3.1.67:4120
+#EXTINF:-1 group-title="北京联通十套",军旅剧场
+http://111.196.128.239:4022/udp/239.3.1.68:4120
+#EXTINF:-1 group-title="北京联通十套",军旅剧场
+http://123.113.236.69:8012/udp/239.3.1.68:4120
+#EXTINF:-1 group-title="北京联通十套",军旅剧场
+http://ikuai.zlsip.top:4022/udp/239.3.1.68:4120
+#EXTINF:-1 group-title="北京联通十套",军旅剧场
+http://222.131.15.137:4000/udp/239.3.1.68:4120
+#EXTINF:-1 group-title="北京联通十套",军旅剧场
+http://sweetown.fun:4000/udp/239.3.1.68:4120
+#EXTINF:-1 group-title="北京联通十套",军旅剧场
+http://114.246.102.14:4000/udp/239.3.1.68:4120
+#EXTINF:-1 group-title="北京联通十套",军旅剧场
+http://111.193.230.4:4022/udp/239.3.1.68:4120
+#EXTINF:-1 group-title="北京联通十套",军旅剧场
+http://221.216.137.230:8012/udp/239.3.1.68:4120
+#EXTINF:-1 group-title="北京联通十套",军旅剧场
+http://123.113.186.207:8000/udp/239.3.1.68:4120
+#EXTINF:-1 group-title="北京联通十套",军旅剧场
+http://123.112.213.221:4022/udp/239.3.1.68:4120
+#EXTINF:-1 group-title="北京联通十套",古装剧场
+http://123.113.186.207:8000/udp/239.3.1.69:4120
+#EXTINF:-1 group-title="北京联通十套",古装剧场
+http://114.246.102.14:4000/udp/239.3.1.69:4120
+#EXTINF:-1 group-title="北京联通十套",古装剧场
+http://222.131.15.137:4000/udp/239.3.1.69:4120
+#EXTINF:-1 group-title="北京联通十套",古装剧场
+http://sweetown.fun:4000/udp/239.3.1.69:4120
+#EXTINF:-1 group-title="北京联通十套",古装剧场
+http://111.193.230.4:4022/udp/239.3.1.69:4120
+#EXTINF:-1 group-title="北京联通十套",古装剧场
+http://123.112.213.221:4022/udp/239.3.1.69:4120
+#EXTINF:-1 group-title="北京联通十套",古装剧场
+http://221.216.137.230:8012/udp/239.3.1.69:4120
+#EXTINF:-1 group-title="北京联通十套",古装剧场
+http://ikuai.zlsip.top:4022/udp/239.3.1.69:4120
+#EXTINF:-1 group-title="北京联通十套",古装剧场
+http://111.196.128.239:4022/udp/239.3.1.69:4120
+#EXTINF:-1 group-title="北京联通十套",古装剧场
+http://123.113.236.69:8012/udp/239.3.1.69:4120
+#EXTINF:-1 group-title="北京联通十套",音乐现场
+http://221.216.137.230:8012/udp/239.3.1.70:4120
+#EXTINF:-1 group-title="北京联通十套",音乐现场
+http://123.112.213.221:4022/udp/239.3.1.70:4120
+#EXTINF:-1 group-title="北京联通十套",音乐现场
+http://222.131.15.137:4000/udp/239.3.1.70:4120
+#EXTINF:-1 group-title="北京联通十套",音乐现场
+http://111.196.128.239:4022/udp/239.3.1.70:4120
+#EXTINF:-1 group-title="北京联通十套",音乐现场
+http://114.246.102.14:4000/udp/239.3.1.70:4120
+#EXTINF:-1 group-title="北京联通十套",音乐现场
+http://123.113.186.207:8000/udp/239.3.1.70:4120
+#EXTINF:-1 group-title="北京联通十套",音乐现场
+http://ikuai.zlsip.top:4022/udp/239.3.1.70:4120
+#EXTINF:-1 group-title="北京联通十套",音乐现场
+http://sweetown.fun:4000/udp/239.3.1.70:4120
+#EXTINF:-1 group-title="北京联通十套",音乐现场
+http://123.113.236.69:8012/udp/239.3.1.70:4120
+#EXTINF:-1 group-title="北京联通十套",音乐现场
+http://111.193.230.4:4022/udp/239.3.1.70:4120
+#EXTINF:-1 group-title="北京联通十套",地理
+http://222.131.15.137:4000/udp/239.3.1.71:4120
+#EXTINF:-1 group-title="北京联通十套",地理
+http://111.193.230.4:4022/udp/239.3.1.71:4120
+#EXTINF:-1 group-title="北京联通十套",地理
+http://111.196.128.239:4022/udp/239.3.1.71:4120
+#EXTINF:-1 group-title="北京联通十套",地理
+http://123.113.186.207:8000/udp/239.3.1.71:4120
+#EXTINF:-1 group-title="北京联通十套",地理
+http://sweetown.fun:4000/udp/239.3.1.71:4120
+#EXTINF:-1 group-title="北京联通十套",地理
+http://221.216.137.230:8012/udp/239.3.1.71:4120
+#EXTINF:-1 group-title="北京联通十套",地理
+http://114.246.102.14:4000/udp/239.3.1.71:4120
+#EXTINF:-1 group-title="北京联通十套",地理
+http://ikuai.zlsip.top:4022/udp/239.3.1.71:4120
+#EXTINF:-1 group-title="北京联通十套",地理
+http://123.113.236.69:8012/udp/239.3.1.71:4120
+#EXTINF:-1 group-title="北京联通十套",地理
+http://123.112.213.221:4022/udp/239.3.1.71:4120
+#EXTINF:-1 group-title="北京联通十套",美妆
+http://ikuai.zlsip.top:4022/udp/239.3.1.72:4120
+#EXTINF:-1 group-title="北京联通十套",美妆
+http://221.216.137.230:8012/udp/239.3.1.72:4120
+#EXTINF:-1 group-title="北京联通十套",美妆
+http://123.113.186.207:8000/udp/239.3.1.72:4120
+#EXTINF:-1 group-title="北京联通十套",美妆
+http://123.113.236.69:8012/udp/239.3.1.72:4120
+#EXTINF:-1 group-title="北京联通十套",美妆
+http://222.131.15.137:4000/udp/239.3.1.72:4120
+#EXTINF:-1 group-title="北京联通十套",美妆
+http://123.112.213.221:4022/udp/239.3.1.72:4120
+#EXTINF:-1 group-title="北京联通十套",美妆
+http://sweetown.fun:4000/udp/239.3.1.72:4120
+#EXTINF:-1 group-title="北京联通十套",美妆
+http://111.193.230.4:4022/udp/239.3.1.72:4120
+#EXTINF:-1 group-title="北京联通十套",美妆
+http://111.196.128.239:4022/udp/239.3.1.72:4120
+#EXTINF:-1 group-title="北京联通十套",美妆
+http://114.246.102.14:4000/udp/239.3.1.72:4120
+#EXTINF:-1 group-title="北京联通十套",美人
+http://222.131.15.137:4000/udp/239.3.1.73:4120
+#EXTINF:-1 group-title="北京联通十套",美人
+http://111.196.128.239:4022/udp/239.3.1.73:4120
+#EXTINF:-1 group-title="北京联通十套",美人
+http://123.113.186.207:8000/udp/239.3.1.73:4120
+#EXTINF:-1 group-title="北京联通十套",美人
+http://123.112.213.221:4022/udp/239.3.1.73:4120
+#EXTINF:-1 group-title="北京联通十套",美人
+http://114.246.102.14:4000/udp/239.3.1.73:4120
+#EXTINF:-1 group-title="北京联通十套",美人
+http://sweetown.fun:4000/udp/239.3.1.73:4120
+#EXTINF:-1 group-title="北京联通十套",美人
+http://ikuai.zlsip.top:4022/udp/239.3.1.73:4120
+#EXTINF:-1 group-title="北京联通十套",美人
+http://123.113.236.69:8012/udp/239.3.1.73:4120
+#EXTINF:-1 group-title="北京联通十套",美人
+http://111.193.230.4:4022/udp/239.3.1.73:4120
+#EXTINF:-1 group-title="北京联通十套",美人
+http://221.216.137.230:8012/udp/239.3.1.73:4120
+#EXTINF:-1 group-title="北京联通十套",精选
+http://114.246.102.14:4000/udp/239.3.1.74:4120
+#EXTINF:-1 group-title="北京联通十套",精选
+http://111.193.230.4:4022/udp/239.3.1.74:4120
+#EXTINF:-1 group-title="北京联通十套",精选
+http://sweetown.fun:4000/udp/239.3.1.74:4120
+#EXTINF:-1 group-title="北京联通十套",精选
+http://221.216.137.230:8012/udp/239.3.1.74:4120
+#EXTINF:-1 group-title="北京联通十套",精选
+http://ikuai.zlsip.top:4022/udp/239.3.1.74:4120
+#EXTINF:-1 group-title="北京联通十套",精选
+http://123.113.236.69:8012/udp/239.3.1.74:4120
+#EXTINF:-1 group-title="北京联通十套",精选
+http://111.196.128.239:4022/udp/239.3.1.74:4120
+#EXTINF:-1 group-title="北京联通十套",精选
+http://222.131.15.137:4000/udp/239.3.1.74:4120
+#EXTINF:-1 group-title="北京联通十套",精选
+http://123.113.186.207:8000/udp/239.3.1.74:4120
+#EXTINF:-1 group-title="北京联通十套",精选
+http://123.112.213.221:4022/udp/239.3.1.74:4120
+#EXTINF:-1 group-title="北京联通十套",解密
+http://123.112.213.221:4022/udp/239.3.1.75:4120
+#EXTINF:-1 group-title="北京联通十套",解密
+http://sweetown.fun:4000/udp/239.3.1.75:4120
+#EXTINF:-1 group-title="北京联通十套",解密
+http://114.246.102.14:4000/udp/239.3.1.75:4120
+#EXTINF:-1 group-title="北京联通十套",解密
+http://ikuai.zlsip.top:4022/udp/239.3.1.75:4120
+#EXTINF:-1 group-title="北京联通十套",解密
+http://123.113.236.69:8012/udp/239.3.1.75:4120
+#EXTINF:-1 group-title="北京联通十套",解密
+http://123.113.186.207:8000/udp/239.3.1.75:4120
+#EXTINF:-1 group-title="北京联通十套",解密
+http://111.196.128.239:4022/udp/239.3.1.75:4120
+#EXTINF:-1 group-title="北京联通十套",解密
+http://221.216.137.230:8012/udp/239.3.1.75:4120
+#EXTINF:-1 group-title="北京联通十套",解密
+http://222.131.15.137:4000/udp/239.3.1.75:4120
+#EXTINF:-1 group-title="北京联通十套",解密
+http://111.193.230.4:4022/udp/239.3.1.75:4120
+#EXTINF:-1 group-title="北京联通十套",军事
+http://111.196.128.239:4022/udp/239.3.1.76:4120
+#EXTINF:-1 group-title="北京联通十套",军事
+http://sweetown.fun:4000/udp/239.3.1.76:4120
+#EXTINF:-1 group-title="北京联通十套",军事
+http://123.113.186.207:8000/udp/239.3.1.76:4120
+#EXTINF:-1 group-title="北京联通十套",军事
+http://ikuai.zlsip.top:4022/udp/239.3.1.76:4120
+#EXTINF:-1 group-title="北京联通十套",军事
+http://123.112.213.221:4022/udp/239.3.1.76:4120
+#EXTINF:-1 group-title="北京联通十套",军事
+http://221.216.137.230:8012/udp/239.3.1.76:4120
+#EXTINF:-1 group-title="北京联通十套",军事
+http://123.113.236.69:8012/udp/239.3.1.76:4120
+#EXTINF:-1 group-title="北京联通十套",军事
+http://222.131.15.137:4000/udp/239.3.1.76:4120
+#EXTINF:-1 group-title="北京联通十套",军事
+http://114.246.102.14:4000/udp/239.3.1.76:4120
+#EXTINF:-1 group-title="北京联通十套",军事
+http://111.193.230.4:4022/udp/239.3.1.76:4120
+#EXTINF:-1 group-title="北京联通十套",戏曲
+http://sweetown.fun:4000/udp/239.3.1.78:4120
+#EXTINF:-1 group-title="北京联通十套",戏曲
+http://123.112.213.221:4022/udp/239.3.1.78:4120
+#EXTINF:-1 group-title="北京联通十套",戏曲
+http://114.246.102.14:4000/udp/239.3.1.78:4120
+#EXTINF:-1 group-title="北京联通十套",戏曲
+http://221.216.137.230:8012/udp/239.3.1.78:4120
+#EXTINF:-1 group-title="北京联通十套",戏曲
+http://123.113.236.69:8012/udp/239.3.1.78:4120
+#EXTINF:-1 group-title="北京联通十套",戏曲
+http://ikuai.zlsip.top:4022/udp/239.3.1.78:4120
+#EXTINF:-1 group-title="北京联通十套",戏曲
+http://222.131.15.137:4000/udp/239.3.1.78:4120
+#EXTINF:-1 group-title="北京联通十套",戏曲
+http://123.113.186.207:8000/udp/239.3.1.78:4120
+#EXTINF:-1 group-title="北京联通十套",戏曲
+http://111.193.230.4:4022/udp/239.3.1.78:4120
+#EXTINF:-1 group-title="北京联通十套",戏曲
+http://111.196.128.239:4022/udp/239.3.1.78:4120
+#EXTINF:-1 group-title="北京联通十套",早教
+http://sweetown.fun:4000/udp/239.3.1.79:4120
+#EXTINF:-1 group-title="北京联通十套",早教
+http://114.246.102.14:4000/udp/239.3.1.79:4120
+#EXTINF:-1 group-title="北京联通十套",早教
+http://123.112.213.221:4022/udp/239.3.1.79:4120
+#EXTINF:-1 group-title="北京联通十套",早教
+http://ikuai.zlsip.top:4022/udp/239.3.1.79:4120
+#EXTINF:-1 group-title="北京联通十套",早教
+http://123.113.236.69:8012/udp/239.3.1.79:4120
+#EXTINF:-1 group-title="北京联通十套",早教
+http://221.216.137.230:8012/udp/239.3.1.79:4120
+#EXTINF:-1 group-title="北京联通十套",早教
+http://111.193.230.4:4022/udp/239.3.1.79:4120
+#EXTINF:-1 group-title="北京联通十套",早教
+http://222.131.15.137:4000/udp/239.3.1.79:4120
+#EXTINF:-1 group-title="北京联通十套",早教
+http://111.196.128.239:4022/udp/239.3.1.79:4120
+#EXTINF:-1 group-title="北京联通十套",早教
+http://123.113.186.207:8000/udp/239.3.1.79:4120
+#EXTINF:-1 group-title="北京联通十套",动画
+http://114.246.102.14:4000/udp/239.3.1.80:4120
+#EXTINF:-1 group-title="北京联通十套",动画
+http://ikuai.zlsip.top:4022/udp/239.3.1.80:4120
+#EXTINF:-1 group-title="北京联通十套",动画
+http://221.216.137.230:8012/udp/239.3.1.80:4120
+#EXTINF:-1 group-title="北京联通十套",动画
+http://sweetown.fun:4000/udp/239.3.1.80:4120
+#EXTINF:-1 group-title="北京联通十套",动画
+http://123.112.213.221:4022/udp/239.3.1.80:4120
+#EXTINF:-1 group-title="北京联通十套",动画
+http://123.113.186.207:8000/udp/239.3.1.80:4120
+#EXTINF:-1 group-title="北京联通十套",动画
+http://111.193.230.4:4022/udp/239.3.1.80:4120
+#EXTINF:-1 group-title="北京联通十套",动画
+http://123.113.236.69:8012/udp/239.3.1.80:4120
+#EXTINF:-1 group-title="北京联通十套",动画
+http://222.131.15.137:4000/udp/239.3.1.80:4120
+#EXTINF:-1 group-title="北京联通十套",动画
+http://111.196.128.239:4022/udp/239.3.1.80:4120
+#EXTINF:-1 group-title="北京联通十套",好学生
+http://222.131.15.137:4000/udp/239.3.1.81:4120
+#EXTINF:-1 group-title="北京联通十套",好学生
+http://111.193.230.4:4022/udp/239.3.1.81:4120
+#EXTINF:-1 group-title="北京联通十套",好学生
+http://123.112.213.221:4022/udp/239.3.1.81:4120
+#EXTINF:-1 group-title="北京联通十套",好学生
+http://sweetown.fun:4000/udp/239.3.1.81:4120
+#EXTINF:-1 group-title="北京联通十套",好学生
+http://123.113.236.69:8012/udp/239.3.1.81:4120
+#EXTINF:-1 group-title="北京联通十套",好学生
+http://114.246.102.14:4000/udp/239.3.1.81:4120
+#EXTINF:-1 group-title="北京联通十套",好学生
+http://111.196.128.239:4022/udp/239.3.1.81:4120
+#EXTINF:-1 group-title="北京联通十套",好学生
+http://ikuai.zlsip.top:4022/udp/239.3.1.81:4120
+#EXTINF:-1 group-title="北京联通十套",好学生
+http://221.216.137.230:8012/udp/239.3.1.81:4120
+#EXTINF:-1 group-title="北京联通十套",好学生
+http://123.113.186.207:8000/udp/239.3.1.81:4120
+#EXTINF:-1 group-title="北京联通十套",鉴赏
+http://123.113.236.69:8012/udp/239.3.1.82:4120
+#EXTINF:-1 group-title="北京联通十套",鉴赏
+http://123.112.213.221:4022/udp/239.3.1.82:4120
+#EXTINF:-1 group-title="北京联通十套",鉴赏
+http://111.196.128.239:4022/udp/239.3.1.82:4120
+#EXTINF:-1 group-title="北京联通十套",鉴赏
+http://ikuai.zlsip.top:4022/udp/239.3.1.82:4120
+#EXTINF:-1 group-title="北京联通十套",鉴赏
+http://114.246.102.14:4000/udp/239.3.1.82:4120
+#EXTINF:-1 group-title="北京联通十套",鉴赏
+http://111.193.230.4:4022/udp/239.3.1.82:4120
+#EXTINF:-1 group-title="北京联通十套",鉴赏
+http://222.131.15.137:4000/udp/239.3.1.82:4120
+#EXTINF:-1 group-title="北京联通十套",鉴赏
+http://123.113.186.207:8000/udp/239.3.1.82:4120
+#EXTINF:-1 group-title="北京联通十套",鉴赏
+http://sweetown.fun:4000/udp/239.3.1.82:4120
+#EXTINF:-1 group-title="北京联通十套",鉴赏
+http://221.216.137.230:8012/udp/239.3.1.82:4120
+#EXTINF:-1 group-title="北京联通十套",墨宝
+http://222.131.15.137:4000/udp/239.3.1.83:4120
+#EXTINF:-1 group-title="北京联通十套",墨宝
+http://123.113.186.207:8000/udp/239.3.1.83:4120
+#EXTINF:-1 group-title="北京联通十套",墨宝
+http://123.113.236.69:8012/udp/239.3.1.83:4120
+#EXTINF:-1 group-title="北京联通十套",墨宝
+http://111.196.128.239:4022/udp/239.3.1.83:4120
+#EXTINF:-1 group-title="北京联通十套",墨宝
+http://114.246.102.14:4000/udp/239.3.1.83:4120
+#EXTINF:-1 group-title="北京联通十套",墨宝
+http://ikuai.zlsip.top:4022/udp/239.3.1.83:4120
+#EXTINF:-1 group-title="北京联通十套",墨宝
+http://sweetown.fun:4000/udp/239.3.1.83:4120
+#EXTINF:-1 group-title="北京联通十套",墨宝
+http://111.193.230.4:4022/udp/239.3.1.83:4120
+#EXTINF:-1 group-title="北京联通十套",墨宝
+http://123.112.213.221:4022/udp/239.3.1.83:4120
+#EXTINF:-1 group-title="北京联通十套",墨宝
+http://221.216.137.230:8012/udp/239.3.1.83:4120
+#EXTINF:-1 group-title="北京联通十套",光影
+http://222.131.15.137:4000/udp/239.3.1.84:4120
+#EXTINF:-1 group-title="北京联通十套",光影
+http://111.196.128.239:4022/udp/239.3.1.84:4120
+#EXTINF:-1 group-title="北京联通十套",光影
+http://114.246.102.14:4000/udp/239.3.1.84:4120
+#EXTINF:-1 group-title="北京联通十套",光影
+http://ikuai.zlsip.top:4022/udp/239.3.1.84:4120
+#EXTINF:-1 group-title="北京联通十套",光影
+http://123.112.213.221:4022/udp/239.3.1.84:4120
+#EXTINF:-1 group-title="北京联通十套",光影
+http://221.216.137.230:8012/udp/239.3.1.84:4120
+#EXTINF:-1 group-title="北京联通十套",光影
+http://123.113.236.69:8012/udp/239.3.1.84:4120
+#EXTINF:-1 group-title="北京联通十套",光影
+http://123.113.186.207:8000/udp/239.3.1.84:4120
+#EXTINF:-1 group-title="北京联通十套",光影
+http://111.193.230.4:4022/udp/239.3.1.84:4120
+#EXTINF:-1 group-title="北京联通十套",光影
+http://sweetown.fun:4000/udp/239.3.1.84:4120
+#EXTINF:-1 group-title="北京联通十套",台球
+http://221.216.137.230:8012/udp/239.3.1.85:4120
+#EXTINF:-1 group-title="北京联通十套",台球
+http://222.131.15.137:4000/udp/239.3.1.85:4120
+#EXTINF:-1 group-title="北京联通十套",台球
+http://ikuai.zlsip.top:4022/udp/239.3.1.85:4120
+#EXTINF:-1 group-title="北京联通十套",台球
+http://123.113.186.207:8000/udp/239.3.1.85:4120
+#EXTINF:-1 group-title="北京联通十套",台球
+http://sweetown.fun:4000/udp/239.3.1.85:4120
+#EXTINF:-1 group-title="北京联通十套",台球
+http://123.113.236.69:8012/udp/239.3.1.85:4120
+#EXTINF:-1 group-title="北京联通十套",台球
+http://111.193.230.4:4022/udp/239.3.1.85:4120
+#EXTINF:-1 group-title="北京联通十套",台球
+http://114.246.102.14:4000/udp/239.3.1.85:4120
+#EXTINF:-1 group-title="北京联通十套",台球
+http://123.112.213.221:4022/udp/239.3.1.85:4120
+#EXTINF:-1 group-title="北京联通十套",台球
+http://111.196.128.239:4022/udp/239.3.1.85:4120
+#EXTINF:-1 group-title="北京联通十套",爱生活
+http://111.196.128.239:4022/udp/239.3.1.86:4120
+#EXTINF:-1 group-title="北京联通十套",爱生活
+http://114.246.102.14:4000/udp/239.3.1.86:4120
+#EXTINF:-1 group-title="北京联通十套",爱生活
+http://222.131.15.137:4000/udp/239.3.1.86:4120
+#EXTINF:-1 group-title="北京联通十套",爱生活
+http://123.112.213.221:4022/udp/239.3.1.86:4120
+#EXTINF:-1 group-title="北京联通十套",爱生活
+http://ikuai.zlsip.top:4022/udp/239.3.1.86:4120
+#EXTINF:-1 group-title="北京联通十套",爱生活
+http://123.113.236.69:8012/udp/239.3.1.86:4120
+#EXTINF:-1 group-title="北京联通十套",爱生活
+http://111.193.230.4:4022/udp/239.3.1.86:4120
+#EXTINF:-1 group-title="北京联通十套",爱生活
+http://123.113.186.207:8000/udp/239.3.1.86:4120
+#EXTINF:-1 group-title="北京联通十套",爱生活
+http://221.216.137.230:8012/udp/239.3.1.86:4120
+#EXTINF:-1 group-title="北京联通十套",爱生活
+http://sweetown.fun:4000/udp/239.3.1.86:4120
+#EXTINF:-1 group-title="北京联通十套",武术
+http://123.112.213.221:4022/udp/239.3.1.87:4120
+#EXTINF:-1 group-title="北京联通十套",武术
+http://123.113.186.207:8000/udp/239.3.1.87:4120
+#EXTINF:-1 group-title="北京联通十套",武术
+http://221.216.137.230:8012/udp/239.3.1.87:4120
+#EXTINF:-1 group-title="北京联通十套",武术
+http://ikuai.zlsip.top:4022/udp/239.3.1.87:4120
+#EXTINF:-1 group-title="北京联通十套",武术
+http://222.131.15.137:4000/udp/239.3.1.87:4120
+#EXTINF:-1 group-title="北京联通十套",武术
+http://sweetown.fun:4000/udp/239.3.1.87:4120
+#EXTINF:-1 group-title="北京联通十套",武术
+http://111.193.230.4:4022/udp/239.3.1.87:4120
+#EXTINF:-1 group-title="北京联通十套",武术
+http://111.196.128.239:4022/udp/239.3.1.87:4120
+#EXTINF:-1 group-title="北京联通十套",武术
+http://123.113.236.69:8012/udp/239.3.1.87:4120
+#EXTINF:-1 group-title="北京联通十套",武术
+http://114.246.102.14:4000/udp/239.3.1.87:4120
+#EXTINF:-1 group-title="北京联通十套",高网
+http://111.196.128.239:4022/udp/239.3.1.88:4120
+#EXTINF:-1 group-title="北京联通十套",高网
+http://221.216.137.230:8012/udp/239.3.1.88:4120
+#EXTINF:-1 group-title="北京联通十套",高网
+http://sweetown.fun:4000/udp/239.3.1.88:4120
+#EXTINF:-1 group-title="北京联通十套",高网
+http://123.113.236.69:8012/udp/239.3.1.88:4120
+#EXTINF:-1 group-title="北京联通十套",高网
+http://114.246.102.14:4000/udp/239.3.1.88:4120
+#EXTINF:-1 group-title="北京联通十套",高网
+http://111.193.230.4:4022/udp/239.3.1.88:4120
+#EXTINF:-1 group-title="北京联通十套",高网
+http://222.131.15.137:4000/udp/239.3.1.88:4120
+#EXTINF:-1 group-title="北京联通十套",高网
+http://123.112.213.221:4022/udp/239.3.1.88:4120
+#EXTINF:-1 group-title="北京联通十套",高网
+http://123.113.186.207:8000/udp/239.3.1.88:4120
+#EXTINF:-1 group-title="北京联通十套",高网
+http://ikuai.zlsip.top:4022/udp/239.3.1.88:4120
+#EXTINF:-1 group-title="北京联通十套",足球
+http://222.131.15.137:4000/udp/239.3.1.89:4120
+#EXTINF:-1 group-title="北京联通十套",足球
+http://123.113.236.69:8012/udp/239.3.1.89:4120
+#EXTINF:-1 group-title="北京联通十套",足球
+http://ikuai.zlsip.top:4022/udp/239.3.1.89:4120
+#EXTINF:-1 group-title="北京联通十套",足球
+http://sweetown.fun:4000/udp/239.3.1.89:4120
+#EXTINF:-1 group-title="北京联通十套",足球
+http://114.246.102.14:4000/udp/239.3.1.89:4120
+#EXTINF:-1 group-title="北京联通十套",足球
+http://111.196.128.239:4022/udp/239.3.1.89:4120
+#EXTINF:-1 group-title="北京联通十套",足球
+http://221.216.137.230:8012/udp/239.3.1.89:4120
+#EXTINF:-1 group-title="北京联通十套",足球
+http://123.113.186.207:8000/udp/239.3.1.89:4120
+#EXTINF:-1 group-title="北京联通十套",足球
+http://123.112.213.221:4022/udp/239.3.1.89:4120
+#EXTINF:-1 group-title="北京联通十套",足球
+http://111.193.230.4:4022/udp/239.3.1.89:4120
+#EXTINF:-1 group-title="北京联通十套",武侠剧场
+http://114.246.102.14:4000/udp/239.3.1.90:4120
+#EXTINF:-1 group-title="北京联通十套",武侠剧场
+http://222.131.15.137:4000/udp/239.3.1.90:4120
+#EXTINF:-1 group-title="北京联通十套",武侠剧场
+http://ikuai.zlsip.top:4022/udp/239.3.1.90:4120
+#EXTINF:-1 group-title="北京联通十套",武侠剧场
+http://123.113.236.69:8012/udp/239.3.1.90:4120
+#EXTINF:-1 group-title="北京联通十套",武侠剧场
+http://sweetown.fun:4000/udp/239.3.1.90:4120
+#EXTINF:-1 group-title="北京联通十套",武侠剧场
+http://221.216.137.230:8012/udp/239.3.1.90:4120
+#EXTINF:-1 group-title="北京联通十套",武侠剧场
+http://123.113.186.207:8000/udp/239.3.1.90:4120
+#EXTINF:-1 group-title="北京联通十套",武侠剧场
+http://123.112.213.221:4022/udp/239.3.1.90:4120
+#EXTINF:-1 group-title="北京联通十套",武侠剧场
+http://111.196.128.239:4022/udp/239.3.1.90:4120
+#EXTINF:-1 group-title="北京联通十套",武侠剧场
+http://111.193.230.4:4022/udp/239.3.1.90:4120
+#EXTINF:-1 group-title="北京联通十套",喜剧影院
+http://114.246.102.14:4000/udp/239.3.1.91:4120
+#EXTINF:-1 group-title="北京联通十套",喜剧影院
+http://221.216.137.230:8012/udp/239.3.1.91:4120
+#EXTINF:-1 group-title="北京联通十套",喜剧影院
+http://222.131.15.137:4000/udp/239.3.1.91:4120
+#EXTINF:-1 group-title="北京联通十套",喜剧影院
+http://111.196.128.239:4022/udp/239.3.1.91:4120
+#EXTINF:-1 group-title="北京联通十套",喜剧影院
+http://123.112.213.221:4022/udp/239.3.1.91:4120
+#EXTINF:-1 group-title="北京联通十套",喜剧影院
+http://123.113.186.207:8000/udp/239.3.1.91:4120
+#EXTINF:-1 group-title="北京联通十套",喜剧影院
+http://ikuai.zlsip.top:4022/udp/239.3.1.91:4120
+#EXTINF:-1 group-title="北京联通十套",喜剧影院
+http://111.193.230.4:4022/udp/239.3.1.91:4120
+#EXTINF:-1 group-title="北京联通十套",喜剧影院
+http://sweetown.fun:4000/udp/239.3.1.91:4120
+#EXTINF:-1 group-title="北京联通十套",喜剧影院
+http://123.113.236.69:8012/udp/239.3.1.91:4120
+#EXTINF:-1 group-title="北京联通十套",动作影院
+http://123.113.236.69:8012/udp/239.3.1.92:4120
+#EXTINF:-1 group-title="北京联通十套",动作影院
+http://sweetown.fun:4000/udp/239.3.1.92:4120
+#EXTINF:-1 group-title="北京联通十套",动作影院
+http://ikuai.zlsip.top:4022/udp/239.3.1.92:4120
+#EXTINF:-1 group-title="北京联通十套",动作影院
+http://222.131.15.137:4000/udp/239.3.1.92:4120
+#EXTINF:-1 group-title="北京联通十套",动作影院
+http://111.193.230.4:4022/udp/239.3.1.92:4120
+#EXTINF:-1 group-title="北京联通十套",动作影院
+http://221.216.137.230:8012/udp/239.3.1.92:4120
+#EXTINF:-1 group-title="北京联通十套",动作影院
+http://123.112.213.221:4022/udp/239.3.1.92:4120
+#EXTINF:-1 group-title="北京联通十套",动作影院
+http://114.246.102.14:4000/udp/239.3.1.92:4120
+#EXTINF:-1 group-title="北京联通十套",动作影院
+http://123.113.186.207:8000/udp/239.3.1.92:4120
+#EXTINF:-1 group-title="北京联通十套",动作影院
+http://111.196.128.239:4022/udp/239.3.1.92:4120
+#EXTINF:-1 group-title="北京联通十套",家庭影院
+http://sweetown.fun:4000/udp/239.3.1.93:4120
+#EXTINF:-1 group-title="北京联通十套",家庭影院
+http://222.131.15.137:4000/udp/239.3.1.93:4120
+#EXTINF:-1 group-title="北京联通十套",家庭影院
+http://111.196.128.239:4022/udp/239.3.1.93:4120
+#EXTINF:-1 group-title="北京联通十套",家庭影院
+http://123.113.186.207:8000/udp/239.3.1.93:4120
+#EXTINF:-1 group-title="北京联通十套",家庭影院
+http://123.112.213.221:4022/udp/239.3.1.93:4120
+#EXTINF:-1 group-title="北京联通十套",家庭影院
+http://ikuai.zlsip.top:4022/udp/239.3.1.93:4120
+#EXTINF:-1 group-title="北京联通十套",家庭影院
+http://111.193.230.4:4022/udp/239.3.1.93:4120
+#EXTINF:-1 group-title="北京联通十套",家庭影院
+http://123.113.236.69:8012/udp/239.3.1.93:4120
+#EXTINF:-1 group-title="北京联通十套",家庭影院
+http://221.216.137.230:8012/udp/239.3.1.93:4120
+#EXTINF:-1 group-title="北京联通十套",家庭影院
+http://114.246.102.14:4000/udp/239.3.1.93:4120
+#EXTINF:-1 group-title="北京联通十套",星影
+http://123.112.213.221:4022/udp/239.3.1.94:4120
+#EXTINF:-1 group-title="北京联通十套",星影
+http://123.113.186.207:8000/udp/239.3.1.94:4120
+#EXTINF:-1 group-title="北京联通十套",星影
+http://111.196.128.239:4022/udp/239.3.1.94:4120
+#EXTINF:-1 group-title="北京联通十套",星影
+http://222.131.15.137:4000/udp/239.3.1.94:4120
+#EXTINF:-1 group-title="北京联通十套",星影
+http://123.113.236.69:8012/udp/239.3.1.94:4120
+#EXTINF:-1 group-title="北京联通十套",星影
+http://114.246.102.14:4000/udp/239.3.1.94:4120
+#EXTINF:-1 group-title="北京联通十套",星影
+http://sweetown.fun:4000/udp/239.3.1.94:4120
+#EXTINF:-1 group-title="北京联通十套",星影
+http://221.216.137.230:8012/udp/239.3.1.94:4120
+#EXTINF:-1 group-title="北京联通十套",星影
+http://111.193.230.4:4022/udp/239.3.1.94:4120
+#EXTINF:-1 group-title="北京联通十套",星影
+http://ikuai.zlsip.top:4022/udp/239.3.1.94:4120
+#EXTINF:-1 group-title="北京联通十套",淘电影[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV2 财经[]
+http://sweetown.fun:4000/udp/239.3.1.60:8084
+#EXTINF:-1 group-title="北京联通十套",茶频道[]
+http://123.113.186.207:8000/udp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通十套",BTV国际频道
+http://111.193.230.4:4022/udp/239.3.1.235:8000
+#EXTINF:-1 group-title="北京联通十套",CGTN 法语[]
+http://114.246.102.14:4000/udp/239.3.1.218:4220
+#EXTINF:-1 group-title="北京联通十套",房山电视台
+http://ikuai.zlsip.top:4022/udp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV17 农业农村[]
+http://111.196.128.239:4022/udp/239.3.1.151:8144
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 美洲[]
+http://123.113.186.207:8000/udp/239.3.1.214:4220
+#EXTINF:-1 group-title="北京联通十套",CGTN 记录[]
+http://222.131.15.137:4000/udp/239.3.1.216:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV财经[]
+http://221.216.137.230:8012/udp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV9 纪录[]
+http://114.246.102.14:4000/udp/239.3.1.62:8112
+#EXTINF:-1 group-title="北京联通十套",CETV1[]
+http://111.196.128.239:4022/udp/239.3.1.57:8152
+#EXTINF:-1 group-title="北京联通十套",BRTV体育休闲[超清]
+http://123.112.213.221:4022/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",睛彩篮球[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV9 纪录[]
+http://111.193.230.4:4022/udp/239.3.1.62:8112
+#EXTINF:-1 group-title="北京联通十套",厦门卫视
+http://114.246.102.14:4000/udp/239.3.1.143:4120
+#EXTINF:-1 group-title="北京联通十套",湖南卫视[]
+http://114.246.102.14:4000/udp/239.3.1.132:8012
+#EXTINF:-1 group-title="北京联通十套",CGTN 西班牙语[]
+http://sweetown.fun:4000/udp/239.3.1.217:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV2 财经[]
+http://123.112.213.221:4022/udp/239.3.1.60:8084
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[]
+http://221.216.137.230:8012/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",风尚生活[]
+http://114.246.102.14:4000/udp/239.3.1.114:8001
+#EXTINF:-1 group-title="北京联通十套",淘娱乐[]
+http://111.193.230.4:4022/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清R]
+http://123.112.213.221:4022/udp/239.3.1.120:8000
+#EXTINF:-1 group-title="北京联通十套",深圳卫视[]
+http://123.113.236.69:8012/udp/239.3.1.134:8020
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清R]
+http://ikuai.zlsip.top:4022/udp/239.3.1.120:8000
+#EXTINF:-1 group-title="北京联通十套",每日影院[]
+http://sweetown.fun:4000/udp/239.3.1.111:8001
+#EXTINF:-1 group-title="北京联通十套",幸福剧场[]
+http://sweetown.fun:4000/udp/239.3.1.112:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[]
+http://sweetown.fun:4000/udp/239.3.1.184:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV6 电影[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.174:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[]
+http://123.113.236.69:8012/udp/239.3.1.184:8001
+#EXTINF:-1 group-title="北京联通十套",睛彩竞技[]
+http://221.216.137.230:8012/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通十套",快乐垂钓[]
+http://111.196.128.239:4022/udp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 美洲[]
+http://123.112.213.221:4022/udp/239.3.1.214:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV3 综艺[]
+http://123.113.236.69:8012/udp/239.3.1.172:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV财经[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通十套",风尚生活[]
+http://sweetown.fun:4000/udp/239.3.1.114:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV6 电影[]
+http://111.193.230.4:4022/udp/239.3.1.174:8001
+#EXTINF:-1 group-title="北京联通十套",贵州卫视[]
+http://111.196.128.239:4022/udp/239.3.1.149:8076
+#EXTINF:-1 group-title="北京联通十套",淘精彩[]
+http://123.113.236.69:8012/udp/239.3.1.178:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 记录[]
+http://114.246.102.14:4000/udp/239.3.1.216:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV北京卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.241:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV1 综合[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.129:8008
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际[]
+http://111.196.128.239:4022/udp/239.3.1.105:8092
+#EXTINF:-1 group-title="北京联通十套",幸福剧场[]
+http://123.113.236.69:8012/udp/239.3.1.112:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV17 农业农村[]
+http://123.113.186.207:8000/udp/239.3.1.151:8144
+#EXTINF:-1 group-title="北京联通十套",CGTN 西班牙语[]
+http://123.113.236.69:8012/udp/239.3.1.217:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV北京卫视[]
+http://111.193.230.4:4022/udp/239.3.1.241:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV生活[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通十套",4K超清[超清]
+http://123.113.186.207:8000/udp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV青年[]
+http://123.113.186.207:8000/udp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通十套",三沙卫视
+http://123.112.213.221:4022/udp/239.3.1.155:4120
+#EXTINF:-1 group-title="北京联通十套",幸福剧场[]
+http://221.216.137.230:8012/udp/239.3.1.112:8001
+#EXTINF:-1 group-title="北京联通十套",朝阳融媒[]
+http://114.246.102.14:4000/udp/239.3.1.163:8001
+#EXTINF:-1 group-title="北京联通十套",快乐垂钓[]
+http://123.113.236.69:8012/udp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通十套",幸福娱乐[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.113:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 美洲[]
+http://221.216.137.230:8012/udp/239.3.1.214:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清R]
+http://222.131.15.137:4000/udp/239.3.1.120:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV11 戏曲[]
+http://114.246.102.14:4000/udp/239.3.1.152:8120
+#EXTINF:-1 group-title="北京联通十套",CCTV12 社会与法[]
+http://221.216.137.230:8012/udp/239.3.1.64:8124
+#EXTINF:-1 group-title="北京联通十套",CGTN 俄语[]
+http://sweetown.fun:4000/udp/239.3.1.220:4220
+#EXTINF:-1 group-title="北京联通十套",爱上4K[超清]
+http://222.131.15.137:4000/udp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际[]
+http://114.246.102.14:4000/udp/239.3.1.105:8092
+#EXTINF:-1 group-title="北京联通十套",CCTV9 纪录[]
+http://111.196.128.239:4022/udp/239.3.1.62:8112
+#EXTINF:-1 group-title="北京联通十套",BRTV生活[]
+http://114.246.102.14:4000/udp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV7 国防军事[]
+http://222.131.15.137:4000/udp/239.3.1.61:8104
+#EXTINF:-1 group-title="北京联通十套",CCTV2 财经[]
+http://123.113.236.69:8012/udp/239.3.1.60:8084
+#EXTINF:-1 group-title="北京联通十套",CGTN 新闻[]
+http://123.112.213.221:4022/udp/239.3.1.215:4220
+#EXTINF:-1 group-title="北京联通十套",大健康[]
+http://123.113.236.69:8012/udp/239.3.1.251:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV3 综艺[]
+http://123.113.186.207:8000/udp/239.3.1.172:8001
+#EXTINF:-1 group-title="北京联通十套",睛彩篮球[]
+http://sweetown.fun:4000/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通十套",东南卫视[]
+http://114.246.102.14:4000/udp/239.3.1.156:8148
+#EXTINF:-1 group-title="北京联通十套",爱上4K[超清]
+http://123.112.213.221:4022/udp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通十套",房山电视台
+http://221.216.137.230:8012/udp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV生活[]
+http://sweetown.fun:4000/udp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通十套",纪实人文[]
+http://123.113.186.207:8000/udp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通十套",吉林卫视[]
+http://123.112.213.221:4022/udp/239.3.1.240:8172
+#EXTINF:-1 group-title="北京联通十套",广东卫视[]
+http://123.112.213.221:4022/udp/239.3.1.142:8048
+#EXTINF:-1 group-title="北京联通十套",CGTN 阿拉伯语[]
+http://123.113.186.207:8000/udp/239.3.1.219:4220
+#EXTINF:-1 group-title="北京联通十套",南方卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.161:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际[]
+http://123.113.236.69:8012/udp/239.3.1.105:8092
+#EXTINF:-1 group-title="北京联通十套",浙江卫视[]
+http://221.216.137.230:8012/udp/239.3.1.137:8036
+#EXTINF:-1 group-title="北京联通十套",睛彩竞技[]
+http://123.113.186.207:8000/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通十套",重庆卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.122:8160
+#EXTINF:-1 group-title="北京联通十套",贵州卫视[]
+http://111.193.230.4:4022/udp/239.3.1.149:8076
+#EXTINF:-1 group-title="北京联通十套",CCTV17 农业农村[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.151:8144
+#EXTINF:-1 group-title="北京联通十套",密云电视台[]
+http://111.193.230.4:4022/udp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通十套",朝阳融媒[]
+http://111.196.128.239:4022/udp/239.3.1.163:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV新闻[]
+http://123.113.236.69:8012/udp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通十套",浙江卫视[]
+http://222.131.15.137:4000/udp/239.3.1.137:8036
+#EXTINF:-1 group-title="北京联通十套",天津卫视[]
+http://111.196.128.239:4022/udp/239.3.1.141:1234
+#EXTINF:-1 group-title="北京联通十套",CCTV14 少儿[]
+http://123.112.213.221:4022/udp/239.3.1.65:8132
+#EXTINF:-1 group-title="北京联通十套",风尚生活[]
+http://123.113.186.207:8000/udp/239.3.1.114:8001
+#EXTINF:-1 group-title="北京联通十套",睛彩羽毛球[]
+http://111.196.128.239:4022/udp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通十套",幸福娱乐[]
+http://222.131.15.137:4000/udp/239.3.1.113:8001
+#EXTINF:-1 group-title="北京联通十套",浙江卫视[]
+http://123.112.213.221:4022/udp/239.3.1.137:8036
+#EXTINF:-1 group-title="北京联通十套",CCTV10 科教[]
+http://sweetown.fun:4000/udp/239.3.1.63:8116
+#EXTINF:-1 group-title="北京联通十套",延庆电视台
+http://111.193.230.4:4022/udp/239.3.1.187:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV文艺[]
+http://111.196.128.239:4022/udp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清]
+http://222.131.15.137:4000/udp/239.3.1.121:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV10 科教[]
+http://114.246.102.14:4000/udp/239.3.1.63:8116
+#EXTINF:-1 group-title="北京联通十套",睛彩篮球[]
+http://123.113.186.207:8000/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV15 音乐[]
+http://123.112.213.221:4022/udp/239.3.1.153:8136
+#EXTINF:-1 group-title="北京联通十套",纪实人文[]
+http://123.113.236.69:8012/udp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通十套",CCTV15 音乐[]
+http://111.193.230.4:4022/udp/239.3.1.153:8136
+#EXTINF:-1 group-title="北京联通十套",睛彩广场舞[]
+http://111.196.128.239:4022/udp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通十套",通州融媒[]
+http://123.113.186.207:8000/udp/239.3.1.221:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 美洲[]
+http://111.193.230.4:4022/udp/239.3.1.214:4220
+#EXTINF:-1 group-title="北京联通十套",朝阳融媒[]
+http://222.131.15.137:4000/udp/239.3.1.163:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清]
+http://221.216.137.230:8012/udp/239.3.1.121:8000
+#EXTINF:-1 group-title="北京联通十套",睛彩广场舞[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV5 体育[]
+http://111.193.230.4:4022/udp/239.3.1.173:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV卡酷少儿[]
+http://221.216.137.230:8012/udp/239.3.1.189:8000
+#EXTINF:-1 group-title="北京联通十套",睛彩广场舞[]
+http://123.113.186.207:8000/udp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通十套",BTV国际频道
+http://ikuai.zlsip.top:4022/udp/239.3.1.235:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV14 少儿[]
+http://123.113.236.69:8012/udp/239.3.1.65:8132
+#EXTINF:-1 group-title="北京联通十套",CCTV5+ 体育赛事[]
+http://222.131.15.137:4000/udp/239.3.1.130:8004
+#EXTINF:-1 group-title="北京联通十套",江西卫视[]
+http://sweetown.fun:4000/udp/239.3.1.123:8164
+#EXTINF:-1 group-title="北京联通十套",吉林卫视[]
+http://sweetown.fun:4000/udp/239.3.1.240:8172
+#EXTINF:-1 group-title="北京联通十套",BRTV影视[]
+http://111.193.230.4:4022/udp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通十套",天津卫视[]
+http://sweetown.fun:4000/udp/239.3.1.141:1234
+#EXTINF:-1 group-title="北京联通十套",山东卫视[]
+http://123.113.186.207:8000/udp/239.3.1.209:8052
+#EXTINF:-1 group-title="北京联通十套",BRTV生活[]
+http://221.216.137.230:8012/udp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通十套",中国交通[]
+http://123.112.213.221:4022/udp/239.3.1.188:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 俄语[]
+http://221.216.137.230:8012/udp/239.3.1.220:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[]
+http://221.216.137.230:8012/udp/239.3.1.184:8001
+#EXTINF:-1 group-title="北京联通十套",幸福剧场[]
+http://123.112.213.221:4022/udp/239.3.1.112:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV纪实科教[]
+http://222.131.15.137:4000/udp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通十套",湖北卫视[]
+http://222.131.15.137:4000/udp/239.3.1.138:8044
+#EXTINF:-1 group-title="北京联通十套",睛彩篮球[]
+http://114.246.102.14:4000/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通十套",大健康[]
+http://111.193.230.4:4022/udp/239.3.1.251:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 记录[]
+http://123.112.213.221:4022/udp/239.3.1.216:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV青年[]
+http://222.131.15.137:4000/udp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通十套",CETV1[]
+http://123.112.213.221:4022/udp/239.3.1.57:8152
+#EXTINF:-1 group-title="北京联通十套",睛彩篮球[]
+http://111.193.230.4:4022/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通十套",密云电视台[]
+http://114.246.102.14:4000/udp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通十套",幸福娱乐[]
+http://123.113.186.207:8000/udp/239.3.1.113:8001
+#EXTINF:-1 group-title="北京联通十套",延庆电视台
+http://114.246.102.14:4000/udp/239.3.1.187:8001
+#EXTINF:-1 group-title="北京联通十套",通州融媒[]
+http://111.196.128.239:4022/udp/239.3.1.221:8001
+#EXTINF:-1 group-title="北京联通十套",幸福剧场[]
+http://114.246.102.14:4000/udp/239.3.1.112:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 记录[]
+http://sweetown.fun:4000/udp/239.3.1.216:4220
+#EXTINF:-1 group-title="北京联通十套",海南卫视
+http://sweetown.fun:4000/udp/239.3.1.45:8304
+#EXTINF:-1 group-title="北京联通十套",金鹰纪实[]
+http://222.131.15.137:4000/udp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通十套",CGTN 俄语[]
+http://111.196.128.239:4022/udp/239.3.1.220:4220
+#EXTINF:-1 group-title="北京联通十套",海南卫视
+http://123.113.186.207:8000/udp/239.3.1.45:8304
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV北京卫视[]
+http://sweetown.fun:4000/udp/239.3.1.241:8000
+#EXTINF:-1 group-title="北京联通十套",安徽卫视[]
+http://222.131.15.137:4000/udp/239.3.1.211:8064
+#EXTINF:-1 group-title="北京联通十套",睛彩广场舞[]
+http://221.216.137.230:8012/udp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通十套",金鹰纪实[]
+http://123.112.213.221:4022/udp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通十套",CGTN 俄语[]
+http://114.246.102.14:4000/udp/239.3.1.220:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV5 体育[]
+http://sweetown.fun:4000/udp/239.3.1.173:8001
+#EXTINF:-1 group-title="北京联通十套",萌宠TV[]
+http://114.246.102.14:4000/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="北京联通十套",河北卫视[]
+http://221.216.137.230:8012/udp/239.3.1.148:8072
+#EXTINF:-1 group-title="北京联通十套",CGTN 法语[]
+http://111.193.230.4:4022/udp/239.3.1.218:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[]
+http://123.113.186.207:8000/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV13 新闻[]
+http://111.196.128.239:4022/udp/239.3.1.124:8128
+#EXTINF:-1 group-title="北京联通十套",CGTN 阿拉伯语[]
+http://111.193.230.4:4022/udp/239.3.1.219:4220
+#EXTINF:-1 group-title="北京联通十套",江西卫视[]
+http://123.112.213.221:4022/udp/239.3.1.123:8164
+#EXTINF:-1 group-title="北京联通十套",BRTV生活[]
+http://123.112.213.221:4022/udp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV卡酷少儿[]
+http://114.246.102.14:4000/udp/239.3.1.189:8000
+#EXTINF:-1 group-title="北京联通十套",CGTN 新闻[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.215:4220
+#EXTINF:-1 group-title="北京联通十套",天津卫视[]
+http://111.193.230.4:4022/udp/239.3.1.141:1234
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清R]
+http://114.246.102.14:4000/udp/239.3.1.120:8000
+#EXTINF:-1 group-title="北京联通十套",安徽卫视[]
+http://114.246.102.14:4000/udp/239.3.1.211:8064
+#EXTINF:-1 group-title="北京联通十套",延庆电视台
+http://sweetown.fun:4000/udp/239.3.1.187:8001
+#EXTINF:-1 group-title="北京联通十套",朝阳融媒[]
+http://sweetown.fun:4000/udp/239.3.1.163:8001
+#EXTINF:-1 group-title="北京联通十套",BTV国际频道
+http://123.113.236.69:8012/udp/239.3.1.235:8000
+#EXTINF:-1 group-title="北京联通十套",CGTN 阿拉伯语[]
+http://123.112.213.221:4022/udp/239.3.1.219:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV5+ 体育赛事[]
+http://221.216.137.230:8012/udp/239.3.1.130:8004
+#EXTINF:-1 group-title="北京联通十套",淘Baby[]
+http://111.196.128.239:4022/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通十套",湖南卫视[]
+http://222.131.15.137:4000/udp/239.3.1.132:8012
+#EXTINF:-1 group-title="北京联通十套",CETV1[]
+http://123.113.236.69:8012/udp/239.3.1.57:8152
+#EXTINF:-1 group-title="北京联通十套",CCTV8 电视剧[]
+http://sweetown.fun:4000/udp/239.3.1.175:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV北京卫视[]
+http://123.112.213.221:4022/udp/239.3.1.241:8000
+#EXTINF:-1 group-title="北京联通十套",快乐垂钓[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通十套",睛彩羽毛球[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通十套",厦门卫视
+http://111.196.128.239:4022/udp/239.3.1.143:4120
+#EXTINF:-1 group-title="北京联通十套",湖北卫视[]
+http://114.246.102.14:4000/udp/239.3.1.138:8044
+#EXTINF:-1 group-title="北京联通十套",东南卫视[]
+http://sweetown.fun:4000/udp/239.3.1.156:8148
+#EXTINF:-1 group-title="北京联通十套",淘娱乐[]
+http://123.113.236.69:8012/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="北京联通十套",睛彩竞技[]
+http://123.112.213.221:4022/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 俄语[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.220:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV8 电视剧[]
+http://123.113.236.69:8012/udp/239.3.1.175:8001
+#EXTINF:-1 group-title="北京联通十套",江西卫视[]
+http://114.246.102.14:4000/udp/239.3.1.123:8164
+#EXTINF:-1 group-title="北京联通十套",BRTV文艺[]
+http://114.246.102.14:4000/udp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[超清R]
+http://ikuai.zlsip.top:4022/udp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际[]
+http://222.131.15.137:4000/udp/239.3.1.105:8092
+#EXTINF:-1 group-title="北京联通十套",CGTN 新闻[]
+http://123.113.186.207:8000/udp/239.3.1.215:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV文艺[]
+http://123.112.213.221:4022/udp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通十套",江苏卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.135:8028
+#EXTINF:-1 group-title="北京联通十套",淘剧场[]
+http://123.112.213.221:4022/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="北京联通十套",辽宁卫视[]
+http://sweetown.fun:4000/udp/239.3.1.210:8056
+#EXTINF:-1 group-title="北京联通十套",CCTV2 财经[]
+http://111.193.230.4:4022/udp/239.3.1.60:8084
+#EXTINF:-1 group-title="北京联通十套",湖南卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.132:8012
+#EXTINF:-1 group-title="北京联通十套",CCTV11 戏曲[]
+http://222.131.15.137:4000/udp/239.3.1.152:8120
+#EXTINF:-1 group-title="北京联通十套",睛彩羽毛球[]
+http://111.193.230.4:4022/udp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通十套",中国交通[]
+http://123.113.236.69:8012/udp/239.3.1.188:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV11 戏曲[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.152:8120
+#EXTINF:-1 group-title="北京联通十套",房山电视台
+http://111.196.128.239:4022/udp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV10 科教[]
+http://222.131.15.137:4000/udp/239.3.1.63:8116
+#EXTINF:-1 group-title="北京联通十套",通州融媒[]
+http://111.193.230.4:4022/udp/239.3.1.221:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV5+ 体育赛事[]
+http://111.193.230.4:4022/udp/239.3.1.130:8004
+#EXTINF:-1 group-title="北京联通十套",睛彩竞技[]
+http://sweetown.fun:4000/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通十套",淘Baby[]
+http://123.112.213.221:4022/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV12 社会与法[]
+http://111.193.230.4:4022/udp/239.3.1.64:8124
+#EXTINF:-1 group-title="北京联通十套",BRTV纪实科教[]
+http://sweetown.fun:4000/udp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV影视[]
+http://114.246.102.14:4000/udp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV1 综合[]
+http://123.113.236.69:8012/udp/239.3.1.129:8008
+#EXTINF:-1 group-title="北京联通十套",江苏卫视[]
+http://123.113.236.69:8012/udp/239.3.1.135:8028
+#EXTINF:-1 group-title="北京联通十套",BRTV生活[]
+http://123.113.236.69:8012/udp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通十套",淘Baby[]
+http://sweetown.fun:4000/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通十套",CETV1[]
+http://114.246.102.14:4000/udp/239.3.1.57:8152
+#EXTINF:-1 group-title="北京联通十套",幸福娱乐[]
+http://221.216.137.230:8012/udp/239.3.1.113:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV6 电影[]
+http://221.216.137.230:8012/udp/239.3.1.174:8001
+#EXTINF:-1 group-title="北京联通十套",每日影院[]
+http://222.131.15.137:4000/udp/239.3.1.111:8001
+#EXTINF:-1 group-title="北京联通十套",密云电视台[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通十套",茶频道[]
+http://221.216.137.230:8012/udp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通十套",延庆电视台
+http://123.113.186.207:8000/udp/239.3.1.187:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV14 少儿[]
+http://123.113.186.207:8000/udp/239.3.1.65:8132
+#EXTINF:-1 group-title="北京联通十套",河北卫视[]
+http://111.196.128.239:4022/udp/239.3.1.148:8072
+#EXTINF:-1 group-title="北京联通十套",通州融媒[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.221:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV5+ 体育赛事[]
+http://123.113.186.207:8000/udp/239.3.1.130:8004
+#EXTINF:-1 group-title="北京联通十套",幸福剧场[]
+http://111.193.230.4:4022/udp/239.3.1.112:8001
+#EXTINF:-1 group-title="北京联通十套",每日影院[]
+http://111.193.230.4:4022/udp/239.3.1.111:8001
+#EXTINF:-1 group-title="北京联通十套",辽宁卫视[]
+http://222.131.15.137:4000/udp/239.3.1.210:8056
+#EXTINF:-1 group-title="北京联通十套",天津卫视[]
+http://123.112.213.221:4022/udp/239.3.1.141:1234
+#EXTINF:-1 group-title="北京联通十套",南方卫视
+http://111.196.128.239:4022/udp/239.3.1.161:8001
+#EXTINF:-1 group-title="北京联通十套",体育赛事[]
+http://sweetown.fun:4000/udp/239.3.1.157:8176
+#EXTINF:-1 group-title="北京联通十套",CCTV11 戏曲[]
+http://123.112.213.221:4022/udp/239.3.1.152:8120
+#EXTINF:-1 group-title="北京联通十套",中国交通[]
+http://sweetown.fun:4000/udp/239.3.1.188:8001
+#EXTINF:-1 group-title="北京联通十套",安徽卫视[]
+http://123.113.186.207:8000/udp/239.3.1.211:8064
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[]
+http://123.112.213.221:4022/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV5+ 体育赛事[]
+http://114.246.102.14:4000/udp/239.3.1.130:8004
+#EXTINF:-1 group-title="北京联通十套",CCTV9 纪录[]
+http://123.113.236.69:8012/udp/239.3.1.62:8112
+#EXTINF:-1 group-title="北京联通十套",CCTV7 国防军事[]
+http://sweetown.fun:4000/udp/239.3.1.61:8104
+#EXTINF:-1 group-title="北京联通十套",CGTN 阿拉伯语[]
+http://114.246.102.14:4000/udp/239.3.1.219:4220
+#EXTINF:-1 group-title="北京联通十套",东南卫视[]
+http://123.113.236.69:8012/udp/239.3.1.156:8148
+#EXTINF:-1 group-title="北京联通十套",萌宠TV[]
+http://221.216.137.230:8012/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV1 综合[]
+http://123.113.186.207:8000/udp/239.3.1.129:8008
+#EXTINF:-1 group-title="北京联通十套",重庆卫视[]
+http://221.216.137.230:8012/udp/239.3.1.122:8160
+#EXTINF:-1 group-title="北京联通十套",萌宠TV[]
+http://sweetown.fun:4000/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="北京联通十套",爱上4K[超清]
+http://123.113.236.69:8012/udp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通十套",江苏卫视[]
+http://222.131.15.137:4000/udp/239.3.1.135:8028
+#EXTINF:-1 group-title="北京联通十套",淘剧场[]
+http://123.113.186.207:8000/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="北京联通十套",睛彩羽毛球[]
+http://222.131.15.137:4000/udp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通十套",浙江卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.137:8036
+#EXTINF:-1 group-title="北京联通十套",睛彩竞技[]
+http://123.113.236.69:8012/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通十套",淘电影[]
+http://114.246.102.14:4000/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通十套",延庆电视台
+http://111.196.128.239:4022/udp/239.3.1.187:8001
+#EXTINF:-1 group-title="北京联通十套",吉林卫视[]
+http://221.216.137.230:8012/udp/239.3.1.240:8172
+#EXTINF:-1 group-title="北京联通十套",CCTV2 财经[]
+http://123.113.186.207:8000/udp/239.3.1.60:8084
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[]
+http://111.196.128.239:4022/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",BTV国际频道
+http://111.196.128.239:4022/udp/239.3.1.235:8000
+#EXTINF:-1 group-title="北京联通十套",深圳卫视[]
+http://111.196.128.239:4022/udp/239.3.1.134:8020
+#EXTINF:-1 group-title="北京联通十套",CCTV10 科教[]
+http://123.113.186.207:8000/udp/239.3.1.63:8116
+#EXTINF:-1 group-title="北京联通十套",BRTV文艺[]
+http://123.113.186.207:8000/udp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通十套",厦门卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.143:4120
+#EXTINF:-1 group-title="北京联通十套",4K超清[超清]
+http://221.216.137.230:8012/udp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV13 新闻[]
+http://222.131.15.137:4000/udp/239.3.1.124:8128
+#EXTINF:-1 group-title="北京联通十套",密云电视台[]
+http://123.112.213.221:4022/udp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV卡酷少儿[]
+http://111.196.128.239:4022/udp/239.3.1.189:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV新闻[]
+http://221.216.137.230:8012/udp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV1 综合[]
+http://111.193.230.4:4022/udp/239.3.1.129:8008
+#EXTINF:-1 group-title="北京联通十套",CCTV13 新闻[]
+http://114.246.102.14:4000/udp/239.3.1.124:8128
+#EXTINF:-1 group-title="北京联通十套",CCTV13 新闻[]
+http://221.216.137.230:8012/udp/239.3.1.124:8128
+#EXTINF:-1 group-title="北京联通十套",爱上4K[超清]
+http://sweetown.fun:4000/udp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[超清R]
+http://111.196.128.239:4022/udp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通十套",纪实人文[]
+http://111.196.128.239:4022/udp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通十套",睛彩竞技[]
+http://111.196.128.239:4022/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通十套",广东卫视[]
+http://sweetown.fun:4000/udp/239.3.1.142:8048
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[]
+http://123.113.186.207:8000/udp/239.3.1.184:8001
+#EXTINF:-1 group-title="北京联通十套",淘Baby[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[超清R]
+http://114.246.102.14:4000/udp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通十套",深圳卫视[]
+http://123.112.213.221:4022/udp/239.3.1.134:8020
+#EXTINF:-1 group-title="北京联通十套",吉林卫视[]
+http://123.113.236.69:8012/udp/239.3.1.240:8172
+#EXTINF:-1 group-title="北京联通十套",CCTV5+ 体育赛事[]
+http://123.112.213.221:4022/udp/239.3.1.130:8004
+#EXTINF:-1 group-title="北京联通十套",广东卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.142:8048
+#EXTINF:-1 group-title="北京联通十套",深圳卫视[]
+http://222.131.15.137:4000/udp/239.3.1.134:8020
+#EXTINF:-1 group-title="北京联通十套",CGTN 阿拉伯语[]
+http://111.196.128.239:4022/udp/239.3.1.219:4220
+#EXTINF:-1 group-title="北京联通十套",每日影院[]
+http://114.246.102.14:4000/udp/239.3.1.111:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV14 少儿[]
+http://114.246.102.14:4000/udp/239.3.1.65:8132
+#EXTINF:-1 group-title="北京联通十套",风尚生活[]
+http://123.113.236.69:8012/udp/239.3.1.114:8001
+#EXTINF:-1 group-title="北京联通十套",中国交通[]
+http://114.246.102.14:4000/udp/239.3.1.188:8001
+#EXTINF:-1 group-title="北京联通十套",安徽卫视[]
+http://sweetown.fun:4000/udp/239.3.1.211:8064
+#EXTINF:-1 group-title="北京联通十套",东方卫视[]
+http://114.246.102.14:4000/udp/239.3.1.136:8032
+#EXTINF:-1 group-title="北京联通十套",睛彩篮球[]
+http://221.216.137.230:8012/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通十套",睛彩广场舞[]
+http://123.113.236.69:8012/udp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通十套",贵州卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.149:8076
+#EXTINF:-1 group-title="北京联通十套",中国交通[]
+http://222.131.15.137:4000/udp/239.3.1.188:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV11 戏曲[]
+http://123.113.236.69:8012/udp/239.3.1.152:8120
+#EXTINF:-1 group-title="北京联通十套",BRTV体育休闲[超清]
+http://ikuai.zlsip.top:4022/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",幸福剧场[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.112:8001
+#EXTINF:-1 group-title="北京联通十套",纪实人文[]
+http://123.112.213.221:4022/udp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通十套",CGTN 法语[]
+http://123.112.213.221:4022/udp/239.3.1.218:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV13 新闻[]
+http://123.112.213.221:4022/udp/239.3.1.124:8128
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 欧洲[]
+http://sweetown.fun:4000/udp/239.3.1.213:4220
+#EXTINF:-1 group-title="北京联通十套",淘娱乐[]
+http://123.112.213.221:4022/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV影视[]
+http://222.131.15.137:4000/udp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通十套",CGTN 法语[]
+http://221.216.137.230:8012/udp/239.3.1.218:4220
+#EXTINF:-1 group-title="北京联通十套",淘娱乐[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV5+ 体育赛事[]
+http://111.196.128.239:4022/udp/239.3.1.130:8004
+#EXTINF:-1 group-title="北京联通十套",BRTV青年[]
+http://111.193.230.4:4022/udp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通十套",快乐垂钓[]
+http://222.131.15.137:4000/udp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通十套",淘娱乐[]
+http://sweetown.fun:4000/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 欧洲[]
+http://114.246.102.14:4000/udp/239.3.1.213:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV9 纪录[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.62:8112
+#EXTINF:-1 group-title="北京联通十套",CCTV1 综合[]
+http://123.112.213.221:4022/udp/239.3.1.129:8008
+#EXTINF:-1 group-title="北京联通十套",东方卫视[]
+http://123.113.236.69:8012/udp/239.3.1.136:8032
+#EXTINF:-1 group-title="北京联通十套",中国交通[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.188:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV10 科教[]
+http://221.216.137.230:8012/udp/239.3.1.63:8116
+#EXTINF:-1 group-title="北京联通十套",淘娱乐[]
+http://114.246.102.14:4000/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="北京联通十套",幸福娱乐[]
+http://sweetown.fun:4000/udp/239.3.1.113:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV8 电视剧[]
+http://111.196.128.239:4022/udp/239.3.1.175:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV卡酷少儿[]
+http://sweetown.fun:4000/udp/239.3.1.189:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV17 农业农村[]
+http://114.246.102.14:4000/udp/239.3.1.151:8144
+#EXTINF:-1 group-title="北京联通十套",CCTV5 体育[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.173:8001
+#EXTINF:-1 group-title="北京联通十套",湖南卫视[]
+http://sweetown.fun:4000/udp/239.3.1.132:8012
+#EXTINF:-1 group-title="北京联通十套",BRTV新闻[]
+http://111.196.128.239:4022/udp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 欧洲[]
+http://123.113.186.207:8000/udp/239.3.1.213:4220
+#EXTINF:-1 group-title="北京联通十套",睛彩竞技[]
+http://111.193.230.4:4022/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV纪实科教[]
+http://111.193.230.4:4022/udp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通十套",东方卫视[]
+http://222.131.15.137:4000/udp/239.3.1.136:8032
+#EXTINF:-1 group-title="北京联通十套",BRTV卡酷少儿[]
+http://123.112.213.221:4022/udp/239.3.1.189:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV卡酷少儿[]
+http://123.113.236.69:8012/udp/239.3.1.189:8000
+#EXTINF:-1 group-title="北京联通十套",黑龙江卫视[]
+http://111.196.128.239:4022/udp/239.3.1.133:8016
+#EXTINF:-1 group-title="北京联通十套",CCTV12 社会与法[]
+http://222.131.15.137:4000/udp/239.3.1.64:8124
+#EXTINF:-1 group-title="北京联通十套",中国交通[]
+http://111.196.128.239:4022/udp/239.3.1.188:8001
+#EXTINF:-1 group-title="北京联通十套",重庆卫视[]
+http://111.196.128.239:4022/udp/239.3.1.122:8160
+#EXTINF:-1 group-title="北京联通十套",CCTV12 社会与法[]
+http://123.113.236.69:8012/udp/239.3.1.64:8124
+#EXTINF:-1 group-title="北京联通十套",幸福剧场[]
+http://123.113.186.207:8000/udp/239.3.1.112:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV8 电视剧[]
+http://222.131.15.137:4000/udp/239.3.1.175:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 记录[]
+http://221.216.137.230:8012/udp/239.3.1.216:4220
+#EXTINF:-1 group-title="北京联通十套",淘精彩[]
+http://111.196.128.239:4022/udp/239.3.1.178:8001
+#EXTINF:-1 group-title="北京联通十套",黑龙江卫视[]
+http://221.216.137.230:8012/udp/239.3.1.133:8016
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[超清R]
+http://221.216.137.230:8012/udp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通十套",重庆卫视[]
+http://sweetown.fun:4000/udp/239.3.1.122:8160
+#EXTINF:-1 group-title="北京联通十套",BTV国际频道
+http://221.216.137.230:8012/udp/239.3.1.235:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV影视[]
+http://111.196.128.239:4022/udp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通十套",广东卫视[]
+http://111.196.128.239:4022/udp/239.3.1.142:8048
+#EXTINF:-1 group-title="北京联通十套",CCTV5 体育[]
+http://123.112.213.221:4022/udp/239.3.1.173:8001
+#EXTINF:-1 group-title="北京联通十套",体育赛事[]
+http://221.216.137.230:8012/udp/239.3.1.157:8176
+#EXTINF:-1 group-title="北京联通十套",CGTN 新闻[]
+http://111.196.128.239:4022/udp/239.3.1.215:4220
+#EXTINF:-1 group-title="北京联通十套",山东教育
+http://111.196.128.239:4022/udp/239.3.1.52:4120
+#EXTINF:-1 group-title="北京联通十套",4K超清[超清]
+http://111.196.128.239:4022/udp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通十套",天津卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.141:1234
+#EXTINF:-1 group-title="北京联通十套",睛彩竞技[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通十套",BTV国际频道
+http://sweetown.fun:4000/udp/239.3.1.235:8000
+#EXTINF:-1 group-title="北京联通十套",南方卫视
+http://123.112.213.221:4022/udp/239.3.1.161:8001
+#EXTINF:-1 group-title="北京联通十套",CETV1[]
+http://222.131.15.137:4000/udp/239.3.1.57:8152
+#EXTINF:-1 group-title="北京联通十套",通州融媒[]
+http://123.113.236.69:8012/udp/239.3.1.221:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV卡酷少儿[]
+http://222.131.15.137:4000/udp/239.3.1.189:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV3 综艺[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.172:8001
+#EXTINF:-1 group-title="北京联通十套",纪实人文[]
+http://221.216.137.230:8012/udp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通十套",茶频道[]
+http://111.193.230.4:4022/udp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV北京卫视[]
+http://111.196.128.239:4022/udp/239.3.1.241:8000
+#EXTINF:-1 group-title="北京联通十套",辽宁卫视[]
+http://114.246.102.14:4000/udp/239.3.1.210:8056
+#EXTINF:-1 group-title="北京联通十套",BRTV体育休闲[超清]
+http://222.131.15.137:4000/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",CGTN 俄语[]
+http://123.112.213.221:4022/udp/239.3.1.220:4220
+#EXTINF:-1 group-title="北京联通十套",东方卫视[]
+http://sweetown.fun:4000/udp/239.3.1.136:8032
+#EXTINF:-1 group-title="北京联通十套",房山电视台
+http://123.113.236.69:8012/udp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[]
+http://111.193.230.4:4022/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",CGTN 西班牙语[]
+http://111.196.128.239:4022/udp/239.3.1.217:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV15 音乐[]
+http://111.196.128.239:4022/udp/239.3.1.153:8136
+#EXTINF:-1 group-title="北京联通十套",纪实人文[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通十套",山东教育
+http://ikuai.zlsip.top:4022/udp/239.3.1.52:4120
+#EXTINF:-1 group-title="北京联通十套",三沙卫视
+http://111.193.230.4:4022/udp/239.3.1.155:4120
+#EXTINF:-1 group-title="北京联通十套",广东卫视[]
+http://123.113.186.207:8000/udp/239.3.1.142:8048
+#EXTINF:-1 group-title="北京联通十套",深圳卫视[]
+http://111.193.230.4:4022/udp/239.3.1.134:8020
+#EXTINF:-1 group-title="北京联通十套",BRTV青年[]
+http://111.196.128.239:4022/udp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通十套",金鹰纪实[]
+http://123.113.236.69:8012/udp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通十套",黑龙江卫视[]
+http://sweetown.fun:4000/udp/239.3.1.133:8016
+#EXTINF:-1 group-title="北京联通十套",安徽卫视[]
+http://123.113.236.69:8012/udp/239.3.1.211:8064
+#EXTINF:-1 group-title="北京联通十套",睛彩篮球[]
+http://111.196.128.239:4022/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通十套",海南卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.45:8304
+#EXTINF:-1 group-title="北京联通十套",萌宠TV[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="北京联通十套",房山电视台
+http://sweetown.fun:4000/udp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通十套",辽宁卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.210:8056
+#EXTINF:-1 group-title="北京联通十套",睛彩篮球[]
+http://123.113.236.69:8012/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[]
+http://114.246.102.14:4000/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",CGTN 法语[]
+http://111.196.128.239:4022/udp/239.3.1.218:4220
+#EXTINF:-1 group-title="北京联通十套",每日影院[]
+http://221.216.137.230:8012/udp/239.3.1.111:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV6 电影[]
+http://123.113.236.69:8012/udp/239.3.1.174:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV14 少儿[]
+http://111.196.128.239:4022/udp/239.3.1.65:8132
+#EXTINF:-1 group-title="北京联通十套",CGTN 新闻[]
+http://221.216.137.230:8012/udp/239.3.1.215:4220
+#EXTINF:-1 group-title="北京联通十套",快乐垂钓[]
+http://sweetown.fun:4000/udp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通十套",湖北卫视[]
+http://221.216.137.230:8012/udp/239.3.1.138:8044
+#EXTINF:-1 group-title="北京联通十套",CCTV12 社会与法[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.64:8124
+#EXTINF:-1 group-title="北京联通十套",淘剧场[]
+http://114.246.102.14:4000/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV9 纪录[]
+http://222.131.15.137:4000/udp/239.3.1.62:8112
+#EXTINF:-1 group-title="北京联通十套",淘娱乐[]
+http://123.113.186.207:8000/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="北京联通十套",延庆电视台
+http://221.216.137.230:8012/udp/239.3.1.187:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV3 综艺[]
+http://222.131.15.137:4000/udp/239.3.1.172:8001
+#EXTINF:-1 group-title="北京联通十套",体育赛事[]
+http://114.246.102.14:4000/udp/239.3.1.157:8176
+#EXTINF:-1 group-title="北京联通十套",风尚生活[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.114:8001
+#EXTINF:-1 group-title="北京联通十套",浙江卫视[]
+http://114.246.102.14:4000/udp/239.3.1.137:8036
+#EXTINF:-1 group-title="北京联通十套",BRTV新闻[]
+http://114.246.102.14:4000/udp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清]
+http://114.246.102.14:4000/udp/239.3.1.121:8000
+#EXTINF:-1 group-title="北京联通十套",三沙卫视
+http://222.131.15.137:4000/udp/239.3.1.155:4120
+#EXTINF:-1 group-title="北京联通十套",安徽卫视[]
+http://123.112.213.221:4022/udp/239.3.1.211:8064
+#EXTINF:-1 group-title="北京联通十套",东南卫视[]
+http://221.216.137.230:8012/udp/239.3.1.156:8148
+#EXTINF:-1 group-title="北京联通十套",淘电影[]
+http://111.193.230.4:4022/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV青年[]
+http://123.112.213.221:4022/udp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通十套",吉林卫视[]
+http://123.113.186.207:8000/udp/239.3.1.240:8172
+#EXTINF:-1 group-title="北京联通十套",山东卫视[]
+http://sweetown.fun:4000/udp/239.3.1.209:8052
+#EXTINF:-1 group-title="北京联通十套",东南卫视[]
+http://222.131.15.137:4000/udp/239.3.1.156:8148
+#EXTINF:-1 group-title="北京联通十套",深圳卫视[]
+http://114.246.102.14:4000/udp/239.3.1.134:8020
+#EXTINF:-1 group-title="北京联通十套",广东卫视[]
+http://111.193.230.4:4022/udp/239.3.1.142:8048
+#EXTINF:-1 group-title="北京联通十套",CCTV11 戏曲[]
+http://111.196.128.239:4022/udp/239.3.1.152:8120
+#EXTINF:-1 group-title="北京联通十套",CGTN 西班牙语[]
+http://114.246.102.14:4000/udp/239.3.1.217:4220
+#EXTINF:-1 group-title="北京联通十套",金鹰纪实[]
+http://114.246.102.14:4000/udp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通十套",CCTV15 音乐[]
+http://221.216.137.230:8012/udp/239.3.1.153:8136
+#EXTINF:-1 group-title="北京联通十套",黑龙江卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.133:8016
+#EXTINF:-1 group-title="北京联通十套",CGTN 新闻[]
+http://123.113.236.69:8012/udp/239.3.1.215:4220
+#EXTINF:-1 group-title="北京联通十套",厦门卫视
+http://222.131.15.137:4000/udp/239.3.1.143:4120
+#EXTINF:-1 group-title="北京联通十套",纪实人文[]
+http://sweetown.fun:4000/udp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通十套",金鹰纪实[]
+http://221.216.137.230:8012/udp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通十套",三沙卫视
+http://ikuai.zlsip.top:4022/udp/239.3.1.155:4120
+#EXTINF:-1 group-title="北京联通十套",淘娱乐[]
+http://221.216.137.230:8012/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="北京联通十套",CETV1[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.57:8152
+#EXTINF:-1 group-title="北京联通十套",BRTV北京卫视[]
+http://123.113.186.207:8000/udp/239.3.1.241:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 美洲[]
+http://sweetown.fun:4000/udp/239.3.1.214:4220
+#EXTINF:-1 group-title="北京联通十套",睛彩羽毛球[]
+http://123.112.213.221:4022/udp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通十套",萌宠TV[]
+http://123.112.213.221:4022/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="北京联通十套",BTV国际频道
+http://123.112.213.221:4022/udp/239.3.1.235:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[]
+http://111.196.128.239:4022/udp/239.3.1.184:8001
+#EXTINF:-1 group-title="北京联通十套",睛彩竞技[]
+http://222.131.15.137:4000/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通十套",淘精彩[]
+http://114.246.102.14:4000/udp/239.3.1.178:8001
+#EXTINF:-1 group-title="北京联通十套",深圳卫视[]
+http://sweetown.fun:4000/udp/239.3.1.134:8020
+#EXTINF:-1 group-title="北京联通十套",CCTV13 新闻[]
+http://sweetown.fun:4000/udp/239.3.1.124:8128
+#EXTINF:-1 group-title="北京联通十套",CGTN 法语[]
+http://222.131.15.137:4000/udp/239.3.1.218:4220
+#EXTINF:-1 group-title="北京联通十套",贵州卫视[]
+http://221.216.137.230:8012/udp/239.3.1.149:8076
+#EXTINF:-1 group-title="北京联通十套",辽宁卫视[]
+http://111.193.230.4:4022/udp/239.3.1.210:8056
+#EXTINF:-1 group-title="北京联通十套",体育赛事[]
+http://111.196.128.239:4022/udp/239.3.1.157:8176
+#EXTINF:-1 group-title="北京联通十套",山东卫视[]
+http://221.216.137.230:8012/udp/239.3.1.209:8052
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[]
+http://123.113.236.69:8012/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",茶频道[]
+http://111.196.128.239:4022/udp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 欧洲[]
+http://111.196.128.239:4022/udp/239.3.1.213:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV7 国防军事[]
+http://111.196.128.239:4022/udp/239.3.1.61:8104
+#EXTINF:-1 group-title="北京联通十套",CCTV12 社会与法[]
+http://114.246.102.14:4000/udp/239.3.1.64:8124
+#EXTINF:-1 group-title="北京联通十套",CCTV5 体育[]
+http://123.113.186.207:8000/udp/239.3.1.173:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际[]
+http://111.193.230.4:4022/udp/239.3.1.105:8092
+#EXTINF:-1 group-title="北京联通十套",淘精彩[]
+http://sweetown.fun:4000/udp/239.3.1.178:8001
+#EXTINF:-1 group-title="北京联通十套",体育赛事[]
+http://111.193.230.4:4022/udp/239.3.1.157:8176
+#EXTINF:-1 group-title="北京联通十套",金鹰纪实[]
+http://123.113.186.207:8000/udp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通十套",CCTV13 新闻[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.124:8128
+#EXTINF:-1 group-title="北京联通十套",BRTV新闻[]
+http://222.131.15.137:4000/udp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV纪实科教[]
+http://114.246.102.14:4000/udp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV纪实科教[]
+http://111.196.128.239:4022/udp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV10 科教[]
+http://111.193.230.4:4022/udp/239.3.1.63:8116
+#EXTINF:-1 group-title="北京联通十套",BTV国际频道
+http://123.113.186.207:8000/udp/239.3.1.235:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV11 戏曲[]
+http://sweetown.fun:4000/udp/239.3.1.152:8120
+#EXTINF:-1 group-title="北京联通十套",贵州卫视[]
+http://123.113.236.69:8012/udp/239.3.1.149:8076
+#EXTINF:-1 group-title="北京联通十套",BRTV文艺[]
+http://sweetown.fun:4000/udp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通十套",萌宠TV[]
+http://111.196.128.239:4022/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="北京联通十套",东南卫视[]
+http://123.112.213.221:4022/udp/239.3.1.156:8148
+#EXTINF:-1 group-title="北京联通十套",BRTV青年[]
+http://sweetown.fun:4000/udp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 欧洲[]
+http://111.193.230.4:4022/udp/239.3.1.213:4220
+#EXTINF:-1 group-title="北京联通十套",吉林卫视[]
+http://111.193.230.4:4022/udp/239.3.1.240:8172
+#EXTINF:-1 group-title="北京联通十套",CGTN 西班牙语[]
+http://111.193.230.4:4022/udp/239.3.1.217:4220
+#EXTINF:-1 group-title="北京联通十套",睛彩羽毛球[]
+http://123.113.186.207:8000/udp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通十套",4K超清[超清]
+http://sweetown.fun:4000/udp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通十套",湖南卫视[]
+http://123.113.236.69:8012/udp/239.3.1.132:8012
+#EXTINF:-1 group-title="北京联通十套",三沙卫视
+http://111.196.128.239:4022/udp/239.3.1.155:4120
+#EXTINF:-1 group-title="北京联通十套",CGTN 俄语[]
+http://222.131.15.137:4000/udp/239.3.1.220:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清]
+http://123.113.186.207:8000/udp/239.3.1.121:8000
+#EXTINF:-1 group-title="北京联通十套",山东教育
+http://222.131.15.137:4000/udp/239.3.1.52:4120
+#EXTINF:-1 group-title="北京联通十套",东方卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.136:8032
+#EXTINF:-1 group-title="北京联通十套",三沙卫视
+http://123.113.236.69:8012/udp/239.3.1.155:4120
+#EXTINF:-1 group-title="北京联通十套",东南卫视[]
+http://123.113.186.207:8000/udp/239.3.1.156:8148
+#EXTINF:-1 group-title="北京联通十套",南方卫视
+http://114.246.102.14:4000/udp/239.3.1.161:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV12 社会与法[]
+http://111.196.128.239:4022/udp/239.3.1.64:8124
+#EXTINF:-1 group-title="北京联通十套",淘Baby[]
+http://221.216.137.230:8012/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV新闻[]
+http://123.112.213.221:4022/udp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV财经[]
+http://114.246.102.14:4000/udp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通十套",重庆卫视[]
+http://123.112.213.221:4022/udp/239.3.1.122:8160
+#EXTINF:-1 group-title="北京联通十套",CCTV15 音乐[]
+http://123.113.236.69:8012/udp/239.3.1.153:8136
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 欧洲[]
+http://222.131.15.137:4000/udp/239.3.1.213:4220
+#EXTINF:-1 group-title="北京联通十套",纪实人文[]
+http://111.193.230.4:4022/udp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[超清R]
+http://222.131.15.137:4000/udp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清R]
+http://221.216.137.230:8012/udp/239.3.1.120:8000
+#EXTINF:-1 group-title="北京联通十套",淘剧场[]
+http://123.113.236.69:8012/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="北京联通十套",浙江卫视[]
+http://123.113.186.207:8000/udp/239.3.1.137:8036
+#EXTINF:-1 group-title="北京联通十套",CGTN 记录[]
+http://111.196.128.239:4022/udp/239.3.1.216:4220
+#EXTINF:-1 group-title="北京联通十套",吉林卫视[]
+http://114.246.102.14:4000/udp/239.3.1.240:8172
+#EXTINF:-1 group-title="北京联通十套",CGTN 记录[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.216:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV财经[]
+http://123.113.186.207:8000/udp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV财经[]
+http://sweetown.fun:4000/udp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV17 农业农村[]
+http://222.131.15.137:4000/udp/239.3.1.151:8144
+#EXTINF:-1 group-title="北京联通十套",CGTN 法语[]
+http://123.113.236.69:8012/udp/239.3.1.218:4220
+#EXTINF:-1 group-title="北京联通十套",CETV1[]
+http://221.216.137.230:8012/udp/239.3.1.57:8152
+#EXTINF:-1 group-title="北京联通十套",BRTV影视[]
+http://123.112.213.221:4022/udp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通十套",吉林卫视[]
+http://222.131.15.137:4000/udp/239.3.1.240:8172
+#EXTINF:-1 group-title="北京联通十套",通州融媒[]
+http://114.246.102.14:4000/udp/239.3.1.221:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[]
+http://111.193.230.4:4022/udp/239.3.1.184:8001
+#EXTINF:-1 group-title="北京联通十套",江苏卫视[]
+http://221.216.137.230:8012/udp/239.3.1.135:8028
+#EXTINF:-1 group-title="北京联通十套",CCTV14 少儿[]
+http://111.193.230.4:4022/udp/239.3.1.65:8132
+#EXTINF:-1 group-title="北京联通十套",江西卫视[]
+http://123.113.186.207:8000/udp/239.3.1.123:8164
+#EXTINF:-1 group-title="北京联通十套",睛彩广场舞[]
+http://111.193.230.4:4022/udp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通十套",三沙卫视
+http://114.246.102.14:4000/udp/239.3.1.155:4120
+#EXTINF:-1 group-title="北京联通十套",淘精彩[]
+http://222.131.15.137:4000/udp/239.3.1.178:8001
+#EXTINF:-1 group-title="北京联通十套",江苏卫视[]
+http://123.112.213.221:4022/udp/239.3.1.135:8028
+#EXTINF:-1 group-title="北京联通十套",东南卫视[]
+http://111.193.230.4:4022/udp/239.3.1.156:8148
+#EXTINF:-1 group-title="北京联通十套",海南卫视
+http://221.216.137.230:8012/udp/239.3.1.45:8304
+#EXTINF:-1 group-title="北京联通十套",幸福娱乐[]
+http://111.193.230.4:4022/udp/239.3.1.113:8001
+#EXTINF:-1 group-title="北京联通十套",吉林卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.240:8172
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清R]
+http://123.113.186.207:8000/udp/239.3.1.120:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清R]
+http://sweetown.fun:4000/udp/239.3.1.120:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV北京卫视[]
+http://222.131.15.137:4000/udp/239.3.1.241:8000
+#EXTINF:-1 group-title="北京联通十套",东南卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.156:8148
+#EXTINF:-1 group-title="北京联通十套",快乐垂钓[]
+http://123.112.213.221:4022/udp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV13 新闻[]
+http://123.113.186.207:8000/udp/239.3.1.124:8128
+#EXTINF:-1 group-title="北京联通十套",幸福娱乐[]
+http://114.246.102.14:4000/udp/239.3.1.113:8001
+#EXTINF:-1 group-title="北京联通十套",萌宠TV[]
+http://222.131.15.137:4000/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 记录[]
+http://123.113.236.69:8012/udp/239.3.1.216:4220
+#EXTINF:-1 group-title="北京联通十套",江西卫视[]
+http://111.196.128.239:4022/udp/239.3.1.123:8164
+#EXTINF:-1 group-title="北京联通十套",海南卫视
+http://114.246.102.14:4000/udp/239.3.1.45:8304
+#EXTINF:-1 group-title="北京联通十套",房山电视台
+http://123.113.186.207:8000/udp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV2 财经[]
+http://222.131.15.137:4000/udp/239.3.1.60:8084
+#EXTINF:-1 group-title="北京联通十套",山东教育
+http://111.193.230.4:4022/udp/239.3.1.52:4120
+#EXTINF:-1 group-title="北京联通十套",BRTV新闻[]
+http://sweetown.fun:4000/udp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV10 科教[]
+http://123.112.213.221:4022/udp/239.3.1.63:8116
+#EXTINF:-1 group-title="北京联通十套",湖北卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.138:8044
+#EXTINF:-1 group-title="北京联通十套",三沙卫视
+http://123.113.186.207:8000/udp/239.3.1.155:4120
+#EXTINF:-1 group-title="北京联通十套",风尚生活[]
+http://111.193.230.4:4022/udp/239.3.1.114:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV财经[]
+http://123.112.213.221:4022/udp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通十套",安徽卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.211:8064
+#EXTINF:-1 group-title="北京联通十套",幸福剧场[]
+http://222.131.15.137:4000/udp/239.3.1.112:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV17 农业农村[]
+http://123.113.236.69:8012/udp/239.3.1.151:8144
+#EXTINF:-1 group-title="北京联通十套",CCTV6 电影[]
+http://123.112.213.221:4022/udp/239.3.1.174:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV影视[]
+http://123.113.236.69:8012/udp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通十套",CETV1[]
+http://sweetown.fun:4000/udp/239.3.1.57:8152
+#EXTINF:-1 group-title="北京联通十套",安徽卫视[]
+http://111.193.230.4:4022/udp/239.3.1.211:8064
+#EXTINF:-1 group-title="北京联通十套",BRTV体育休闲[超清]
+http://sweetown.fun:4000/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",纪实人文[]
+http://222.131.15.137:4000/udp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通十套",湖北卫视[]
+http://sweetown.fun:4000/udp/239.3.1.138:8044
+#EXTINF:-1 group-title="北京联通十套",江西卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.123:8164
+#EXTINF:-1 group-title="北京联通十套",延庆电视台
+http://123.112.213.221:4022/udp/239.3.1.187:8001
+#EXTINF:-1 group-title="北京联通十套",幸福娱乐[]
+http://123.113.236.69:8012/udp/239.3.1.113:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV5 体育[]
+http://123.113.236.69:8012/udp/239.3.1.173:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV12 社会与法[]
+http://123.112.213.221:4022/udp/239.3.1.64:8124
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清]
+http://123.112.213.221:4022/udp/239.3.1.121:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV生活[]
+http://111.196.128.239:4022/udp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通十套",萌宠TV[]
+http://123.113.186.207:8000/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="北京联通十套",重庆卫视[]
+http://123.113.186.207:8000/udp/239.3.1.122:8160
+#EXTINF:-1 group-title="北京联通十套",黑龙江卫视[]
+http://123.113.186.207:8000/udp/239.3.1.133:8016
+#EXTINF:-1 group-title="北京联通十套",CCTV6 电影[]
+http://114.246.102.14:4000/udp/239.3.1.174:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV1 综合[]
+http://221.216.137.230:8012/udp/239.3.1.129:8008
+#EXTINF:-1 group-title="北京联通十套",CCTV15 音乐[]
+http://sweetown.fun:4000/udp/239.3.1.153:8136
+#EXTINF:-1 group-title="北京联通十套",CCTV1 综合[]
+http://222.131.15.137:4000/udp/239.3.1.129:8008
+#EXTINF:-1 group-title="北京联通十套",爱上4K[超清]
+http://ikuai.zlsip.top:4022/udp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通十套",BRTV新闻[]
+http://111.193.230.4:4022/udp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通十套",爱上4K[超清]
+http://111.193.230.4:4022/udp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通十套",幸福剧场[]
+http://111.196.128.239:4022/udp/239.3.1.112:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV2 财经[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.60:8084
+#EXTINF:-1 group-title="北京联通十套",金鹰纪实[]
+http://111.193.230.4:4022/udp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通十套",CCTV6 电影[]
+http://222.131.15.137:4000/udp/239.3.1.174:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV纪实科教[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通十套",朝阳融媒[]
+http://123.112.213.221:4022/udp/239.3.1.163:8001
+#EXTINF:-1 group-title="北京联通十套",体育赛事[]
+http://123.113.186.207:8000/udp/239.3.1.157:8176
+#EXTINF:-1 group-title="北京联通十套",CCTV5 体育[]
+http://222.131.15.137:4000/udp/239.3.1.173:8001
+#EXTINF:-1 group-title="北京联通十套",茶频道[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通十套",海南卫视
+http://111.193.230.4:4022/udp/239.3.1.45:8304
+#EXTINF:-1 group-title="北京联通十套",淘电影[]
+http://221.216.137.230:8012/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通十套",爱上4K[超清]
+http://114.246.102.14:4000/udp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通十套",风尚生活[]
+http://111.196.128.239:4022/udp/239.3.1.114:8001
+#EXTINF:-1 group-title="北京联通十套",浙江卫视[]
+http://111.193.230.4:4022/udp/239.3.1.137:8036
+#EXTINF:-1 group-title="北京联通十套",CGTN 记录[]
+http://123.113.186.207:8000/udp/239.3.1.216:4220
+#EXTINF:-1 group-title="北京联通十套",茶频道[]
+http://114.246.102.14:4000/udp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通十套",湖北卫视[]
+http://123.113.186.207:8000/udp/239.3.1.138:8044
+#EXTINF:-1 group-title="北京联通十套",延庆电视台
+http://123.113.236.69:8012/udp/239.3.1.187:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV体育休闲[超清]
+http://111.193.230.4:4022/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV17 农业农村[]
+http://sweetown.fun:4000/udp/239.3.1.151:8144
+#EXTINF:-1 group-title="北京联通十套",湖北卫视[]
+http://111.196.128.239:4022/udp/239.3.1.138:8044
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清R]
+http://111.193.230.4:4022/udp/239.3.1.120:8000
+#EXTINF:-1 group-title="北京联通十套",山东卫视[]
+http://123.112.213.221:4022/udp/239.3.1.209:8052
+#EXTINF:-1 group-title="北京联通十套",快乐垂钓[]
+http://114.246.102.14:4000/udp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV7 国防军事[]
+http://114.246.102.14:4000/udp/239.3.1.61:8104
+#EXTINF:-1 group-title="北京联通十套",睛彩篮球[]
+http://222.131.15.137:4000/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 欧洲[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.213:4220
+#EXTINF:-1 group-title="北京联通十套",黑龙江卫视[]
+http://111.193.230.4:4022/udp/239.3.1.133:8016
+#EXTINF:-1 group-title="北京联通十套",东方卫视[]
+http://111.193.230.4:4022/udp/239.3.1.136:8032
+#EXTINF:-1 group-title="北京联通十套",CCTV7 国防军事[]
+http://111.193.230.4:4022/udp/239.3.1.61:8104
+#EXTINF:-1 group-title="北京联通十套",江苏卫视[]
+http://114.246.102.14:4000/udp/239.3.1.135:8028
+#EXTINF:-1 group-title="北京联通十套",BRTV体育休闲[超清]
+http://221.216.137.230:8012/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",深圳卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.134:8020
+#EXTINF:-1 group-title="北京联通十套",睛彩羽毛球[]
+http://221.216.137.230:8012/udp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV5+ 体育赛事[]
+http://123.113.236.69:8012/udp/239.3.1.130:8004
+#EXTINF:-1 group-title="北京联通十套",辽宁卫视[]
+http://123.112.213.221:4022/udp/239.3.1.210:8056
+#EXTINF:-1 group-title="北京联通十套",CGTN 西班牙语[]
+http://221.216.137.230:8012/udp/239.3.1.217:4220
+#EXTINF:-1 group-title="北京联通十套",睛彩广场舞[]
+http://sweetown.fun:4000/udp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV体育休闲[超清]
+http://114.246.102.14:4000/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",江西卫视[]
+http://221.216.137.230:8012/udp/239.3.1.123:8164
+#EXTINF:-1 group-title="北京联通十套",CCTV5+ 体育赛事[]
+http://sweetown.fun:4000/udp/239.3.1.130:8004
+#EXTINF:-1 group-title="北京联通十套",延庆电视台
+http://ikuai.zlsip.top:4022/udp/239.3.1.187:8001
+#EXTINF:-1 group-title="北京联通十套",睛彩篮球[]
+http://123.112.213.221:4022/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="北京联通十套",朝阳融媒[]
+http://221.216.137.230:8012/udp/239.3.1.163:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清R]
+http://123.113.236.69:8012/udp/239.3.1.120:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[]
+http://222.131.15.137:4000/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",厦门卫视
+http://221.216.137.230:8012/udp/239.3.1.143:4120
+#EXTINF:-1 group-title="北京联通十套",BRTV青年[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV青年[]
+http://221.216.137.230:8012/udp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通十套",湖北卫视[]
+http://111.193.230.4:4022/udp/239.3.1.138:8044
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 美洲[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.214:4220
+#EXTINF:-1 group-title="北京联通十套",湖南卫视[]
+http://221.216.137.230:8012/udp/239.3.1.132:8012
+#EXTINF:-1 group-title="北京联通十套",山东卫视[]
+http://111.196.128.239:4022/udp/239.3.1.209:8052
+#EXTINF:-1 group-title="北京联通十套",广东卫视[]
+http://114.246.102.14:4000/udp/239.3.1.142:8048
+#EXTINF:-1 group-title="北京联通十套",BRTV生活[]
+http://222.131.15.137:4000/udp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通十套",CGTN 阿拉伯语[]
+http://222.131.15.137:4000/udp/239.3.1.219:4220
+#EXTINF:-1 group-title="北京联通十套",密云电视台[]
+http://222.131.15.137:4000/udp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通十套",海南卫视
+http://222.131.15.137:4000/udp/239.3.1.45:8304
+#EXTINF:-1 group-title="北京联通十套",东南卫视[]
+http://111.196.128.239:4022/udp/239.3.1.156:8148
+#EXTINF:-1 group-title="北京联通十套",快乐垂钓[]
+http://111.193.230.4:4022/udp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通十套",浙江卫视[]
+http://sweetown.fun:4000/udp/239.3.1.137:8036
+#EXTINF:-1 group-title="北京联通十套",湖北卫视[]
+http://123.112.213.221:4022/udp/239.3.1.138:8044
+#EXTINF:-1 group-title="北京联通十套",贵州卫视[]
+http://123.113.186.207:8000/udp/239.3.1.149:8076
+#EXTINF:-1 group-title="北京联通十套",CCTV8 电视剧[]
+http://221.216.137.230:8012/udp/239.3.1.175:8001
+#EXTINF:-1 group-title="北京联通十套",每日影院[]
+http://111.196.128.239:4022/udp/239.3.1.111:8001
+#EXTINF:-1 group-title="北京联通十套",海南卫视
+http://123.113.236.69:8012/udp/239.3.1.45:8304
+#EXTINF:-1 group-title="北京联通十套",CGTN 阿拉伯语[]
+http://sweetown.fun:4000/udp/239.3.1.219:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV卡酷少儿[]
+http://123.113.186.207:8000/udp/239.3.1.189:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 美洲[]
+http://114.246.102.14:4000/udp/239.3.1.214:4220
+#EXTINF:-1 group-title="北京联通十套",河北卫视[]
+http://123.113.186.207:8000/udp/239.3.1.148:8072
+#EXTINF:-1 group-title="北京联通十套",山东教育
+http://114.246.102.14:4000/udp/239.3.1.52:4120
+#EXTINF:-1 group-title="北京联通十套",房山电视台
+http://114.246.102.14:4000/udp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV11 戏曲[]
+http://111.193.230.4:4022/udp/239.3.1.152:8120
+#EXTINF:-1 group-title="北京联通十套",幸福娱乐[]
+http://111.196.128.239:4022/udp/239.3.1.113:8001
+#EXTINF:-1 group-title="北京联通十套",房山电视台
+http://123.112.213.221:4022/udp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通十套",中国交通[]
+http://111.193.230.4:4022/udp/239.3.1.188:8001
+#EXTINF:-1 group-title="北京联通十套",辽宁卫视[]
+http://221.216.137.230:8012/udp/239.3.1.210:8056
+#EXTINF:-1 group-title="北京联通十套",BRTV北京卫视[]
+http://114.246.102.14:4000/udp/239.3.1.241:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV影视[]
+http://221.216.137.230:8012/udp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通十套",爱上4K[超清]
+http://221.216.137.230:8012/udp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通十套",CGTN 俄语[]
+http://123.113.186.207:8000/udp/239.3.1.220:4220
+#EXTINF:-1 group-title="北京联通十套",密云电视台[]
+http://221.216.137.230:8012/udp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 新闻[]
+http://sweetown.fun:4000/udp/239.3.1.215:4220
+#EXTINF:-1 group-title="北京联通十套",朝阳融媒[]
+http://123.113.236.69:8012/udp/239.3.1.163:8001
+#EXTINF:-1 group-title="北京联通十套",重庆卫视[]
+http://111.193.230.4:4022/udp/239.3.1.122:8160
+#EXTINF:-1 group-title="北京联通十套",睛彩竞技[]
+http://114.246.102.14:4000/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 法语[]
+http://sweetown.fun:4000/udp/239.3.1.218:4220
+#EXTINF:-1 group-title="北京联通十套",湖南卫视[]
+http://111.193.230.4:4022/udp/239.3.1.132:8012
+#EXTINF:-1 group-title="北京联通十套",BRTV财经[]
+http://111.193.230.4:4022/udp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通十套",黑龙江卫视[]
+http://123.112.213.221:4022/udp/239.3.1.133:8016
+#EXTINF:-1 group-title="北京联通十套",CCTV15 音乐[]
+http://222.131.15.137:4000/udp/239.3.1.153:8136
+#EXTINF:-1 group-title="北京联通十套",江西卫视[]
+http://222.131.15.137:4000/udp/239.3.1.123:8164
+#EXTINF:-1 group-title="北京联通十套",BRTV青年[]
+http://123.113.236.69:8012/udp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通十套",茶频道[]
+http://222.131.15.137:4000/udp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通十套",重庆卫视[]
+http://222.131.15.137:4000/udp/239.3.1.122:8160
+#EXTINF:-1 group-title="北京联通十套",BRTV卡酷少儿[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.189:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV新闻[]
+http://123.113.186.207:8000/udp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV文艺[]
+http://111.193.230.4:4022/udp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通十套",淘Baby[]
+http://222.131.15.137:4000/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通十套",房山电视台
+http://222.131.15.137:4000/udp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通十套",淘Baby[]
+http://123.113.236.69:8012/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.184:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV5+ 体育赛事[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.130:8004
+#EXTINF:-1 group-title="北京联通十套",萌宠TV[]
+http://111.193.230.4:4022/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV体育休闲[超清]
+http://111.196.128.239:4022/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV1 综合[]
+http://114.246.102.14:4000/udp/239.3.1.129:8008
+#EXTINF:-1 group-title="北京联通十套",东方卫视[]
+http://123.113.186.207:8000/udp/239.3.1.136:8032
+#EXTINF:-1 group-title="北京联通十套",天津卫视[]
+http://123.113.186.207:8000/udp/239.3.1.141:1234
+#EXTINF:-1 group-title="北京联通十套",通州融媒[]
+http://222.131.15.137:4000/udp/239.3.1.221:8001
+#EXTINF:-1 group-title="北京联通十套",南方卫视
+http://221.216.137.230:8012/udp/239.3.1.161:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV15 音乐[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.153:8136
+#EXTINF:-1 group-title="北京联通十套",茶频道[]
+http://123.113.236.69:8012/udp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV7 国防军事[]
+http://123.113.186.207:8000/udp/239.3.1.61:8104
+#EXTINF:-1 group-title="北京联通十套",厦门卫视
+http://123.113.186.207:8000/udp/239.3.1.143:4120
+#EXTINF:-1 group-title="北京联通十套",BRTV文艺[]
+http://222.131.15.137:4000/udp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通十套",睛彩广场舞[]
+http://123.112.213.221:4022/udp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通十套",辽宁卫视[]
+http://123.113.186.207:8000/udp/239.3.1.210:8056
+#EXTINF:-1 group-title="北京联通十套",三沙卫视
+http://sweetown.fun:4000/udp/239.3.1.155:4120
+#EXTINF:-1 group-title="北京联通十套",CCTV14 少儿[]
+http://222.131.15.137:4000/udp/239.3.1.65:8132
+#EXTINF:-1 group-title="北京联通十套",CCTV14 少儿[]
+http://221.216.137.230:8012/udp/239.3.1.65:8132
+#EXTINF:-1 group-title="北京联通十套",CGTN 西班牙语[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.217:4220
+#EXTINF:-1 group-title="北京联通十套",爱上4K[超清]
+http://111.196.128.239:4022/udp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通十套",CGTN 阿拉伯语[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.219:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV3 综艺[]
+http://111.193.230.4:4022/udp/239.3.1.172:8001
+#EXTINF:-1 group-title="北京联通十套",南方卫视
+http://123.113.186.207:8000/udp/239.3.1.161:8001
+#EXTINF:-1 group-title="北京联通十套",海南卫视
+http://123.112.213.221:4022/udp/239.3.1.45:8304
+#EXTINF:-1 group-title="北京联通十套",CCTV10 科教[]
+http://123.113.236.69:8012/udp/239.3.1.63:8116
+#EXTINF:-1 group-title="北京联通十套",山东卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.209:8052
+#EXTINF:-1 group-title="北京联通十套",BRTV卡酷少儿[]
+http://111.193.230.4:4022/udp/239.3.1.189:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV12 社会与法[]
+http://sweetown.fun:4000/udp/239.3.1.64:8124
+#EXTINF:-1 group-title="北京联通十套",每日影院[]
+http://123.113.236.69:8012/udp/239.3.1.111:8001
+#EXTINF:-1 group-title="北京联通十套",体育赛事[]
+http://123.112.213.221:4022/udp/239.3.1.157:8176
+#EXTINF:-1 group-title="北京联通十套",辽宁卫视[]
+http://111.196.128.239:4022/udp/239.3.1.210:8056
+#EXTINF:-1 group-title="北京联通十套",密云电视台[]
+http://sweetown.fun:4000/udp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通十套",密云电视台[]
+http://123.113.186.207:8000/udp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV2 财经[]
+http://114.246.102.14:4000/udp/239.3.1.60:8084
+#EXTINF:-1 group-title="北京联通十套",CCTV15 音乐[]
+http://114.246.102.14:4000/udp/239.3.1.153:8136
+#EXTINF:-1 group-title="北京联通十套",CCTV13 新闻[]
+http://123.113.236.69:8012/udp/239.3.1.124:8128
+#EXTINF:-1 group-title="北京联通十套",湖南卫视[]
+http://123.112.213.221:4022/udp/239.3.1.132:8012
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清R]
+http://111.196.128.239:4022/udp/239.3.1.120:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV6 电影[]
+http://123.113.186.207:8000/udp/239.3.1.174:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清]
+http://111.196.128.239:4022/udp/239.3.1.121:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV17 农业农村[]
+http://221.216.137.230:8012/udp/239.3.1.151:8144
+#EXTINF:-1 group-title="北京联通十套",萌宠TV[]
+http://123.113.236.69:8012/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="北京联通十套",4K超清[超清]
+http://ikuai.zlsip.top:4022/udp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV文艺[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清]
+http://ikuai.zlsip.top:4022/udp/239.3.1.121:8000
+#EXTINF:-1 group-title="北京联通十套",大健康[]
+http://221.216.137.230:8012/udp/239.3.1.251:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 记录[]
+http://111.193.230.4:4022/udp/239.3.1.216:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV北京卫视[]
+http://221.216.137.230:8012/udp/239.3.1.241:8000
+#EXTINF:-1 group-title="北京联通十套",山东卫视[]
+http://111.193.230.4:4022/udp/239.3.1.209:8052
+#EXTINF:-1 group-title="北京联通十套",CCTV10 科教[]
+http://111.196.128.239:4022/udp/239.3.1.63:8116
+#EXTINF:-1 group-title="北京联通十套",山东卫视[]
+http://114.246.102.14:4000/udp/239.3.1.209:8052
+#EXTINF:-1 group-title="北京联通十套",CCTV17 农业农村[]
+http://123.112.213.221:4022/udp/239.3.1.151:8144
+#EXTINF:-1 group-title="北京联通十套",CGTN 新闻[]
+http://114.246.102.14:4000/udp/239.3.1.215:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV财经[]
+http://222.131.15.137:4000/udp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV影视[]
+http://123.113.186.207:8000/udp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通十套",茶频道[]
+http://sweetown.fun:4000/udp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV北京卫视[]
+http://123.113.236.69:8012/udp/239.3.1.241:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV影视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通十套",重庆卫视[]
+http://123.113.236.69:8012/udp/239.3.1.122:8160
+#EXTINF:-1 group-title="北京联通十套",CGTN 法语[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.218:4220
+#EXTINF:-1 group-title="北京联通十套",淘娱乐[]
+http://222.131.15.137:4000/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="北京联通十套",朝阳融媒[]
+http://123.113.186.207:8000/udp/239.3.1.163:8001
+#EXTINF:-1 group-title="北京联通十套",山东教育
+http://sweetown.fun:4000/udp/239.3.1.52:4120
+#EXTINF:-1 group-title="北京联通十套",淘精彩[]
+http://111.193.230.4:4022/udp/239.3.1.178:8001
+#EXTINF:-1 group-title="北京联通十套",密云电视台[]
+http://123.113.236.69:8012/udp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际[]
+http://123.113.186.207:8000/udp/239.3.1.105:8092
+#EXTINF:-1 group-title="北京联通十套",朝阳融媒[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.163:8001
+#EXTINF:-1 group-title="北京联通十套",贵州卫视[]
+http://222.131.15.137:4000/udp/239.3.1.149:8076
+#EXTINF:-1 group-title="北京联通十套",湖南卫视[]
+http://111.196.128.239:4022/udp/239.3.1.132:8012
+#EXTINF:-1 group-title="北京联通十套",BTV国际频道
+http://222.131.15.137:4000/udp/239.3.1.235:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV5 体育[]
+http://111.196.128.239:4022/udp/239.3.1.173:8001
+#EXTINF:-1 group-title="北京联通十套",重庆卫视[]
+http://114.246.102.14:4000/udp/239.3.1.122:8160
+#EXTINF:-1 group-title="北京联通十套",CCTV7 国防军事[]
+http://123.113.236.69:8012/udp/239.3.1.61:8104
+#EXTINF:-1 group-title="北京联通十套",南方卫视
+http://sweetown.fun:4000/udp/239.3.1.161:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV6 电影[]
+http://111.196.128.239:4022/udp/239.3.1.174:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV影视[]
+http://sweetown.fun:4000/udp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV11 戏曲[]
+http://123.113.186.207:8000/udp/239.3.1.152:8120
+#EXTINF:-1 group-title="北京联通十套",4K超清[超清]
+http://222.131.15.137:4000/udp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通十套",吉林卫视[]
+http://111.196.128.239:4022/udp/239.3.1.240:8172
+#EXTINF:-1 group-title="北京联通十套",淘精彩[]
+http://123.112.213.221:4022/udp/239.3.1.178:8001
+#EXTINF:-1 group-title="北京联通十套",延庆电视台
+http://222.131.15.137:4000/udp/239.3.1.187:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV3 综艺[]
+http://123.112.213.221:4022/udp/239.3.1.172:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 西班牙语[]
+http://222.131.15.137:4000/udp/239.3.1.217:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV纪实科教[]
+http://221.216.137.230:8012/udp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV3 综艺[]
+http://221.216.137.230:8012/udp/239.3.1.172:8001
+#EXTINF:-1 group-title="北京联通十套",浙江卫视[]
+http://111.196.128.239:4022/udp/239.3.1.137:8036
+#EXTINF:-1 group-title="北京联通十套",4K超清[超清]
+http://123.113.236.69:8012/udp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通十套",CETV1[]
+http://111.193.230.4:4022/udp/239.3.1.57:8152
+#EXTINF:-1 group-title="北京联通十套",CCTV14 少儿[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.65:8132
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 欧洲[]
+http://123.112.213.221:4022/udp/239.3.1.213:4220
+#EXTINF:-1 group-title="北京联通十套",河北卫视[]
+http://123.112.213.221:4022/udp/239.3.1.148:8072
+#EXTINF:-1 group-title="北京联通十套",淘电影[]
+http://123.113.186.207:8000/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通十套",淘精彩[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.178:8001
+#EXTINF:-1 group-title="北京联通十套",4K超清[超清]
+http://114.246.102.14:4000/udp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV财经[]
+http://111.196.128.239:4022/udp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通十套",东方卫视[]
+http://221.216.137.230:8012/udp/239.3.1.136:8032
+#EXTINF:-1 group-title="北京联通十套",CCTV11 戏曲[]
+http://221.216.137.230:8012/udp/239.3.1.152:8120
+#EXTINF:-1 group-title="北京联通十套",三沙卫视
+http://221.216.137.230:8012/udp/239.3.1.155:4120
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清]
+http://sweetown.fun:4000/udp/239.3.1.121:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV13 新闻[]
+http://111.193.230.4:4022/udp/239.3.1.124:8128
+#EXTINF:-1 group-title="北京联通十套",通州融媒[]
+http://221.216.137.230:8012/udp/239.3.1.221:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际[]
+http://221.216.137.230:8012/udp/239.3.1.105:8092
+#EXTINF:-1 group-title="北京联通十套",CGTN 俄语[]
+http://123.113.236.69:8012/udp/239.3.1.220:4220
+#EXTINF:-1 group-title="北京联通十套",安徽卫视[]
+http://111.196.128.239:4022/udp/239.3.1.211:8064
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 美洲[]
+http://222.131.15.137:4000/udp/239.3.1.214:4220
+#EXTINF:-1 group-title="北京联通十套",天津卫视[]
+http://114.246.102.14:4000/udp/239.3.1.141:1234
+#EXTINF:-1 group-title="北京联通十套",黑龙江卫视[]
+http://114.246.102.14:4000/udp/239.3.1.133:8016
+#EXTINF:-1 group-title="北京联通十套",淘娱乐[]
+http://111.196.128.239:4022/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="北京联通十套",淘剧场[]
+http://111.193.230.4:4022/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV9 纪录[]
+http://123.112.213.221:4022/udp/239.3.1.62:8112
+#EXTINF:-1 group-title="北京联通十套",大健康[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.251:8001
+#EXTINF:-1 group-title="北京联通十套",河北卫视[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.148:8072
+#EXTINF:-1 group-title="北京联通十套",厦门卫视
+http://sweetown.fun:4000/udp/239.3.1.143:4120
+#EXTINF:-1 group-title="北京联通十套",安徽卫视[]
+http://221.216.137.230:8012/udp/239.3.1.211:8064
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 美洲[]
+http://111.196.128.239:4022/udp/239.3.1.214:4220
+#EXTINF:-1 group-title="北京联通十套",湖北卫视[]
+http://123.113.236.69:8012/udp/239.3.1.138:8044
+#EXTINF:-1 group-title="北京联通十套",BRTV财经[]
+http://123.113.236.69:8012/udp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通十套",CGTN 法语[]
+http://123.113.186.207:8000/udp/239.3.1.218:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[超清R]
+http://123.113.236.69:8012/udp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通十套",每日影院[]
+http://123.112.213.221:4022/udp/239.3.1.111:8001
+#EXTINF:-1 group-title="北京联通十套",睛彩广场舞[]
+http://114.246.102.14:4000/udp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV8 电视剧[]
+http://123.113.186.207:8000/udp/239.3.1.175:8001
+#EXTINF:-1 group-title="北京联通十套",贵州卫视[]
+http://114.246.102.14:4000/udp/239.3.1.149:8076
+#EXTINF:-1 group-title="北京联通十套",BRTV纪实科教[]
+http://123.113.186.207:8000/udp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际[]
+http://sweetown.fun:4000/udp/239.3.1.105:8092
+#EXTINF:-1 group-title="北京联通十套",睛彩广场舞[]
+http://222.131.15.137:4000/udp/239.3.1.128:8001
+#EXTINF:-1 group-title="北京联通十套",每日影院[]
+http://123.113.186.207:8000/udp/239.3.1.111:8001
+#EXTINF:-1 group-title="北京联通十套",通州融媒[]
+http://123.112.213.221:4022/udp/239.3.1.221:8001
+#EXTINF:-1 group-title="北京联通十套",江苏卫视[]
+http://111.196.128.239:4022/udp/239.3.1.135:8028
+#EXTINF:-1 group-title="北京联通十套",金鹰纪实[]
+http://sweetown.fun:4000/udp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通十套",4K超清[超清]
+http://111.193.230.4:4022/udp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV8 电视剧[]
+http://123.112.213.221:4022/udp/239.3.1.175:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV纪实科教[]
+http://123.112.213.221:4022/udp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通十套",CGTN 阿拉伯语[]
+http://221.216.137.230:8012/udp/239.3.1.219:4220
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[]
+http://222.131.15.137:4000/udp/239.3.1.184:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV体育休闲[超清]
+http://123.113.186.207:8000/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[超清R]
+http://sweetown.fun:4000/udp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV3 综艺[]
+http://111.196.128.239:4022/udp/239.3.1.172:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV3 综艺[]
+http://114.246.102.14:4000/udp/239.3.1.172:8001
+#EXTINF:-1 group-title="北京联通十套",山东卫视[]
+http://222.131.15.137:4000/udp/239.3.1.209:8052
+#EXTINF:-1 group-title="北京联通十套",淘电影[]
+http://123.113.236.69:8012/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通十套",大健康[]
+http://114.246.102.14:4000/udp/239.3.1.251:8001
+#EXTINF:-1 group-title="北京联通十套",淘电影[]
+http://111.196.128.239:4022/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通十套",东方卫视[]
+http://123.112.213.221:4022/udp/239.3.1.136:8032
+#EXTINF:-1 group-title="北京联通十套",CCTV9 纪录[]
+http://123.113.186.207:8000/udp/239.3.1.62:8112
+#EXTINF:-1 group-title="北京联通十套",睛彩羽毛球[]
+http://114.246.102.14:4000/udp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通十套",淘精彩[]
+http://123.113.186.207:8000/udp/239.3.1.178:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV7 国防军事[]
+http://123.112.213.221:4022/udp/239.3.1.61:8104
+#EXTINF:-1 group-title="北京联通十套",爱上4K[超清]
+http://123.113.186.207:8000/udp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[超清R]
+http://123.112.213.221:4022/udp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV8 电视剧[]
+http://114.246.102.14:4000/udp/239.3.1.175:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV5 体育[]
+http://221.216.137.230:8012/udp/239.3.1.173:8001
+#EXTINF:-1 group-title="北京联通十套",淘剧场[]
+http://222.131.15.137:4000/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="北京联通十套",金鹰纪实[]
+http://111.196.128.239:4022/udp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通十套",BRTV新闻[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 美洲[]
+http://123.113.236.69:8012/udp/239.3.1.214:4220
+#EXTINF:-1 group-title="北京联通十套",BRTV青年[]
+http://114.246.102.14:4000/udp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通十套",海南卫视
+http://111.196.128.239:4022/udp/239.3.1.45:8304
+#EXTINF:-1 group-title="北京联通十套",山东教育
+http://123.112.213.221:4022/udp/239.3.1.52:4120
+#EXTINF:-1 group-title="北京联通十套",山东教育
+http://123.113.236.69:8012/udp/239.3.1.52:4120
+#EXTINF:-1 group-title="北京联通十套",CCTV2 财经[]
+http://221.216.137.230:8012/udp/239.3.1.60:8084
+#EXTINF:-1 group-title="北京联通十套",BRTV生活[]
+http://111.193.230.4:4022/udp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通十套",体育赛事[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.157:8176
+#EXTINF:-1 group-title="北京联通十套",房山电视台
+http://111.193.230.4:4022/udp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通十套",睛彩羽毛球[]
+http://123.113.236.69:8012/udp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通十套",体育赛事[]
+http://222.131.15.137:4000/udp/239.3.1.157:8176
+#EXTINF:-1 group-title="北京联通十套",山东教育
+http://221.216.137.230:8012/udp/239.3.1.52:4120
+#EXTINF:-1 group-title="北京联通十套",厦门卫视
+http://111.193.230.4:4022/udp/239.3.1.143:4120
+#EXTINF:-1 group-title="北京联通十套",CCTV7 国防军事[]
+http://221.216.137.230:8012/udp/239.3.1.61:8104
+#EXTINF:-1 group-title="北京联通十套",CCTV17 农业农村[]
+http://111.193.230.4:4022/udp/239.3.1.151:8144
+#EXTINF:-1 group-title="北京联通十套",大健康[]
+http://sweetown.fun:4000/udp/239.3.1.251:8001
+#EXTINF:-1 group-title="北京联通十套",风尚生活[]
+http://222.131.15.137:4000/udp/239.3.1.114:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.105:8092
+#EXTINF:-1 group-title="北京联通十套",黑龙江卫视[]
+http://123.113.236.69:8012/udp/239.3.1.133:8016
+#EXTINF:-1 group-title="北京联通十套",河北卫视[]
+http://222.131.15.137:4000/udp/239.3.1.148:8072
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 欧洲[]
+http://221.216.137.230:8012/udp/239.3.1.213:4220
+#EXTINF:-1 group-title="北京联通十套",广东卫视[]
+http://221.216.137.230:8012/udp/239.3.1.142:8048
+#EXTINF:-1 group-title="北京联通十套",淘电影[]
+http://sweetown.fun:4000/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通十套",BTV国际频道
+http://114.246.102.14:4000/udp/239.3.1.235:8000
+#EXTINF:-1 group-title="北京联通十套",广东卫视[]
+http://123.113.236.69:8012/udp/239.3.1.142:8048
+#EXTINF:-1 group-title="北京联通十套",黑龙江卫视[]
+http://222.131.15.137:4000/udp/239.3.1.133:8016
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[]
+http://sweetown.fun:4000/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",CETV1[]
+http://123.113.186.207:8000/udp/239.3.1.57:8152
+#EXTINF:-1 group-title="北京联通十套",大健康[]
+http://123.113.186.207:8000/udp/239.3.1.251:8001
+#EXTINF:-1 group-title="北京联通十套",淘剧场[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="北京联通十套",淘剧场[]
+http://111.196.128.239:4022/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV12 社会与法[]
+http://123.113.186.207:8000/udp/239.3.1.64:8124
+#EXTINF:-1 group-title="北京联通十套",CCTV8 电视剧[]
+http://111.193.230.4:4022/udp/239.3.1.175:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV纪实科教[]
+http://123.113.236.69:8012/udp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通十套",风尚生活[]
+http://221.216.137.230:8012/udp/239.3.1.114:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV10 科教[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.63:8116
+#EXTINF:-1 group-title="北京联通十套",广东卫视[]
+http://222.131.15.137:4000/udp/239.3.1.142:8048
+#EXTINF:-1 group-title="北京联通十套",CCTV2 财经[]
+http://111.196.128.239:4022/udp/239.3.1.60:8084
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清]
+http://111.193.230.4:4022/udp/239.3.1.121:8000
+#EXTINF:-1 group-title="北京联通十套",CCTV6 电影[]
+http://sweetown.fun:4000/udp/239.3.1.174:8001
+#EXTINF:-1 group-title="北京联通十套",江西卫视[]
+http://111.193.230.4:4022/udp/239.3.1.123:8164
+#EXTINF:-1 group-title="北京联通十套",湖南卫视[]
+http://123.113.186.207:8000/udp/239.3.1.132:8012
+#EXTINF:-1 group-title="北京联通十套",快乐垂钓[]
+http://221.216.137.230:8012/udp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通十套",江苏卫视[]
+http://sweetown.fun:4000/udp/239.3.1.135:8028
+#EXTINF:-1 group-title="北京联通十套",BRTV冬奥纪实[超清]
+http://123.113.236.69:8012/udp/239.3.1.121:8000
+#EXTINF:-1 group-title="北京联通十套",山东卫视[]
+http://123.113.236.69:8012/udp/239.3.1.209:8052
+#EXTINF:-1 group-title="北京联通十套",CCTV5 体育[]
+http://114.246.102.14:4000/udp/239.3.1.173:8001
+#EXTINF:-1 group-title="北京联通十套",深圳卫视[]
+http://123.113.186.207:8000/udp/239.3.1.134:8020
+#EXTINF:-1 group-title="北京联通十套",BRTV文艺[]
+http://123.113.236.69:8012/udp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通十套",淘精彩[]
+http://221.216.137.230:8012/udp/239.3.1.178:8001
+#EXTINF:-1 group-title="北京联通十套",辽宁卫视[]
+http://123.113.236.69:8012/udp/239.3.1.210:8056
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[超清R]
+http://111.193.230.4:4022/udp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通十套",淘电影[]
+http://222.131.15.137:4000/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV7 国防军事[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.61:8104
+#EXTINF:-1 group-title="北京联通十套",山东教育
+http://123.113.186.207:8000/udp/239.3.1.52:4120
+#EXTINF:-1 group-title="北京联通十套",通州融媒[]
+http://sweetown.fun:4000/udp/239.3.1.221:8001
+#EXTINF:-1 group-title="北京联通十套",淘电影[]
+http://123.112.213.221:4022/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV14 少儿[]
+http://sweetown.fun:4000/udp/239.3.1.65:8132
+#EXTINF:-1 group-title="北京联通十套",睛彩羽毛球[]
+http://sweetown.fun:4000/udp/239.3.1.127:8001
+#EXTINF:-1 group-title="北京联通十套",纪实人文[]
+http://114.246.102.14:4000/udp/239.3.1.212:8060
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[超清R]
+http://123.113.186.207:8000/udp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通十套",大健康[]
+http://123.112.213.221:4022/udp/239.3.1.251:8001
+#EXTINF:-1 group-title="北京联通十套",每日影院[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.111:8001
+#EXTINF:-1 group-title="北京联通十套",贵州卫视[]
+http://123.112.213.221:4022/udp/239.3.1.149:8076
+#EXTINF:-1 group-title="北京联通十套",CCTV15 音乐[]
+http://123.113.186.207:8000/udp/239.3.1.153:8136
+#EXTINF:-1 group-title="北京联通十套",CCTV1 综合[]
+http://111.196.128.239:4022/udp/239.3.1.129:8008
+#EXTINF:-1 group-title="北京联通十套",大健康[]
+http://222.131.15.137:4000/udp/239.3.1.251:8001
+#EXTINF:-1 group-title="北京联通十套",河北卫视[]
+http://114.246.102.14:4000/udp/239.3.1.148:8072
+#EXTINF:-1 group-title="北京联通十套",中国交通[]
+http://123.113.186.207:8000/udp/239.3.1.188:8001
+#EXTINF:-1 group-title="北京联通十套",天津卫视[]
+http://123.113.236.69:8012/udp/239.3.1.141:1234
+#EXTINF:-1 group-title="北京联通十套",金鹰纪实[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.58:8156
+#EXTINF:-1 group-title="北京联通十套",4K超清[超清]
+http://123.112.213.221:4022/udp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 西班牙语[]
+http://123.113.186.207:8000/udp/239.3.1.217:4220
+#EXTINF:-1 group-title="北京联通十套",中国交通[]
+http://221.216.137.230:8012/udp/239.3.1.188:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV生活[]
+http://123.113.186.207:8000/udp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通十套",BRTV体育休闲[超清]
+http://123.113.236.69:8012/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="北京联通十套",风尚生活[]
+http://123.112.213.221:4022/udp/239.3.1.114:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV8 电视剧[]
+http://ikuai.zlsip.top:4022/udp/239.3.1.175:8001
+#EXTINF:-1 group-title="北京联通十套",天津卫视[]
+http://221.216.137.230:8012/udp/239.3.1.141:1234
+#EXTINF:-1 group-title="北京联通十套",南方卫视
+http://222.131.15.137:4000/udp/239.3.1.161:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[]
+http://114.246.102.14:4000/udp/239.3.1.184:8001
+#EXTINF:-1 group-title="北京联通十套",BRTV文艺[]
+http://221.216.137.230:8012/udp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通十套",河北卫视[]
+http://123.113.236.69:8012/udp/239.3.1.148:8072
+#EXTINF:-1 group-title="北京联通十套",CCTV9 纪录[]
+http://sweetown.fun:4000/udp/239.3.1.62:8112
+#EXTINF:-1 group-title="北京联通十套",CGTN 俄语[]
+http://111.193.230.4:4022/udp/239.3.1.220:4220
+#EXTINF:-1 group-title="北京联通十套",淘Baby[]
+http://123.113.186.207:8000/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通十套",天津卫视[]
+http://222.131.15.137:4000/udp/239.3.1.141:1234
+#EXTINF:-1 group-title="北京联通十套",浙江卫视[]
+http://123.113.236.69:8012/udp/239.3.1.137:8036
+#EXTINF:-1 group-title="北京联通十套",河北卫视[]
+http://111.193.230.4:4022/udp/239.3.1.148:8072
+#EXTINF:-1 group-title="北京联通十套",幸福娱乐[]
+http://123.112.213.221:4022/udp/239.3.1.113:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 西班牙语[]
+http://123.112.213.221:4022/udp/239.3.1.217:4220
+#EXTINF:-1 group-title="北京联通十套",深圳卫视[]
+http://221.216.137.230:8012/udp/239.3.1.134:8020
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际 欧洲[]
+http://123.113.236.69:8012/udp/239.3.1.213:4220
+#EXTINF:-1 group-title="北京联通十套",江西卫视[]
+http://123.113.236.69:8012/udp/239.3.1.123:8164
+#EXTINF:-1 group-title="北京联通十套",淘剧场[]
+http://sweetown.fun:4000/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="北京联通十套",贵州卫视[]
+http://sweetown.fun:4000/udp/239.3.1.149:8076
+#EXTINF:-1 group-title="北京联通十套",CCTV9 纪录[]
+http://221.216.137.230:8012/udp/239.3.1.62:8112
+#EXTINF:-1 group-title="北京联通十套",大健康[]
+http://111.196.128.239:4022/udp/239.3.1.251:8001
+#EXTINF:-1 group-title="北京联通十套",厦门卫视
+http://123.112.213.221:4022/udp/239.3.1.143:4120
+#EXTINF:-1 group-title="北京联通十套",淘剧场[]
+http://221.216.137.230:8012/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="北京联通十套",淘Baby[]
+http://114.246.102.14:4000/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通十套",江苏卫视[]
+http://123.113.186.207:8000/udp/239.3.1.135:8028
+#EXTINF:-1 group-title="北京联通十套",茶频道[]
+http://123.112.213.221:4022/udp/239.3.1.165:8001
+#EXTINF:-1 group-title="北京联通十套",东方卫视[]
+http://111.196.128.239:4022/udp/239.3.1.136:8032
+#EXTINF:-1 group-title="北京联通十套",体育赛事[]
+http://123.113.236.69:8012/udp/239.3.1.157:8176
+#EXTINF:-1 group-title="北京联通十套",南方卫视
+http://111.193.230.4:4022/udp/239.3.1.161:8001
+#EXTINF:-1 group-title="北京联通十套",河北卫视[]
+http://sweetown.fun:4000/udp/239.3.1.148:8072
+#EXTINF:-1 group-title="北京联通十套",CCTV3 综艺[]
+http://sweetown.fun:4000/udp/239.3.1.172:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 新闻[]
+http://222.131.15.137:4000/udp/239.3.1.215:4220
+#EXTINF:-1 group-title="北京联通十套",快乐垂钓[]
+http://123.113.186.207:8000/udp/239.3.1.164:8001
+#EXTINF:-1 group-title="北京联通十套",CGTN 新闻[]
+http://111.193.230.4:4022/udp/239.3.1.215:4220
+#EXTINF:-1 group-title="北京联通十套",南方卫视
+http://123.113.236.69:8012/udp/239.3.1.161:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV1 综合[]
+http://sweetown.fun:4000/udp/239.3.1.129:8008
+#EXTINF:-1 group-title="北京联通十套",厦门卫视
+http://123.113.236.69:8012/udp/239.3.1.143:4120
+#EXTINF:-1 group-title="北京联通十套",淘Baby[]
+http://111.193.230.4:4022/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通十套",朝阳融媒[]
+http://111.193.230.4:4022/udp/239.3.1.163:8001
+#EXTINF:-1 group-title="北京联通十套",CCTV4 中文国际[]
+http://123.112.213.221:4022/udp/239.3.1.105:8092
+#EXTINF:-1 group-title="北京联通十套",CCTV16 奥林匹克[]
+http://123.112.213.221:4022/udp/239.3.1.184:8001
+#EXTINF:-1 group-title="北京联通十套",江苏卫视[]
+http://111.193.230.4:4022/udp/239.3.1.135:8028
+#EXTINF:-1 group-title="北京联通十套",CGTN 阿拉伯语[]
+http://123.113.236.69:8012/udp/239.3.1.219:4220
+#EXTINF:-1 group-title="北京联通十套",密云电视台[]
+http://111.196.128.239:4022/udp/239.3.1.154:8001
 
 
 
