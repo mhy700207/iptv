@@ -3,8 +3,8 @@
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="台湾频道",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="台湾频道",凤凰 H K
-http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title="台湾频道",东森电影
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1 group-title="台湾频道",凤凰中文
 https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv
 #EXTINF:-1 group-title="台湾频道",凤凰资讯
