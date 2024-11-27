@@ -4090,6 +4090,53 @@ http://beijing_unicom_udpxy_123_113_237_8888_1.isus.cc:8888/rtp/239.3.1.89:4120
 http://beijing_unicom_udpxy_123_113_237_8888_1.isus.cc:8888/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="北京联通20241123",爱生活
 http://beijing_unicom_udpxy_123_113_237_8888_1.isus.cc:8888/rtp/239.3.1.86:4120
+#EXTM3U
+#EXTINF:-1 group-title="代理源",北京卫视
+http://cqshushu.us.kg:2086/bjtv.php?id=bjws
+#EXTINF:-1 group-title="代理源",BRTV文艺
+http://cqshushu.us.kg:2086/bjtv.php?id=bjwyBRTV
+#EXTINF:-1 group-title="代理源",纪实科教
+http://cqshushu.us.kg:2086/bjtv.php?id=bjjs
+#EXTINF:-1 group-title="代理源",BRTV影视
+http://cqshushu.us.kg:2086/bjtv.php?id=bjys
+#EXTINF:-1 group-title="代理源",BRTV财经
+http://cqshushu.us.kg:2086/bjtv.php?id=bjcjBRTV
+#EXTINF:-1 group-title="代理源",体育休闲
+http://cqshushu.us.kg:2086/bjtv.php?id=bjty
+#EXTINF:-1 group-title="代理源",BRTV生活
+http://cqshushu.us.kg:2086/bjtv.php?id=bjsh
+#EXTINF:-1 group-title="代理源",BRTV新闻
+http://cqshushu.us.kg:2086/bjtv.php?id=bjxw
+#EXTINF:-1 group-title="代理源",卡酷少儿
+http://cqshushu.us.kg:2086/bjtv.php?id=bjse
+#EXTINF:-1 group-title="代理源",CQTV新闻频道
+http://cqshushu.us.kg:2086/cqtv.php
+#EXTINF:-1 group-title="代理源",CDTV1新闻综合
+http://cqshushu.us.kg:2086/cdtv.php?id=cdtv1
+#EXTINF:-1 group-title="代理源",CDTV2经济资讯
+http://cqshushu.us.kg:2086/cdtv.php?id=cdtv2
+#EXTINF:-1 group-title="代理源",CDTV3都市生活
+http://cqshushu.us.kg:2086/cdtv.php?id=cdtv3
+#EXTINF:-1 group-title="代理源",CDTV4影视文艺
+http://cqshushu.us.kg:2086/cdtv.php?id=cdtv4
+#EXTINF:-1 group-title="代理源",CDTV5公共频道
+http://cqshushu.us.kg:2086/cdtv.php?id=cdtv5
+#EXTINF:-1 group-title="代理源",CDTV6少儿频道
+http://cqshushu.us.kg:2086/cdtv.php?id=cdtv6
+#EXTINF:-1 group-title="代理源",CDTV蓉城频道 
+http://cqshushu.us.kg:2086/cdtv.php?id=dangjiao
+#EXTINF:-1 group-title="代理源",广州综合
+http://cqshushu.us.kg:2086/gztv.php?id=gzzh
+#EXTINF:-1 group-title="代理源",广州新闻
+http://cqshushu.us.kg:2086/gztv.php?id=gzxw
+#EXTINF:-1 group-title="代理源",广州法制
+http://cqshushu.us.kg:2086/gztv.php?id=gzfz
+#EXTINF:-1 group-title="代理源",广州竞赛
+http://cqshushu.us.kg:2086/gztv.php?id=gzjs
+#EXTINF:-1 group-title="代理源",广州影视
+http://cqshushu.us.kg:2086/gztv.php?id=gzys
+#EXTINF:-1 group-title="代理源",4K南国都市频道
+http://cqshushu.us.kg:2086/gztv.php?id=ngds
 
 
 
