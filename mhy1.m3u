@@ -229,12 +229,80 @@ http://61.221.215.25:8800/hls/48/index.m3u8
 http://61.221.215.25:8800/hls/49/index.m3u8
 #EXTINF:-1 group-title="台湾频道",蕃薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 group-title="台湾频道",东森电影台
-http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-#EXTINF:-1 group-title="台湾频道",东森电影台
-http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-#EXTINF:-1 group-title="台湾频道",东森电影台
-http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#EXTINF:-1 group-title="台湾频道",RHK31
+https://ali.hlspull.yximgs.com/live/moa04.flv
+#EXTINF:-1 group-title="台湾频道",RHK32
+https://ali.hlspull.yximgs.com/live/moa05.flv
+#EXTINF:-1 group-title="台湾频道",CCM
+https://ali.hlspull.yximgs.com/live/moa15.flv
+#EXTINF:-1 group-title="台湾频道",民视
+https://ali.hlspull.yximgs.com/live/moa17.flv
+#EXTINF:-1 group-title="台湾频道",华视
+https://ali.hlspull.yximgs.com/live/moa18.flv
+#EXTINF:-1 group-title="台湾频道",台视
+https://ali.hlspull.yximgs.com/live/moa19.flv
+#EXTINF:-1 group-title="台湾频道",中视
+https://ali.hlspull.yximgs.com/live/moa20.flv
+#EXTINF:-1 group-title="台湾频道",龙华中文台
+https://ali.hlspull.yximgs.com/live/moa21.flv
+#EXTINF:-1 group-title="台湾频道",龙华洋片台
+https://ali.hlspull.yximgs.com/live/moa22.flv
+#EXTINF:-1 group-title="台湾频道",ELTA影剧台
+https://ali.hlspull.yximgs.com/live/moa23.flv
+#EXTINF:-1 group-title="台湾频道",寰宇新闻
+https://ali.hlspull.yximgs.com/live/moa25.flv
+#EXTINF:-1 group-title="台湾频道",台视综合
+https://ali.hlspull.yximgs.com/live/moa26.flv
+#EXTINF:-1 group-title="台湾频道",中天新闻
+https://ali.hlspull.yximgs.com/live/moa28.flv
+#EXTINF:-1 group-title="台湾频道",TVBS HD
+https://ali.hlspull.yximgs.com/live/moa29.flv
+#EXTINF:-1 group-title="台湾频道",TVBS新闻
+https://ali.hlspull.yximgs.com/live/moa30.flv
+#EXTINF:-1 group-title="台湾频道",民视新闻
+https://ali.hlspull.yximgs.com/live/moa31.flv
+#EXTINF:-1 group-title="台湾频道",民视
+https://ali.hlspull.yximgs.com/live/moa33.flv
+#EXTINF:-1 group-title="台湾频道",中新新闻
+https://ali.hlspull.yximgs.com/live/moa34.flv
+#EXTINF:-1 group-title="台湾频道",东森新闻
+https://ali.hlspull.yximgs.com/live/moa35.flv
+#EXTINF:-1 group-title="台湾频道",龙翔时代
+https://ali.hlspull.yximgs.com/live/moa36.flv
+#EXTINF:-1 group-title="台湾频道",纬來体育
+https://ali.hlspull.yximgs.com/live/moa37.flv
+#EXTINF:-1 group-title="台湾频道",美亚电影
+https://ali.hlspull.yximgs.com/live/moa41.flv
+#EXTINF:-1 group-title="台湾频道",HBO
+https://ali.hlspull.yximgs.com/live/moa45.flv
+#EXTINF:-1 group-title="台湾频道",龙华电影
+https://ali.hlspull.yximgs.com/live/moa47.flv
+#EXTINF:-1 group-title="台湾频道",天映频道
+https://ali.hlspull.yximgs.com/live/moa48.flv
+#EXTINF:-1 group-title="台湾频道",三立综合
+https://ali.hlspull.yximgs.com/live/moa49.flv
+#EXTINF:-1 group-title="台湾频道",三立台湾
+https://ali.hlspull.yximgs.com/live/moa52.flv
+#EXTINF:-1 group-title="台湾频道",八大综合台
+https://ali.hlspull.yximgs.com/live/moa55.flv
+#EXTINF:-1 group-title="台湾频道",八大戏剧台
+https://ali.hlspull.yximgs.com/live/moa56.flv
+#EXTINF:-1 group-title="台湾频道",AXN
+https://ali.hlspull.yximgs.com/live/moa60.flv
+#EXTINF:-1 group-title="台湾频道",Thrill
+https://ali.hlspull.yximgs.com/live/moa61.flv
+#EXTINF:-1 group-title="台湾频道",纬來戏剧
+https://ali.hlspull.yximgs.com/live/moa63.flv
+#EXTINF:-1 group-title="台湾频道",东森电影
+https://ali.hlspull.yximgs.com/live/moa68.flv
+#EXTINF:-1 group-title="台湾频道",Hollywood
+https://ali.hlspull.yximgs.com/live/moa69.flv
+#EXTINF:-1 group-title="台湾频道",纬來日本
+https://ali.hlspull.yximgs.com/live/moa70.flv
+#EXTINF:-1 group-title="台湾频道",东森综合
+https://ali.hlspull.yximgs.com/live/moa71.flv
+#EXTINF:-1 group-title="台湾频道",东森戏剧
+https://ali.hlspull.yximgs.com/live/moa72.flv
 #EXTINF:-1 group-title="台湾频道",东森电影台
 https://stream1.freetv.fun/7e7daf1aca2b5fc6ab5365c3d5201b91e3b538cd4a947fd5bdb0256900d3f638.m3u8
 #EXTINF:-1 group-title="台湾频道",东森电影台
