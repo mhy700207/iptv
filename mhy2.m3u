@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="咪咕直播体育",咪咕直播-52「IPV6」
-http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 group-title="咪咕直播体育",咪咕直播-53「IPV6」
-http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 group-title="咪咕直播体育",咪咕直播-54「IPV6」
-http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 group-title="咪咕直播体育",咪咕直播-55「IPV6」
-http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 group-title="咪咕直播体育",咪咕直播-56「IPV6」
-http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="北京联通20240102",CCTV-1综合[高清]
 http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="北京联通20240102",CCTV-2财经[高清]
