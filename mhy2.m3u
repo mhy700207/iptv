@@ -751,6 +751,8 @@ video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png",CCTV5
 video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png",CCTV5
+video://https://tv.bfsu.edu.cn/bfsu/play/cctv5hd
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png",CCTV6
 video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png",CCTV7
