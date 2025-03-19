@@ -826,12 +826,12 @@ video://https://www.yangshipin.cn/tv/home?pid=600084781
 video://http://tv.haoqu99.com/3/henan/nanyangzh.html
 #EXTINF:-1 group-title=" webtv源" tvg-name="南阳新闻综合"  tvg-logo=" https://live.fanmingming.cn/tv/南阳新闻综合.png" ,南阳新闻综合
 video://https://web.guangdianyun.tv/tv/?id=142&uin=1081
-#EXTINF:-1 group-title=" webtv源" tvg-name="江西公共农业"  tvg-logo=" https://live.fanmingming.cn/tv/江西公共农业.png" ,江西公共农业
-video://https://www.jxntv.cn/live/#/jxtv5
 #EXTINF:-1 group-title=" webtv源" tvg-name="南阳公共"  tvg-logo=" https://live.fanmingming.cn/tv/南阳公共.png" ,南阳公共
 video://https://web.guangdianyun.tv/tv/?id=295&uin=1081
 #EXTINF:-1 group-title=" webtv源" tvg-name="南阳科教"  tvg-logo=" https://live.fanmingming.cn/tv/南阳科教.png" ,南阳科教
 video://https://web.guangdianyun.tv/tv/?id=296&uin=1081
+#EXTINF:-1 group-title=" webtv源" tvg-name="江西公共农业"  tvg-logo=" https://live.fanmingming.cn/tv/江西公共农业.png" ,江西公共农业
+video://https://www.jxntv.cn/live/#/jxtv5
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 康巴卫视"  tvg-logo=" https://live.fanmingming.cn/tv/康巴卫视.png" ,康巴卫视
 video://https://www.kangbatv.com/zb_22587/
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 海峡卫视"  tvg-logo=" https://live.fanmingming.cn/tv/海峡卫视.png" ,海峡卫视
