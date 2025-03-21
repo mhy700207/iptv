@@ -474,6 +474,8 @@ video://https://www.fjtv.net/folder526/folder536/
 video://https://www.sxrtv.com/tv/index.shtml
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 内蒙古卫视"  tvg-logo=" https://live.fanmingming.cn/tv/内蒙古卫视.png" ,内蒙古卫视
 video://https://www.nmtv.cn/liveTv
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 广西卫视"  tvg-logo=" https://live.fanmingming.cn/tv/广西卫视.png" ,广西卫视
+video://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 陕西卫视"  tvg-logo=" https://live.fanmingming.cn/tv/陕西卫视.png" ,陕西卫视
 video://http://www.sxtvs.com/sxtvs_sxws/index.html
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 新疆卫视"  tvg-logo=" https://live.fanmingming.cn/tv/新疆卫视.png" ,新疆卫视
