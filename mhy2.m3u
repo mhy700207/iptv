@@ -408,14 +408,36 @@ video://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
 video://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 河南卫视"  tvg-logo=" https://live.fanmingming.cn/tv/河南卫视.png" ,河南卫视
 video://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 河南新闻  tvg-logo=" https://live.fanmingming.cn/tv/河南新闻.png" ,河南新闻
+video://http://tv.haoqu99.com/3/henan/hntv6.html
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 河南都市"  tvg-logo=" https://live.fanmingming.cn/tv/河南都市.png" ,河南都市
 video://https://www.hndyjyfw.gov.cn/livePlay.html?u=13
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 河南都市"  tvg-logo=" https://live.fanmingming.cn/tv/河南都市.png" ,河南都市
+video://http://tv.haoqu99.com/3/henan/hntv2.html
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 河南都市"  tvg-logo=" https://live.fanmingming.cn/tv/河南都市.png" ,河南都市
 video://https://www.hntv2.net/pc/tv-index.html
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 河南民生"  tvg-logo=" https://live.fanmingming.cn/tv/河南民生.png" ,河南民生
 video://https://www.hndyjyfw.gov.cn/livePlay.html?u=15
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 河南民生"  tvg-logo=" https://live.fanmingming.cn/tv/河南民生.png" ,河南民生
+video://http://tv.haoqu99.com/3/henan/hntv3.html
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 河南法制"  tvg-logo=" https://live.fanmingming.cn/tv/河南法制.png" ,河南法制
+video://http://tv.haoqu99.com/3/henan/hntv4.html
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 河南公共"  tvg-logo=" https://live.fanmingming.cn/tv/河南公共.png" ,河南公共
+video://http://tv.haoqu99.com/3/henan/hntv8.html
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 河南电视剧"  tvg-logo=" https://live.fanmingming.cn/tv/河南电视剧.png" ,河南电视剧
+video://http://tv.haoqu99.com/3/henan/hntv5.html
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 河南乡村"  tvg-logo=" https://live.fanmingming.cn/tv/河南乡村.png" ,河南乡村
+video://http://tv.haoqu99.com/3/henan/hntv9.html
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 河南梨园"  tvg-logo=" https://live.fanmingming.cn/tv/河南梨园.png" ,河南梨园
 video://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 河南梨园"  tvg-logo=" https://live.fanmingming.cn/tv/河南梨园.png" ,河南梨园
+video://http://tv.haoqu99.com/3/henan/liyuan.html
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 河南精彩中原"  tvg-logo=" https://live.fanmingming.cn/tv/河南精彩中原.png" ,河南精彩中原
+video://http://tv.haoqu99.com/3/henan/hntv11.html
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 河南移动戏曲"  tvg-logo=" https://live.fanmingming.cn/tv/河南移动戏曲.png" ,河南移动戏曲
+video://http://tv.haoqu99.com/3/henan/ydxq.html
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 河南文物宝库"  tvg-logo=" https://live.fanmingming.cn/tv/河南文物宝库.png" ,河南文物宝库
+video://http://tv.haoqu99.com/3/henan/wwbk.html
 #EXTINF:-1 group-title=" webtv源" tvg-name=" CECTV-1 汉语文化"  tvg-logo=" https://live.fanmingming.cn/tv/CECTV-1 汉语文化.png" ,CECTV-1 汉语文化
 video://http://m3u8.cec-tv.com.cn/?url=http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 #EXTINF:-1 group-title=" webtv源" tvg-name=" CECTV-1 汉语文化"  tvg-logo=" https://live.fanmingming.cn/tv/CECTV-1 汉语文化.png" ,CECTV-1 汉语文化
