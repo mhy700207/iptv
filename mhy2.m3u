@@ -656,6 +656,20 @@ video://https://www.yqrtv.com/folder74/folder139?id=10
 video://https://www.yqrtv.com/folder74/folder139?id=11
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 吉林卫视"  tvg-logo=" https://live.fanmingming.cn/tv/吉林卫视.png" ,吉林卫视
 video://https://www.jlntv.cn/tv?id=104
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 黑龙江卫视"  tvg-logo=" https://live.fanmingming.cn/tv/黑龙江卫视.png" ,黑龙江卫视
+video://https://www.hljtv.com/live/folder418/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 黑龙江文体"  tvg-logo=" https://live.fanmingming.cn/tv/黑龙江文体.png" ,黑龙江文体
+video://https://www.hljtv.com/live/folder423/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 黑龙江影视"  tvg-logo=" https://live.fanmingming.cn/tv/黑龙江影视.png" ,黑龙江影视
+video://https://www.hljtv.com/live/folder425/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 黑龙江法制"  tvg-logo=" https://live.fanmingming.cn/tv/黑龙江法制.png" ,黑龙江法制
+video://https://www.hljtv.com/live/folder424/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 黑龙江都市"  tvg-logo=" https://live.fanmingming.cn/tv/黑龙江都市.png" ,黑龙江都市
+video://https://www.hljtv.com/live/folder419/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 黑龙江农业"  tvg-logo=" https://live.fanmingming.cn/tv/黑龙江农业.png" ,黑龙江农业
+video://https://www.hljtv.com/live/folder420/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 黑龙江少儿"  tvg-logo=" https://live.fanmingming.cn/tv/黑龙江少儿.png" ,黑龙江少儿
+video://https://www.hljtv.com/live/folder422/
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 哈尔滨新闻综合"  tvg-logo=" https://live.fanmingming.cn/tv/哈尔滨新闻综合.png" ,哈尔滨新闻综合
 video://https://www.hrbtv.net/folder79/folder81/
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 哈尔滨生活"  tvg-logo=" https://live.fanmingming.cn/tv/哈尔滨生活.png" ,哈尔滨生活
