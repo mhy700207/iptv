@@ -650,6 +650,18 @@ video://https://v.iqilu.com/live/nkpd/
 video://https://v.iqilu.com/live/yspd/
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 山东少儿"  tvg-logo=" https://live.fanmingming.cn/tv/山东少儿.png" ,山东少儿
 video://https://v.iqilu.com/live/sepd/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 青岛一套"  tvg-logo=" https://live.fanmingming.cn/tv/青岛一套.png" ,青岛一套
+video://http://www.qtv.com.cn/live/tv/index.shtml
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 青岛二套"  tvg-logo=" https://live.fanmingming.cn/tv/青岛二套.png" ,青岛二套
+video://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 青岛三套"  tvg-logo=" https://live.fanmingming.cn/tv/青岛三套.png" ,青岛三套
+video://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 青岛四套"  tvg-logo=" https://live.fanmingming.cn/tv/青岛四套.png" ,青岛四套
+video://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 青岛五套"  tvg-logo=" https://live.fanmingming.cn/tv/青岛五套.png" ,青岛五套
+video://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 青岛六套"  tvg-logo=" https://live.fanmingming.cn/tv/青岛六套.png" ,青岛六套
+video://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 贵州卫视"  tvg-logo=" https://live.fanmingming.cn/tv/贵州卫视.png" ,贵州卫视
 video://https://www.gzstv.com/tv/ch01
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 贵州公共"  tvg-logo=" https://live.fanmingming.cn/tv/贵州公共.png" ,贵州公共
