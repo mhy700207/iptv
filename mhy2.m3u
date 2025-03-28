@@ -636,6 +636,20 @@ video://http://www.wuhubtv.com/folder1194/#
 video://https://v.iqilu.com/live/sdtv/
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 山东齐鲁电视台"  tvg-logo=" https://live.fanmingming.cn/tv/山东齐鲁电视台.png" ,山东齐鲁电视台
 video://https://v.iqilu.com/live/qlpd/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 山东体育"  tvg-logo=" https://live.fanmingming.cn/tv/山东体育.png" ,山东体育
+video://https://v.iqilu.com/live/typd/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 山东生活"  tvg-logo=" https://live.fanmingming.cn/tv/山东生活.png" ,山东生活
+video://https://v.iqilu.com/live/shpd/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 山东综艺"  tvg-logo=" https://live.fanmingming.cn/tv/山东综艺.png" ,山东综艺
+video://https://v.iqilu.com/live/zypd/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 山东新闻"  tvg-logo=" https://live.fanmingming.cn/tv/山东新闻.png" ,山东新闻
+video://https://v.iqilu.com/live/ggpd/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 山东农科"  tvg-logo=" https://live.fanmingming.cn/tv/山东农科.png" ,山东农科
+video://https://v.iqilu.com/live/nkpd/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 山东文旅"  tvg-logo=" https://live.fanmingming.cn/tv/山东文旅.png" ,山东文旅
+video://https://v.iqilu.com/live/yspd/
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 山东少儿"  tvg-logo=" https://live.fanmingming.cn/tv/山东少儿.png" ,山东少儿
+video://https://v.iqilu.com/live/sepd/
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 贵州卫视"  tvg-logo=" https://live.fanmingming.cn/tv/贵州卫视.png" ,贵州卫视
 video://https://www.gzstv.com/tv/ch01
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 贵州公共"  tvg-logo=" https://live.fanmingming.cn/tv/贵州公共.png" ,贵州公共
