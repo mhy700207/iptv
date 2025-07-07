@@ -29,64 +29,6 @@ rtmp://f13h.mine.nu/sat/tv741
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 group-title="台湾频道",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 group-title="台湾频道",民视台湾
-http://ali.hlspull.yximgs.com/live/awei_mstw.flv
-#EXTINF:-1 group-title="台湾频道",中天新闻
-https://ali.hlspull.yximgs.com/live/167ztxw2.flv
-#EXTINF:-1 group-title="台湾频道",中天新闻
-http://ali.hlspull.yximgs.com/live/167_ztxw.flv
-#EXTINF:-1 group-title="台湾频道",中天新闻+
-http://ali.hlspull.yximgs.com/live/167ztxw2.flv
-#EXTINF:-1 group-title="台湾频道",中天新闻+
-https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
-#EXTINF:-1 group-title="台湾频道",中天亚洲
-https://ali.hlspull.yximgs.com/live/167ztyz.flv
-#EXTINF:-1 group-title="台湾频道",中天亚洲
-http://ali.hlspull.yximgs.com/live/awei_ztyz.flv
-#EXTINF:-1 group-title="台湾频道",中天娱乐
-http://ali.hlspull.yximgs.com/live/167ztyl.flv
-#EXTINF:-1 group-title="台湾频道",中天娱乐
-https://ali.hlspull.yximgs.com/live/167ztyl.flv
-#EXTINF:-1 group-title="台湾频道",东森ᴴᴰ
-http://ali.hlspull.yximgs.com/live/awei_dszh.flv
-#EXTINF:-1 group-title="台湾频道",东森超视
-http://ali.hlspull.yximgs.com/live/awei_dscs.flv
-#EXTINF:-1 group-title="台湾频道",民视台湾
-http://ali.hlspull.yximgs.com/live/awei_mstw.flv
-#EXTINF:-1 group-title="台湾频道",民视第一
-http://ali.hlspull.yximgs.com/live/awei_msdy.flv
-#EXTINF:-1 group-title="台湾频道",寰宇新闻
-https://ali.hlspull.yximgs.com/live/167_hyxw.flv
-#EXTINF:-1 group-title="台湾频道",八大第一
-http://ali.hlspull.yximgs.com/live/awei_bddy.flv
-#EXTINF:-1 group-title="台湾频道",八大ᴴᴰ
-http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
-#EXTINF:-1 group-title="台湾频道",ELta娱乐
-http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
-#EXTINF:-1 group-title="台湾频道",龙华电影
-https://cdn3.132.us.kg/live/lhdy/stream.m3u8
-#EXTINF:-1 group-title="台湾频道",龙华经典
-https://cdn3.132.us.kg/live/lhjd/stream.m3u8
-#EXTINF:-1 group-title="台湾频道",龙华偶像
-https://cdn3.132.us.kg/live/lhox/stream.m3u8
-#EXTINF:-1 group-title="台湾频道",龙华戏剧
-https://cdn3.132.us.kg/live/lhxj/stream.m3u8
-#EXTINF:-1 group-title="台湾频道",龙华电影
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 group-title="台湾频道",龙华经典
-https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-#EXTINF:-1 group-title="台湾频道",龙华偶像
-https://cdn8.163189.xyz/live/lhox/stream.m3u8
-#EXTINF:-1 group-title="台湾频道",龙华戏剧
-https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-#EXTINF:-1 group-title="台湾频道",龙华卡通
-https://cdn3.132.us.kg/live/lhkt/stream.m3u8
-#EXTINF:-1 group-title="台湾频道",龙华卡通
-https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-#EXTINF:-1 group-title="台湾频道",龙华日韩
-https://cdn3.132.us.kg/live/lhrh/stream.m3u8
-#EXTINF:-1 group-title="台湾频道",龙华日韩
-https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 #EXTINF:-1 group-title="咪咕视频39",咪咕体育46
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 #EXTINF:-1 group-title="咪咕视频39",咪咕体育47
