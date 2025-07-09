@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 凤凰咨询"  tvg-logo=" https://live.fanmingming.cn/tv/凤凰咨询.png" ,凤凰咨询
-video://http://tv.haoqu99.com/4/fhzx.html
+http://106.14.38.55/jiexi/fhxjump.php?id=fhxg&rate=hd
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 凤凰中文"  tvg-logo=" https://live.fanmingming.cn/tv/凤凰中文.png" ,凤凰中文
-video://http://tv.haoqu99.com/4/fhzw.html
+http://106.14.38.55/jiexi/fhxjump.php?id=fhzw&rate=hd
+#EXTINF:-1 group-title=" webtv源" tvg-name=" 凤凰香港"  tvg-logo=" https://live.fanmingming.cn/tv/凤凰香港.png" ,凤凰香港
+http://106.14.38.55/jiexi/fhxjump.php?id=fhxg&rate=hd
 #EXTINF:-1 group-title=" webtv源" tvg-name=" CCTV1"  tvg-logo=" https://live.fanmingming.cn/tv/CCTV1.png" ,CCTV1
 video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 #EXTINF:-1 group-title=" webtv源" tvg-name=" CCTV1"  tvg-logo=" https://live.fanmingming.cn/tv/CCTV1.png" ,CCTV1
