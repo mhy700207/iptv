@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 凤凰咨询"  tvg-logo=" https://live.fanmingming.cn/tv/凤凰咨询.png" ,凤凰咨询
-http://106.14.38.55/jiexi/fhxjump.php?id=fhxg&rate=hd
+http://106.14.38.55/jiexi/fhxjump.php?id=fhzx&rate=hd
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 凤凰中文"  tvg-logo=" https://live.fanmingming.cn/tv/凤凰中文.png" ,凤凰中文
 http://106.14.38.55/jiexi/fhxjump.php?id=fhzw&rate=hd
 #EXTINF:-1 group-title=" webtv源" tvg-name=" 凤凰香港"  tvg-logo=" https://live.fanmingming.cn/tv/凤凰香港.png" ,凤凰香港
