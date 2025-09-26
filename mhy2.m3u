@@ -1910,4 +1910,145 @@ webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=11&page=
 webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=10&page=canvas&live_type=1
 #EXTINF:-1 tvg-name="和田" tvg-logo="https://logo.catvod.com/和田.png" group-title="新疆",和田
 webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=9&page=canvas&live_type=1
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://logo.catvod.com/新视觉.png" group-title="未分组",新视觉
+video://https://345iptv.com/?act=play&token=915c7d662e9f583987fc071ccaa1b9b5&tid=itv&id=3
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="未分组",广东体育
+video://https://345iptv.com/?act=play&token=4795fc7adb50956d43807fd809866e5d&tid=itv&id=4
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://logo.catvod.com/广东珠江.png" group-title="未分组",广东珠江
+video://https://345iptv.com/?act=play&token=86f0ad8f01f026d5560d6ea59e9e0be2&tid=itv&id=5
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="未分组",CCTV1
+video://https://345iptv.com/?act=play&token=9bc75d5839ebf50035e66ccd2405e9e8&tid=itv&id=7
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="未分组",CCTV5
+video://https://345iptv.com/?act=play&token=d0e71495f5630b49a7a0a5ea3ab00141&tid=itv&id=11
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="未分组",CCTV5+
+video://https://345iptv.com/?act=play&token=8b7807883d10ba1b9992ec4fba164e93&tid=itv&id=12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="未分组",CCTV13
+video://https://345iptv.com/?act=play&token=32bd0456f0162d56e34e6e14fc01a97e&tid=itv&id=20
+#EXTINF:-1 tvg-name="now财经台" tvg-logo="https://logo.catvod.com/now财经台.png" group-title="未分组",now财经台
+video://https://345iptv.com/?act=play&token=37e2d6593bd1f7f5c49f1db8096a0bb6&tid=gt&id=18
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://logo.catvod.com/凤凰卫视.png" group-title="未分组",凤凰卫视
+video://https://345iptv.com/?act=play&token=10135175d053d48d6383ec73fba87173&tid=gt&id=1
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="未分组",凤凰资讯
+video://https://345iptv.com/?act=play&token=ca3e963811d6e0bae65f484b943a7ce1&tid=gt&id=2
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="未分组",凤凰香港
+video://https://345iptv.com/?act=play&token=11cf6972bad3a67fd29badaae3b77e74&tid=gt&id=3
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="未分组",翡翠台
+video://https://345iptv.com/?act=play&token=c1d1a6222cbb5e8b03a84b7ba948d012&tid=gt&id=5
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="未分组",无线新闻
+video://https://345iptv.com/?act=play&token=cff9e83f4d27a11bb6e3edd876f78660&tid=gt&id=6
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://logo.catvod.com/TVB PLUS.png" group-title="未分组",TVB PLUS
+video://https://345iptv.com/?act=play&token=77d5d18a35d324ef7a779038f55cf1cb&tid=gt&id=8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="未分组",明珠台
+video://https://345iptv.com/?act=play&token=57e6228396e8101d980c4b2d280e5b8a&tid=gt&id=9
+#EXTINF:-1 tvg-name="有限新闻台" tvg-logo="https://logo.catvod.com/有限新闻台.png" group-title="未分组",有限新闻台
+video://https://345iptv.com/?act=play&token=ec3d05b8d08481e0d4aa58433dc80ebc&tid=gt&id=11
+#EXTINF:-1 tvg-name="18台" tvg-logo="https://logo.catvod.com/18台.png" group-title="未分组",18台
+video://https://345iptv.com/?act=play&token=1fc44ae83c4771b6a3619aba71f08159&tid=gt&id=12
+#EXTINF:-1 tvg-name="Now直播" tvg-logo="https://logo.catvod.com/Now直播.png" group-title="未分组",Now直播
+video://https://345iptv.com/?act=play&token=d9570e0bf4b9e3cd85e0ee06e91b47c0&tid=gt&id=16
+#EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://logo.catvod.com/Now新闻.png" group-title="未分组",Now新闻
+video://https://345iptv.com/?act=play&token=00410d9db241ee568459c8b7c41964de&tid=gt&id=17
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://logo.catvod.com/ViuTV.png" group-title="未分组",ViuTV
+video://https://345iptv.com/?act=play&token=68ef49b8877aae937df17b28f5fcb9b7&tid=gt&id=19
+#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://logo.catvod.com/ViuTV6.png" group-title="未分组",ViuTV6
+video://https://345iptv.com/?act=play&token=a750b267ab6055cbac0b9af97d417340&tid=gt&id=20
+#EXTINF:-1 tvg-name="HOY国际财经" tvg-logo="https://logo.catvod.com/HOY国际财经.png" group-title="未分组",HOY国际财经
+video://https://345iptv.com/?act=play&token=493a6dc03437030be5ca26089d3ae11f&tid=gt&id=22
+#EXTINF:-1 tvg-name="HOY资讯" tvg-logo="https://logo.catvod.com/HOY资讯.png" group-title="未分组",HOY资讯
+video://https://345iptv.com/?act=play&token=2c43ddac7c53a68f5e1b93d8a061efe7&tid=gt&id=23
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://logo.catvod.com/HOY TV.png" group-title="未分组",HOY TV
+video://https://345iptv.com/?act=play&token=5468e8ccfcd527bd9f08b09b3dab06ca&tid=gt&id=24
+#EXTINF:-1 tvg-name="港台31" tvg-logo="https://logo.catvod.com/港台31.png" group-title="未分组",港台31
+video://https://345iptv.com/?act=play&token=0822b3c51ab6f2afd8ca72f18201716a&tid=gt&id=26
+#EXTINF:-1 tvg-name="港台32" tvg-logo="https://logo.catvod.com/港台32.png" group-title="未分组",港台32
+video://https://345iptv.com/?act=play&token=7a2e94795e3f817adccfd25d81ea9a53&tid=gt&id=27
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://logo.catvod.com/香港卫视.png" group-title="未分组",香港卫视
+video://https://345iptv.com/?act=play&token=e00a283614dae222db3627f0327b5e5b&tid=gt&id=30
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://logo.catvod.com/澳门莲花.png" group-title="未分组",澳门莲花
+video://https://345iptv.com/?act=play&token=73700b471b6e63e31d590052f2094e65&tid=gt&id=35
+#EXTINF:-1 tvg-name="澳门卫视" tvg-logo="https://logo.catvod.com/澳门卫视.png" group-title="未分组",澳门卫视
+video://https://345iptv.com/?act=play&token=6e66a36ca5354acfc97855a322d16fcc&tid=gt&id=36
+#EXTINF:-1 tvg-name="澳门资讯" tvg-logo="https://logo.catvod.com/澳门资讯.png" group-title="未分组",澳门资讯
+video://https://345iptv.com/?act=play&token=65fa811f82b29602b928fd3eaa2d50a5&tid=gt&id=37
+#EXTINF:-1 tvg-name="澳门macau" tvg-logo="https://logo.catvod.com/澳门macau.png" group-title="未分组",澳门macau
+video://https://345iptv.com/?act=play&token=f96b0834001771866bc4582818a569e7&tid=gt&id=39
+#EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://logo.catvod.com/澳门综艺.png" group-title="未分组",澳门综艺
+video://https://345iptv.com/?act=play&token=25e6b72e099c09a8fa563fb794f3c113&tid=gt&id=40
+#EXTINF:-1 tvg-name="奥亚卫视" tvg-logo="https://logo.catvod.com/奥亚卫视.png" group-title="未分组",奥亚卫视
+video://https://345iptv.com/?act=play&token=2b52a8c11856e83ce1b7bdf3a1e6bcf7&tid=gt&id=41
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="未分组",中天新闻
+video://https://345iptv.com/?act=play&token=36483455601c7951c15cccd6f5424413&tid=gt&id=43
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="未分组",东森新闻
+video://https://345iptv.com/?act=play&token=686cd0ee20a28a1bb455f80e5a9b024a&tid=gt&id=44
+#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://logo.catvod.com/东森财经.png" group-title="未分组",东森财经
+video://https://345iptv.com/?act=play&token=e783b24c80d74a808b8748d4c6a68eac&tid=gt&id=45
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="未分组",中视新闻
+video://https://345iptv.com/?act=play&token=3028c4ecc051abd1b299884388e29d99&tid=gt&id=46
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://logo.catvod.com/台视新闻.png" group-title="未分组",台视新闻
+video://https://345iptv.com/?act=play&token=d616adfb20e762549a69105a341cbe29&tid=gt&id=47
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://logo.catvod.com/三立新闻.png" group-title="未分组",三立新闻
+video://https://345iptv.com/?act=play&token=8d567db00438f4f0b2b1b712449d3a19&tid=gt&id=48
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://logo.catvod.com/民视新闻.png" group-title="未分组",民视新闻
+video://https://345iptv.com/?act=play&token=7315344dad2e4c8bd46e55554751ca5f&tid=gt&id=50
+#EXTINF:-1 tvg-name="華视新闻" tvg-logo="https://logo.catvod.com/華视新闻.png" group-title="未分组",華视新闻
+video://https://345iptv.com/?act=play&token=cb158bf78ba62e989aeca2e34519f68a&tid=gt&id=51
+#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://logo.catvod.com/镜新闻.png" group-title="未分组",镜新闻
+video://https://345iptv.com/?act=play&token=cb158bf78ba62e989aeca2e34519f68a&tid=gt&id=51
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="未分组",寰宇新闻
+video://https://345iptv.com/?act=play&token=b45beace3fad3d806d62ecc3916dc27d&tid=gt&id=53
+#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://logo.catvod.com/寰宇新闻台湾台.png" group-title="未分组",寰宇新闻台湾台
+video://https://345iptv.com/?act=play&token=4456fb9d091766d0cfbd820a3ae6bdc3&tid=gt&id=54
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="未分组",TVBS新闻
+video://https://345iptv.com/?act=play&token=cb48c4e17588b8d203dad8bb92ad7e48&tid=gt&id=55
+#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://logo.catvod.com/TVBS HD.png" group-title="未分组",TVBS HD
+video://https://345iptv.com/?act=play&token=50b2a86268f405d609fc87c92596f423&tid=gt&id=56
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://logo.catvod.com/TVBS欢乐台.png" group-title="未分组",TVBS欢乐台
+video://https://345iptv.com/?act=play&token=f030b99a4cfc91139f6d105c758ee2fc&tid=gt&id=57
+#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://logo.catvod.com/TVBS HD.png" group-title="未分组",TVBS HD
+video://https://345iptv.com/?act=play&token=50b2a86268f405d609fc87c92596f423&tid=gt&id=56
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://logo.catvod.com/TVBS欢乐.png" group-title="未分组",TVBS欢乐
+video://https://345iptv.com/?act=play&token=f030b99a4cfc91139f6d105c758ee2fc&tid=gt&id=57
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://logo.catvod.com/中视.png" group-title="未分组",中视
+video://https://345iptv.com/?act=play&token=f927da77528f434559b0b9c981748e0c&tid=gt&id=60
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://logo.catvod.com/台视.png" group-title="未分组",台视
+video://https://345iptv.com/?act=play&token=3a7df5c90ec5b22012938dd7d249f430&tid=gt&id=61
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://logo.catvod.com/民视.png" group-title="未分组",民视
+video://https://345iptv.com/?act=play&token=64344bc3c992c2e43f033542f1d99a3d&tid=gt&id=62
+#EXTINF:-1 tvg-name="華视" tvg-logo="https://logo.catvod.com/華视.png" group-title="未分组",華视
+video://https://345iptv.com/?act=play&token=fc3c41583ca33c59664a9e8b36b3ee0d&tid=gt&id=63
+#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="https://logo.catvod.com/三立台湾台.png" group-title="未分组",三立台湾台
+video://https://345iptv.com/?act=play&token=36611b4d2e4b575d2d2fc6c6048bd91f&tid=gt&id=65
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://logo.catvod.com/民视台湾台.png" group-title="未分组",民视台湾台
+video://https://345iptv.com/?act=play&token=1dc848f9265d3a15043335bb2773eaf5&tid=gt&id=67
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://logo.catvod.com/民视第一台.png" group-title="未分组",民视第一台
+video://https://345iptv.com/?act=play&token=ab338398c0d3dfc0847e90e21415f38d&tid=gt&id=68
+#EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://logo.catvod.com/民视综艺.png" group-title="未分组",民视综艺
+video://https://345iptv.com/?act=play&token=8acef94f3e9ed51b15d0c7bbddd873a5&tid=gt&id=69
+#EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://logo.catvod.com/民视旅游.png" group-title="未分组",民视旅游
+video://https://345iptv.com/?act=play&token=9dc1c3536c9f90db9666763bad64da5e&tid=gt&id=70
+#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://logo.catvod.com/民视影剧.png" group-title="未分组",民视影剧
+video://https://345iptv.com/?act=play&token=4e4e26bdadc71cbda101a0641f3d2716&tid=gt&id=71
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://logo.catvod.com/纬来体育.png" group-title="未分组",纬来体育
+video://https://345iptv.com/?act=play&token=8fdebed82ae3b9130888be1f66010f19&tid=gt&id=73
+#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://logo.catvod.com/纬来日本.png" group-title="未分组",纬来日本
+video://https://345iptv.com/?act=play&token=4dcb8fae76f636d3030446fc30aac9b1&tid=gt&id=74
+#EXTINF:-1 tvg-name="纬来娱乐" tvg-logo="https://logo.catvod.com/纬来娱乐.png" group-title="未分组",纬来娱乐
+video://https://345iptv.com/?act=play&token=99e695077e118f9ba2a7f027e74aa955&tid=gt&id=75
+#EXTINF:-1 tvg-name="DAZN1" tvg-logo="https://logo.catvod.com/DAZN1.png" group-title="未分组",DAZN1
+video://https://345iptv.com/?act=play&token=afdc21a609d5698907722743519be55d&tid=gt&id=76
+#EXTINF:-1 tvg-name="DAZN2" tvg-logo="https://logo.catvod.com/DAZN2.png" group-title="未分组",DAZN2
+video://https://345iptv.com/?act=play&token=e0833d9273c070ee91d101dfe683b8ac&tid=gt&id=77
+#EXTINF:-1 tvg-name="爱尔达1台" tvg-logo="https://logo.catvod.com/爱尔达1台.png" group-title="未分组",爱尔达1台
+video://https://345iptv.com/?act=play&token=963a897e991b7e2c52c99216a48518be&tid=gt&id=79
+#EXTINF:-1 tvg-name="爱尔达2台" tvg-logo="https://logo.catvod.com/爱尔达2台.png" group-title="未分组",爱尔达2台
+video://https://345iptv.com/?act=play&token=fa42431215226d64821cc705cffc2c71&tid=gt&id=80
+#EXTINF:-1 tvg-name="爱尔达3台" tvg-logo="https://logo.catvod.com/爱尔达3台.png" group-title="未分组",爱尔达3台
+video://https://345iptv.com/?act=play&token=49437f120d1ec6920a09b7cbcaf4b8c4&tid=gt&id=81
+#EXTINF:-1 tvg-name="爱尔达4台" tvg-logo="https://logo.catvod.com/爱尔达4台.png" group-title="未分组",爱尔达4台
+video://https://345iptv.com/?act=play&token=793f8656e2d5f86b44208a8985242e31&tid=gt&id=82
+#EXTINF:-1 tvg-name="大爱1" tvg-logo="https://logo.catvod.com/大爱1.png" group-title="未分组",大爱1
+video://https://345iptv.com/?act=play&token=2a7ac450f0a9377ae3e11e7d31dbe126&tid=gt&id=83
+#EXTINF:-1 tvg-name="大爱2" tvg-logo="https://logo.catvod.com/大爱2.png" group-title="未分组",大爱2
+video://https://345iptv.com/?act=play&token=84ba0bfbbf519e04263cf42b30ff6631&tid=gt&id=84
 
