@@ -2051,4 +2051,211 @@ video://https://345iptv.com/?act=play&token=793f8656e2d5f86b44208a8985242e31&tid
 video://https://345iptv.com/?act=play&token=2a7ac450f0a9377ae3e11e7d31dbe126&tid=gt&id=83
 #EXTINF:-1 tvg-name="大爱2" tvg-logo="https://logo.catvod.com/大爱2.png" group-title="未分组",大爱2
 video://https://345iptv.com/?act=play&token=84ba0bfbbf519e04263cf42b30ff6631&tid=gt&id=84
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="BBC 1" tvg-logo="https://logo.catvod.com/BBC 1.png" group-title="未分组",BBC 1
+http://223.18.103.169:8277/bbc1_antik/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC 2" tvg-logo="https://logo.catvod.com/BBC 2.png" group-title="未分组",BBC 2
+http://223.18.103.169:8277/bbc2_antik/playlist.m3u8
+#EXTINF:-1 tvg-name="Plus综合网页" tvg-logo="https://logo.catvod.com/Plus综合网页.png" group-title="未分组",Plus综合网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-25-0.html
+#EXTINF:-1 tvg-name="凤凰中文网页" tvg-logo="https://logo.catvod.com/凤凰中文网页.png" group-title="未分组",凤凰中文网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
+#EXTINF:-1 tvg-name="凤凰资讯网页" tvg-logo="https://logo.catvod.com/凤凰资讯网页.png" group-title="未分组",凤凰资讯网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
+#EXTINF:-1 tvg-name="凤凰香港网页" tvg-logo="https://logo.catvod.com/凤凰香港网页.png" group-title="未分组",凤凰香港网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-3-0.html
+#EXTINF:-1 tvg-name="有线新闻网页" tvg-logo="https://logo.catvod.com/有线新闻网页.png" group-title="未分组",有线新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
+#EXTINF:-1 tvg-name="有线新闻网页" tvg-logo="https://logo.catvod.com/有线新闻网页.png" group-title="未分组",有线新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-9-0.html
+#EXTINF:-1 tvg-name="无线新闻网页" tvg-logo="https://logo.catvod.com/无线新闻网页.png" group-title="未分组",无线新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-30-0.html
+#EXTINF:-1 tvg-name="Now新闻网页" tvg-logo="https://logo.catvod.com/Now新闻网页.png" group-title="未分组",Now新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-18-0.html
+#EXTINF:-1 tvg-name="无线翡翠网页" tvg-logo="https://logo.catvod.com/无线翡翠网页.png" group-title="未分组",无线翡翠网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-0-0.html
+#EXTINF:-1 tvg-name="无线华丽网页" tvg-logo="https://logo.catvod.com/无线华丽网页.png" group-title="未分组",无线华丽网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-1-0.html
+#EXTINF:-1 tvg-name="无线明珠网页" tvg-logo="https://logo.catvod.com/无线明珠网页.png" group-title="未分组",无线明珠网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-12-0.html
+#EXTINF:-1 tvg-name="无线娱乐网页" tvg-logo="https://logo.catvod.com/无线娱乐网页.png" group-title="未分组",无线娱乐网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-34-0.html
+#EXTINF:-1 tvg-name="有线综合网页" tvg-logo="https://logo.catvod.com/有线综合网页.png" group-title="未分组",有线综合网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-14-0.html
+#EXTINF:-1 tvg-name="有线赛讯网页" tvg-logo="https://logo.catvod.com/有线赛讯网页.png" group-title="未分组",有线赛讯网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-15-0.html
+#EXTINF:-1 tvg-name="有线赛马网页" tvg-logo="https://logo.catvod.com/有线赛马网页.png" group-title="未分组",有线赛马网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-35-0.html
+#EXTINF:-1 tvg-name="Now财经网页" tvg-logo="https://logo.catvod.com/Now财经网页.png" group-title="未分组",Now财经网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-17-0.html
+#EXTINF:-1 tvg-name="VIUTV-粤网页" tvg-logo="https://logo.catvod.com/VIUTV-粤网页.png" group-title="未分组",VIUTV-粤网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-10-0.html
+#EXTINF:-1 tvg-name="VIUTV-英网页" tvg-logo="https://logo.catvod.com/VIUTV-英网页.png" group-title="未分组",VIUTV-英网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-26-0.html
+#EXTINF:-1 tvg-name="RTHK-31网页" tvg-logo="https://logo.catvod.com/RTHK-31网页.png" group-title="未分组",RTHK-31网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-8-0.html
+#EXTINF:-1 tvg-name="美亚电影网页" tvg-logo="https://logo.catvod.com/美亚电影网页.png" group-title="未分组",美亚电影网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-11-0.html
+#EXTINF:-1 tvg-name="中天新闻网页" tvg-logo="https://logo.catvod.com/中天新闻网页.png" group-title="未分组",中天新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-20-0.html
+#EXTINF:-1 tvg-name="寰宇新闻网页" tvg-logo="https://logo.catvod.com/寰宇新闻网页.png" group-title="未分组",寰宇新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-35-0.html
+#EXTINF:-1 tvg-name="东森新闻网页" tvg-logo="https://logo.catvod.com/东森新闻网页.png" group-title="未分组",东森新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-21-0.html
+#EXTINF:-1 tvg-name="tvbs新闻网页" tvg-logo="https://logo.catvod.com/tvbs新闻网页.png" group-title="未分组",tvbs新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-167-0.html
+#EXTINF:-1 tvg-name="年代新闻网页" tvg-logo="https://logo.catvod.com/年代新闻网页.png" group-title="未分组",年代新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-43-0.html
+#EXTINF:-1 tvg-name="非凡新闻网页" tvg-logo="https://logo.catvod.com/非凡新闻网页.png" group-title="未分组",非凡新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-131-0.html
+#EXTINF:-1 tvg-name="闽镜新闻网页" tvg-logo="https://logo.catvod.com/闽镜新闻网页.png" group-title="未分组",闽镜新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-148-0.html
+#EXTINF:-1 tvg-name="民视新闻网页" tvg-logo="https://logo.catvod.com/民视新闻网页.png" group-title="未分组",民视新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-161-0.html
+#EXTINF:-1 tvg-name="华视新闻网页" tvg-logo="https://logo.catvod.com/华视新闻网页.png" group-title="未分组",华视新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-141-0.html
+#EXTINF:-1 tvg-name="台视新闻网页" tvg-logo="https://logo.catvod.com/台视新闻网页.png" group-title="未分组",台视新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-0.html
+#EXTINF:-1 tvg-name="公视闽南网页" tvg-logo="https://logo.catvod.com/公视闽南网页.png" group-title="未分组",公视闽南网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-139-0.html
+#EXTINF:-1 tvg-name="民视闽南网页" tvg-logo="https://logo.catvod.com/民视闽南网页.png" group-title="未分组",民视闽南网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-117-0.html
+#EXTINF:-1 tvg-name="中视闽南网页" tvg-logo="https://logo.catvod.com/中视闽南网页.png" group-title="未分组",中视闽南网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-118-0.html
+#EXTINF:-1 tvg-name="华视闽南网页" tvg-logo="https://logo.catvod.com/华视闽南网页.png" group-title="未分组",华视闽南网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-111-0.html
+#EXTINF:-1 tvg-name="台视闽南网页" tvg-logo="https://logo.catvod.com/台视闽南网页.png" group-title="未分组",台视闽南网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-113-0.html
+#EXTINF:-1 tvg-name="tvbs闽南网页" tvg-logo="https://logo.catvod.com/tvbs闽南网页.png" group-title="未分组",tvbs闽南网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-164-0.html
+#EXTINF:-1 tvg-name="民视第一网页" tvg-logo="https://logo.catvod.com/民视第一网页.png" group-title="未分组",民视第一网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-96-0.html
+#EXTINF:-1 tvg-name="民视旅游网页" tvg-logo="https://logo.catvod.com/民视旅游网页.png" group-title="未分组",民视旅游网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-112-0.html
+#EXTINF:-1 tvg-name="民视综艺网页" tvg-logo="https://logo.catvod.com/民视综艺网页.png" group-title="未分组",民视综艺网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-114-0.html
+#EXTINF:-1 tvg-name="中视经典网页" tvg-logo="https://logo.catvod.com/中视经典网页.png" group-title="未分组",中视经典网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-166-0.html
+#EXTINF:-1 tvg-name="中视精采网页" tvg-logo="https://logo.catvod.com/中视精采网页.png" group-title="未分组",中视精采网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-165-0.html
+#EXTINF:-1 tvg-name="中天综合网页" tvg-logo="https://logo.catvod.com/中天综合网页.png" group-title="未分组",中天综合网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-132-0.html
+#EXTINF:-1 tvg-name="中天亚州网页" tvg-logo="https://logo.catvod.com/中天亚州网页.png" group-title="未分组",中天亚州网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-129-0.html
+#EXTINF:-1 tvg-name="台视财经网页" tvg-logo="https://logo.catvod.com/台视财经网页.png" group-title="未分组",台视财经网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-140-0.html
+#EXTINF:-1 tvg-name="东森财经网页" tvg-logo="https://logo.catvod.com/东森财经网页.png" group-title="未分组",东森财经网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-168-0.html
+#EXTINF:-1 tvg-name="三立综合网页" tvg-logo="https://logo.catvod.com/三立综合网页.png" group-title="未分组",三立综合网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-143-0.html
+#EXTINF:-1 tvg-name="三立台湾网页" tvg-logo="https://logo.catvod.com/三立台湾网页.png" group-title="未分组",三立台湾网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-145-0.html
+#EXTINF:-1 tvg-name="八大第一网页" tvg-logo="https://logo.catvod.com/八大第一网页.png" group-title="未分组",八大第一网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-36-0.html
+#EXTINF:-1 tvg-name="八大综合网页" tvg-logo="https://logo.catvod.com/八大综合网页.png" group-title="未分组",八大综合网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-47-0.html
+#EXTINF:-1 tvg-name="八大精彩网页" tvg-logo="https://logo.catvod.com/八大精彩网页.png" group-title="未分组",八大精彩网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-8-0.html
+#EXTINF:-1 tvg-name="龙华偶像网页" tvg-logo="https://logo.catvod.com/龙华偶像网页.png" group-title="未分组",龙华偶像网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-103-0.html
+#EXTINF:-1 tvg-name="龙华日韩网页" tvg-logo="https://logo.catvod.com/龙华日韩网页.png" group-title="未分组",龙华日韩网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-104-0.html
+#EXTINF:-1 tvg-name="龙华卡通网页" tvg-logo="https://logo.catvod.com/龙华卡通网页.png" group-title="未分组",龙华卡通网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-102-0.html
+#EXTINF:-1 tvg-name="龙华经典网页" tvg-logo="https://logo.catvod.com/龙华经典网页.png" group-title="未分组",龙华经典网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-101-0.html
+#EXTINF:-1 tvg-name="纬来育乐网页" tvg-logo="https://logo.catvod.com/纬来育乐网页.png" group-title="未分组",纬来育乐网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-171-0.html
+#EXTINF:-1 tvg-name="东森超视网页" tvg-logo="https://logo.catvod.com/东森超视网页.png" group-title="未分组",东森超视网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-25-0.html
+#EXTINF:-1 tvg-name="MO_综合网页" tvg-logo="https://logo.catvod.com/MO_综合网页.png" group-title="未分组",MO_综合网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-53-0.html
+#EXTINF:-1 tvg-name="闽南戏剧网页" tvg-logo="https://logo.catvod.com/闽南戏剧网页.png" group-title="未分组",闽南戏剧网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-149-0.html
+#EXTINF:-1 tvg-name="非凡商业网页" tvg-logo="https://logo.catvod.com/非凡商业网页.png" group-title="未分组",非凡商业网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-60-0.html
+#EXTINF:-1 tvg-name="靖天综合网页" tvg-logo="https://logo.catvod.com/靖天综合网页.png" group-title="未分组",靖天综合网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-94-0.html
+#EXTINF:-1 tvg-name="靖天日本网页" tvg-logo="https://logo.catvod.com/靖天日本网页.png" group-title="未分组",靖天日本网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-90-0.html
+#EXTINF:-1 tvg-name="靖天国际网页" tvg-logo="https://logo.catvod.com/靖天国际网页.png" group-title="未分组",靖天国际网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-87-0.html
+#EXTINF:-1 tvg-name="靖天育乐网页" tvg-logo="https://logo.catvod.com/靖天育乐网页.png" group-title="未分组",靖天育乐网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-93-0.html
+#EXTINF:-1 tvg-name="靖天戏剧网页" tvg-logo="https://logo.catvod.com/靖天戏剧网页.png" group-title="未分组",靖天戏剧网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-91-0.html
+#EXTINF:-1 tvg-name="靖天欢乐网页" tvg-logo="https://logo.catvod.com/靖天欢乐网页.png" group-title="未分组",靖天欢乐网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-88-0.html
+#EXTINF:-1 tvg-name="靖天电影网页" tvg-logo="https://logo.catvod.com/靖天电影网页.png" group-title="未分组",靖天电影网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-86-0.html
+#EXTINF:-1 tvg-name="靖天资讯网页" tvg-logo="https://logo.catvod.com/靖天资讯网页.png" group-title="未分组",靖天资讯网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-95-0.html
+#EXTINF:-1 tvg-name="靖洋卡通网页" tvg-logo="https://logo.catvod.com/靖洋卡通网页.png" group-title="未分组",靖洋卡通网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-97-0.html
+#EXTINF:-1 tvg-name="靖洋戏剧网页" tvg-logo="https://logo.catvod.com/靖洋戏剧网页.png" group-title="未分组",靖洋戏剧网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-98-0.html
+#EXTINF:-1 tvg-name="闽南'Plus网页" tvg-logo="https://logo.catvod.com/闽南'Plus网页.png" group-title="未分组",闽南'Plus网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-135-0.html
+#EXTINF:-1 tvg-name="ELta体壹网页" tvg-logo="https://logo.catvod.com/ELta体壹网页.png" group-title="未分组",ELta体壹网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-155-0.html
+#EXTINF:-1 tvg-name="ELta体贰网页" tvg-logo="https://logo.catvod.com/ELta体贰网页.png" group-title="未分组",ELta体贰网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-28-0.html
+#EXTINF:-1 tvg-name="ELta体肆网页" tvg-logo="https://logo.catvod.com/ELta体肆网页.png" group-title="未分组",ELta体肆网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-50-0.html
+#EXTINF:-1 tvg-name="DNZA-壹网页" tvg-logo="https://logo.catvod.com/DNZA-壹网页.png" group-title="未分组",DNZA-壹网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-153-0.html
+#EXTINF:-1 tvg-name="DNZA-贰网页" tvg-logo="https://logo.catvod.com/DNZA-贰网页.png" group-title="未分组",DNZA-贰网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-152-0.html
+#EXTINF:-1 tvg-name="好莱电影网页" tvg-logo="https://logo.catvod.com/好莱电影网页.png" group-title="未分组",好莱电影网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-38-0.html
+#EXTINF:-1 tvg-name="Amc电影网页" tvg-logo="https://logo.catvod.com/Amc电影网页.png" group-title="未分组",Amc电影网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-1-0.html
+#EXTINF:-1 tvg-name="FgM电影网页" tvg-logo="https://logo.catvod.com/FgM电影网页.png" group-title="未分组",FgM电影网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-159-0.html
+#EXTINF:-1 tvg-name="影迷纪实网页" tvg-logo="https://logo.catvod.com/影迷纪实网页.png" group-title="未分组",影迷纪实网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-160-0.html
+#EXTINF:-1 tvg-name="采昌影剧网页" tvg-logo="https://logo.catvod.com/采昌影剧网页.png" group-title="未分组",采昌影剧网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-21-0.html
+#EXTINF:-1 tvg-name="国会频壹网页" tvg-logo="https://logo.catvod.com/国会频壹网页.png" group-title="未分组",国会频壹网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-64-0.html
+#EXTINF:-1 tvg-name="国会频贰网页" tvg-logo="https://logo.catvod.com/国会频贰网页.png" group-title="未分组",国会频贰网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-65-0.html
+#EXTINF:-1 tvg-name="好消息壹网页" tvg-logo="https://logo.catvod.com/好消息壹网页.png" group-title="未分组",好消息壹网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-66-0.html
+#EXTINF:-1 tvg-name="好消息贰网页" tvg-logo="https://logo.catvod.com/好消息贰网页.png" group-title="未分组",好消息贰网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-67-0.html
+#EXTINF:-1 tvg-name="Smart-综网页" tvg-logo="https://logo.catvod.com/Smart-综网页.png" group-title="未分组",Smart-综网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-133-0.html
+#EXTINF:-1 tvg-name="客家电视网页" tvg-logo="https://logo.catvod.com/客家电视网页.png" group-title="未分组",客家电视网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-72-0.html
+#EXTINF:-1 tvg-name="韩国娱乐网页" tvg-logo="https://logo.catvod.com/韩国娱乐网页.png" group-title="未分组",韩国娱乐网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-77-0.html
+#EXTINF:-1 tvg-name="阿里郎频网页" tvg-logo="https://logo.catvod.com/阿里郎频网页.png" group-title="未分组",阿里郎频网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-3-0.html
+#EXTINF:-1 tvg-name="生活英语网页" tvg-logo="https://logo.catvod.com/生活英语网页.png" group-title="未分组",生活英语网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-57-0.html
+#EXTINF:-1 tvg-name="时尚运动网页" tvg-logo="https://logo.catvod.com/时尚运动网页.png" group-title="未分组",时尚运动网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-134-0.html
+#EXTINF:-1 tvg-name="追踪体育网页" tvg-logo="https://logo.catvod.com/追踪体育网页.png" group-title="未分组",追踪体育网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-137-0.html
+#EXTINF:-1 tvg-name="追踪城市网页" tvg-logo="https://logo.catvod.com/追踪城市网页.png" group-title="未分组",追踪城市网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-138-0.html
+#EXTINF:-1 tvg-name="达芬奇综网页" tvg-logo="https://logo.catvod.com/达芬奇综网页.png" group-title="未分组",达芬奇综网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-27-0.html
+#EXTINF:-1 tvg-name="博斯高球贰页" tvg-logo="https://logo.catvod.com/博斯高球贰页.png" group-title="未分组",博斯高球贰页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-14-0.html
+#EXTINF:-1 tvg-name="博斯无限壹页" tvg-logo="https://logo.catvod.com/博斯无限壹页.png" group-title="未分组",博斯无限壹页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-17-0.html
+#EXTINF:-1 tvg-name="博斯无限贰页" tvg-logo="https://logo.catvod.com/博斯无限贰页.png" group-title="未分组",博斯无限贰页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-18-0.html
+#EXTINF:-1 tvg-name="博斯运动壹页" tvg-logo="https://logo.catvod.com/博斯运动壹页.png" group-title="未分组",博斯运动壹页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-19-0.html
+#EXTINF:-1 tvg-name="博斯运动贰页" tvg-logo="https://logo.catvod.com/博斯运动贰页.png" group-title="未分组",博斯运动贰页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-20-0.html
+#EXTINF:-1 tvg-name="智林体育网页" tvg-logo="https://logo.catvod.com/智林体育网页.png" group-title="未分组",智林体育网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-163-0.html
+#EXTINF:-1 tvg-name="亚洲旅游网页" tvg-logo="https://logo.catvod.com/亚洲旅游网页.png" group-title="未分组",亚洲旅游网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-162-0.html
+#EXTINF:-1 tvg-name="cNN新闻网页" tvg-logo="https://logo.catvod.com/cNN新闻网页.png" group-title="未分组",cNN新闻网页
+video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-78-0.html
 
