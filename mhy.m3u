@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title=河南联通,凤凰中文高清
+http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 group-title=河南联通,凤凰资讯高清
+http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 group-title=河南联通,凤凰香港高清
+http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 group-title=河南联通,CCTV-1 1M 576
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227128/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title=河南联通,CCTV-1 4M 576
